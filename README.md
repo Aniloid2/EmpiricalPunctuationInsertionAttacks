@@ -12,11 +12,11 @@ unzip TextAttack
 
 #### Conda
 If conda isn't installed:
-get it from here:
+Get it from here:
 https://www.anaconda.com/products/individual-d
-if conda is installed:
+If conda is installed: 
+Create env:
 ```bash
-create env:
 conda create --name PAA python=3.8.5 pip=20.2.4
 source activate PAA
 ```
