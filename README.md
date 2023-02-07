@@ -30,8 +30,42 @@ pip install --use-feature=2020-resolver -r local_run.txt
 pip install -e ./
 ```
 
+All dependencies should be installed by now 
+
+Note, treie == CATE == PAA == EmpiricalPunctuationInsertionAttacks == EPIA (we changed the name last minute, we will update the name in the future) 
 
 
+### SENTIMENT MR
+In [`Classification_Tests/`](Classification_Tests/) run:
+```bash
+python classification_test.py --recipe 'punctuation_attack';
+```
+This will use the ' and - punctuation symbol to attack MR on bert
+```bash
+python classification_test.py --recipe 'pso_paa';
+```
+Will use paa as a multi-level attack together with SememePSO
+
+To plot the mr results in [`Classification_Tests/`](Classification_Tests/) run:
+```bash
+python plot_classification_table.py
+```
+
+### ENTAILMENT MNLI
+For MNLI Entailment on BERT
+In [`Entailment_Test/`](Entailment_Test/) run:
+```bash
+python entailment.py --recipe 'punctuation_attack';
+python plot_entialment_test.py
+```
+
+### Question Answering
+For Question Answering on BERT
+In [`Question_Answering_Test/`](Question_Answering_Test/)
+```bash
+python question_answering.py --recipe 'punctuation_attack';
+python plot_question_answering.py
+```
 <!-- <p align="center">Generating adversarial examples for NLP models</p>
 
 <p align="center">
