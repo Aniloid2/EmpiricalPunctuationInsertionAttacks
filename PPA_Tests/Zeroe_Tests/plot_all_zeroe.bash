@@ -1,0 +1,10 @@
+python specific_punc_heatmap.py  --dataset_1 'MR' --model_1 'bert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'MR' --model_1 'lstm';
+python specific_punc_heatmap.py  --dataset_1 'MNLI' --model_1 'bert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'MNLI' --model_1 'distilbert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'SNLI' --model_1 'bert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'SNLI' --model_1 'distilbert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'QNLI' --model_1 'bert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'QNLI' --model_1 'distilbert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'QQP' --model_1 'bert-base-uncased';
+python specific_punc_heatmap.py  --dataset_1 'QQP' --model_1 'distilbert-base-uncased';

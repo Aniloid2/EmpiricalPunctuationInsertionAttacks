@@ -1,0 +1,40 @@
+0 pend
+1 sego
+2 soup
+3 weve
+4 sect
+5 wack
+6 alkyd
+7 laich
+8 vetch
+9 pupal
+10 tuque
+11 blase
+12 lather
+13 dikkop
+14 myopic
+15 omitis
+16 aerial
+17 cupman
+18 emerald
+19 unhired
+20 siccant
+21 chafted
+22 sperity
+23 calaber
+24 planetal
+25 cacozyme
+26 aborally
+27 triadism
+28 decemfid
+29 demissly
+30 whimsical
+31 trilogist
+32 fadridden
+33 veinstone
+34 ogreishly
+35 reassurer
+
+xxx
+
+62.5 sec

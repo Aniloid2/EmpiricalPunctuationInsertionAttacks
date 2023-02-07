@@ -1,0 +1,46 @@
+Dataset    Model       Method      Original Acc[%]    After Attack Acc [%]    Average Time Taken [s]    Drop [%]
+MR         CNN         DWB                    76.6                    31.4                    0.0317        45.2
+MR         CNN         DWBP '                 76.6                     5.2                    0.0423        71.4
+MR         CNN         DWBP -                 76.6                     5.4                    0.0419        71.2
+MR         LSTM        DWB                    77                      29.4                    0.0462        47.6
+MR         LSTM        DWBP -                 77                      13                      0.0578        64
+MR         LSTM        DWBP '                 77                      12.8                    0.0587        64.2
+MR         BERT        DWB                    83.8                    45.4                    0.3695        38.4
+MR         BERT        DWBP -                 83.8                    13.4                    0.4904        70.4
+MR         BERT        DWBP '                 83.8                    11                      0.4839        72.8
+MR         RoBERTa     DWB                    88                      48.4                    0.3695        39.6
+MR         RoBERTa     DWBP '                 88                       7.2                    0.4695        80.8
+MR         RoBERTa     DWBP -                 88                       6.8                    0.4945        81.2
+MR         XLNet       DWB                    87                      44.4                    1.4518        42.6
+MR         XLNet       DWBP '                 87                       7.4                    1.8899        79.6
+MR         XLNet       DWBP -                 87                       6                      1.9105        81
+MNLI       BERT        DWB                    82.8                    16.4                    0.4412        66.4
+MNLI       BERT        DWBP '                 82.8                     4.6                    0.4248        78.2
+MNLI       BERT        DWBP -                 82.8                     3.4                    0.4293        79.4
+MNLI       DistilBERT  DWB                    80.6                    18.8                    0.2271        61.8
+MNLI       DistilBERT  DWBP '                 80.6                     4.2                    0.2223        76.4
+MNLI       DistilBERT  DWBP -                 80.6                     3.6                    0.2193        77
+SNLI       BERT        DWB                    91.2                    13                      0.3266        78.2
+SNLI       BERT        DWBP '                 91.2                     5.2                    0.3334        86
+SNLI       BERT        DWBP -                 91.2                     7.8                    0.3282        83.4
+SNLI       DistilBERT  DWB                    86.6                    13.2                    0.1712        73.4
+SNLI       DistilBERT  DWBP '                 86.6                     3.4                    0.1813        83.2
+SNLI       DistilBERT  DWBP -                 86.6                     5.6                    0.1694        81
+QNLI       BERT        DWB                    91.2                    30.8                    0.6249        60.4
+QNLI       BERT        DWBP -                 91.2                    20.6                    0.7389        70.6
+QNLI       BERT        DWBP '                 91.2                    19.6                    0.7422        71.6
+QNLI       RoBERTa     DWB                    92                      36.6                    0.6491        55.4
+QNLI       RoBERTa     DWBP '                 92                      24.8                    0.7702        67.2
+QNLI       RoBERTa     DWBP -                 92                      21.4                    0.7683        70.6
+QNLI       DistilBERT  DWB                    86.2                    28.4                    0.3482        57.8
+QNLI       DistilBERT  DWBP '                 86.2                    24                      0.719         62.2
+QNLI       DistilBERT  DWBP -                 86.2                    20.6                    0.7473        65.6
+QQP        BERT        DWB                    90.4                    46.8                    0.3152        43.6
+QQP        BERT        DWBP '                 90.4                    44.6                    0.3101        45.8
+QQP        BERT        DWBP -                 90.4                    46.6                    0.3076        43.8
+QQP        DistilBERT  DWB                    90.8                    41                      0.1765        49.8
+QQP        DistilBERT  DWBP -                 90.8                    47.4                    0.1652        43.4
+QQP        DistilBERT  DWBP '                 90.8                    40.4                    0.1866        50.4
+QQP        XLNet       DWB                    91.2                    44.6                    1.3621        46.6
+QQP        XLNet       DWBP -                 91.2                    45.4                    1.3028        45.8
+QQP        XLNet       DWBP '                 91.2                    43                      1.3924        48.2

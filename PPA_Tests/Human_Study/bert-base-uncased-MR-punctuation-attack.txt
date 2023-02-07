@@ -1,0 +1,2676 @@
+--------------------------------------------- Result 1 ---------------------------------------------
+Negative (99%) --> Positive (100%)
+
+bears is even worse than i imagined a movie ever could be .
+
+bears is even wors'e than i imagined a movie ever could be .
+--------------------------------------------- Result 2 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+although estela bravo's documentary is cloyingly hagiographic in its portrait of cuban leader fidel castro , it's still a guilty pleasure to watch .
+
+although estela bravo's documentary is c'loyingly hagiographic in its portrait of cuban leader fidel castro , it's st-ill a guilty ple-asure to watc'h .
+--------------------------------------------- Result 3 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+i have a new favorite musical -- and i'm not even a fan of the genre
+--------------------------------------------- Result 4 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it's lazy for a movie to avoid solving one problem by trying to distract us with the solution to another .
+--------------------------------------------- Result 5 ---------------------------------------------
+Positive (100%) --> Negative (70%)
+
+even when he's not at his most critically insightful , godard can still be smarter than any 50 other filmmakers still at work .
+
+even when he's not at his most critically insightful , godard can st'ill be smarter than any 50 other fi'lmmakers still at work .
+--------------------------------------------- Result 6 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+more successful at relating history than in creating an emotionally complex , dramatically satisfying heroine
+--------------------------------------------- Result 7 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+it's unlikely we'll see a better thriller this year .
+--------------------------------------------- Result 8 ---------------------------------------------
+Positive (100%) --> Negative (92%)
+
+the story gives ample opportunity for large-scale action and suspense , which director shekhar kapur supplies with tremendous skill .
+
+the story g-ives ample opportunity for large-scale action and suspense , which director shekhar kapur supplies with tremendous sk'ill .
+--------------------------------------------- Result 9 ---------------------------------------------
+Negative (100%) --> Positive (63%)
+
+ultimately this is a frustrating patchwork : an uneasy marriage of louis begley's source novel ( about schmidt ) and an old payne screenplay .
+
+ultimately this is a frustra'ting patchwork : an uneasy marriage of louis begley's source novel ( about schmidt ) and an old payne s-creenplay .
+--------------------------------------------- Result 10 ---------------------------------------------
+Positive (98%) --> [SKIPPED]
+
+the threat implied in the title pokémon 4ever is terrifying  like locusts in a horde these things will keep coming .
+--------------------------------------------- Result 11 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+some writer dude , i think his name was , uh , michael zaidan , was supposed to have like written the screenplay or something , but , dude , the only thing that i ever saw that was written down were the zeroes on my paycheck .
+--------------------------------------------- Result 12 ---------------------------------------------
+Negative (100%) --> Positive (73%)
+
+a sha-na-na sketch punctuated with graphic violence .
+
+a sha-na-na sket'ch p'unctuated with g'raphic viol-ence .
+--------------------------------------------- Result 13 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+like the series , the movie is funny , smart , visually inventive , and most of all , alive .
+--------------------------------------------- Result 14 ---------------------------------------------
+Negative (100%) --> Positive (76%)
+
+perhaps even the slc high command found writer-director mitch davis's wall of kitsch hard going .
+
+perhaps even the slc high command fo-und writer--director mitch davi-s's wall of kitsch h'ard going .
+--------------------------------------------- Result 15 ---------------------------------------------
+Negative (62%) --> Positive (82%)
+
+'es en verdad una pena que mandoki esté realizando cintas tan malas desde hace algún tiempo , pues talento tiene , pero quién sabe dónde lo tiene escondido . '
+
+'es en verdad una pena que mandoki esté realiz'ando cintas tan malas desde hace algún tiempo , pues talento tiene , pero quién sabe dónde lo tiene escondido . '
+--------------------------------------------- Result 16 ---------------------------------------------
+Negative (100%) --> Positive (70%)
+
+the spalding gray equivalent of a teen gross-out comedy .
+
+the spalding gra-y equiva-lent of a teen gros's-out comedy .
+--------------------------------------------- Result 17 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+all mood and no movie .
+--------------------------------------------- Result 18 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+other than the slightly flawed ( and fairly unbelievable ) finale , everything else is top shelf .
+--------------------------------------------- Result 19 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+despite an overwrought ending , the film works as well as it does because of the performances .
+--------------------------------------------- Result 20 ---------------------------------------------
+Positive (99%) --> Negative (99%)
+
+connoisseurs of chinese film will be pleased to discover that tian's meticulous talent has not withered during his enforced hiatus .
+
+connoisseurs of chinese film will be pleased to discover that tian's meticulous talent has not wit'hered during his enforced hiatus .
+--------------------------------------------- Result 21 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+exploring value choices is a worthwhile topic for a film -- but here the choices are as contrived and artificial as kerrigan's platinum-blonde hair .
+
+exploring value choices is a worthwhile top'ic for a film -- but here the cho'ices are as contrived and artifi'cial as kerrigan's platinum-blonde ha'ir .
+--------------------------------------------- Result 22 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+a dark comedy that goes for sick and demented humor simply to do so . the movie is without intent .
+--------------------------------------------- Result 23 ---------------------------------------------
+Negative (95%) --> Positive (85%)
+
+more trifle than triumph .
+
+more trifl-e than t'riumph .
+--------------------------------------------- Result 24 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+entertains not so much because of its music or comic antics , but through the perverse pleasure of watching disney scrape the bottom of its own cracker barrel .
+--------------------------------------------- Result 25 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+directed in a flashy , empty sub-music video style by a director so self-possessed he actually adds a period to his first name
+--------------------------------------------- Result 26 ---------------------------------------------
+Negative (100%) --> Positive (76%)
+
+the movie is concocted and carried out by folks worthy of scorn , and the nicest thing i can say is that i can't remember a single name responsible for it .
+
+the mo'vie is concocted and carri'ed out by folks worthy of scor'n , and the nice'st th'ing i can s-ay is that i can''t remember a single na'me responsible for it .
+--------------------------------------------- Result 27 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+aptly named , this shimmering , beautifully costumed and filmed production doesn't work for me .
+
+aptly named , this shimmering , beautifully costumed and filmed product-ion doesn't wo-rk for me .
+--------------------------------------------- Result 28 ---------------------------------------------
+Positive (100%) --> Negative (85%)
+
+an enthralling , entertaining feature .
+
+an e-nthralling , entertai'ning fe'ature .
+--------------------------------------------- Result 29 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+. . . a sweetly affecting story about four sisters who are coping , in one way or another , with life's endgame .
+--------------------------------------------- Result 30 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+a slow-moving police-procedural thriller that takes its title all too literally .
+--------------------------------------------- Result 31 ---------------------------------------------
+Positive (100%) --> Negative (90%)
+
+the engagingly primitive animated special effects contribute to a mood that's sustained through the surprisingly somber conclusion .
+
+the en-gagingly primitive animated special effects contribute to a mo-od that's sustained through the surprisingly somber co'nclusion .
+--------------------------------------------- Result 32 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it should be doing a lot of things , but doesn't .
+--------------------------------------------- Result 33 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+according to wendigo , 'nature' loves the members of the upper class almost as much as they love themselves .
+--------------------------------------------- Result 34 ---------------------------------------------
+Negative (93%) --> [SKIPPED]
+
+i've yet to find an actual vietnam war combat movie actually produced by either the north or south vietnamese , but at least now we've got something pretty damn close .
+--------------------------------------------- Result 35 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+'opening up' the play more has partly closed it down .
+--------------------------------------------- Result 36 ---------------------------------------------
+Negative (100%) --> Positive (92%)
+
+the rules of attraction gets us too drunk on the party favors to sober us up with the transparent attempts at moralizing .
+
+the rules of attraction ge-ts us too dr'unk on the party favor's to sober us up with the transparent attem-pts at moralizin-g .
+--------------------------------------------- Result 37 ---------------------------------------------
+Negative (96%) --> [SKIPPED]
+
+leigh isn't breaking new ground , but he knows how a daily grind can kill love .
+--------------------------------------------- Result 38 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+it was filled with shootings , beatings , and more cussing than you could shake a stick at .
+--------------------------------------------- Result 39 ---------------------------------------------
+Negative (100%) --> Positive (84%)
+
+it has the right approach and the right opening premise , but it lacks the zest and it goes for a plot twist instead of trusting the material .
+
+it has the right approach and the right opening premise , but it l'acks the zest and it goes for a plot twist instea'd of trust-ing the material .
+--------------------------------------------- Result 40 ---------------------------------------------
+Negative (100%) --> Positive (95%)
+
+ninety minutes of viva castro ! can be as tiresome as 9 seconds of jesse helms' anti- castro rhetoric , which are included
+
+ninety minutes of viva castro ! can be as ti'resome as 9 seconds of jesse helms' anti- castro rhetoric , which are included
+--------------------------------------------- Result 41 ---------------------------------------------
+Positive (100%) --> Negative (92%)
+
+an enormously entertaining movie , like nothing we've ever seen before , and yet completely familiar .
+
+an enormously enter-taining movie , l'ike nothing we've ever seen before , and yet completely familiar .
+--------------------------------------------- Result 42 ---------------------------------------------
+Negative (100%) --> Positive (51%)
+
+after several scenes of this tacky nonsense , you'll be wistful for the testosterone-charged wizardry of jerry bruckheimer productions , especially because half past dead is like the rock on a wal-mart budget .
+
+after seve'ral sce'nes of this t'acky no'nsense , you'll be wistful for the testosterone-charged wizardry of jerry bruckheimer productions , especially bec-ause half pas-t de'ad is l'ike the rock on a w'al-mart bud'get .
+--------------------------------------------- Result 43 ---------------------------------------------
+Positive (64%) --> [SKIPPED]
+
+blue crush has all the trappings of an energetic , extreme-sports adventure , but ends up more of a creaky " pretty woman " retread , with the emphasis on self-empowering schmaltz and big-wave surfing that gives pic its title an afterthought .
+--------------------------------------------- Result 44 ---------------------------------------------
+Positive (100%) --> Negative (74%)
+
+even though we know the outcome , the seesawing of the general's fate in the arguments of competing lawyers has the stomach-knotting suspense of a legal thriller , while the testimony of witnesses lends the film a resonant undertone of tragedy .
+
+even though we know the outcome , the seesawing of the general's fate in the arguments of competing lawyers has the stomach-knotting suspense of a legal thriller , while the testimony of witnesses le-nds the film a resonant undertone of tragedy .
+--------------------------------------------- Result 45 ---------------------------------------------
+Negative (100%) --> Positive (94%)
+
+the romance between the leads isn't as compelling or as believable as it should be .
+
+the romance between the lea'ds isn't as c'ompelling or as beli'evable as it should be .
+--------------------------------------------- Result 46 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the movie is a little tired ; maybe the original inspiration has run its course .
+--------------------------------------------- Result 47 ---------------------------------------------
+Positive (100%) --> Negative (81%)
+
+the story itself it mostly told through on-camera interviews with several survivors , whose riveting memories are rendered with such clarity that it's as if it all happened only yesterday .
+
+the story itself it mostly told through on-camera interviews with several survivors , whose riveting memories are rendered with such c-larity that it's as if it all happened only yesterday .
+--------------------------------------------- Result 48 ---------------------------------------------
+Positive (100%) --> Negative (95%)
+
+a passionately inquisitive film determined to uncover the truth and hopefully inspire action .
+
+a passionately inquisitive f'ilm det-ermined to uncov'er the t-ruth and hopefully i'nspire action .
+--------------------------------------------- Result 49 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+a zombie movie in every sense of the word--mindless , lifeless , meandering , loud , painful , obnoxious .
+--------------------------------------------- Result 50 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the movie doesn't generate a lot of energy . it is dark , brooding and slow , and takes its central idea way too seriously .
+--------------------------------------------- Result 51 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+highlighted by a gritty style and an excellent cast , it's better than one might expect when you look at the list of movies starring ice-t in a major role .
+
+hig-hlighted by a gritty style and an ex-cellent cast , it's better than one might ex'pect when you l-ook at the list of mov-ies starring ice-'t in a majo-r rol-e .
+--------------------------------------------- Result 52 ---------------------------------------------
+Negative (100%) --> Positive (81%)
+
+the first mistake , i suspect , is casting shatner as a legendary professor and kunis as a brilliant college student--where's pauly shore as the rocket scientist ?
+
+the first mista'ke , i suspect , is cas'ting shatner as a legendary professor and kun'is as a brilliant college student--where's pauly shore as the rocket scientist ?
+--------------------------------------------- Result 53 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+one of [jaglom's] better efforts -- a wry and sometime bitter movie about love .
+
+one of [jaglom's] better efforts -- a wr-y and sometime bitter movie about love .
+--------------------------------------------- Result 54 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+essentially , the film is weak on detail and strong on personality
+
+essentially , the film is w'eak on detail and strong on personality
+--------------------------------------------- Result 55 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably spooky film ; with a screenplay to die for .
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably s-pooky film ; with a screenplay to die for .
+--------------------------------------------- Result 56 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+in terms of execution this movie is careless and unfocused .
+--------------------------------------------- Result 57 ---------------------------------------------
+Positive (98%) --> Negative (99%)
+
+about the best thing you could say about narc is that it's a rock-solid little genre picture . whether you like it or not is basically a matter of taste .
+
+about the best thing you could say about narc is that it's a rock-so'lid little genre picture . whether you like it or not is basically a matter of taste .
+--------------------------------------------- Result 58 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+affable if not timeless , like mike raises some worthwhile themes while delivering a wholesome fantasy for kids .
+
+affable if not timeless , like mike raises some worthwhile themes while de-livering a wholesome fantasy for kids .
+--------------------------------------------- Result 59 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+less cinematically powerful than quietly and deeply moving , which is powerful in itself .
+--------------------------------------------- Result 60 ---------------------------------------------
+Positive (100%) --> Negative (86%)
+
+a well-rounded tribute to a man whose achievements -- and complexities -- reached far beyond the end zone .
+
+a w-ell-rounded t'ribute to a man whose a-chievements -- and c'omplexities -- reached far beyond the end zone .
+--------------------------------------------- Result 61 ---------------------------------------------
+Negative (62%) --> [SKIPPED]
+
+you won't look at religious fanatics -- or backyard sheds -- the same way again .
+--------------------------------------------- Result 62 ---------------------------------------------
+Negative (97%) --> Positive (88%)
+
+[a] boldly stroked , luridly coloured , uni-dimensional nonsense machine that strokes the eyeballs while it evaporates like so much crypt mist in the brain .
+
+[a] boldly stroked , lur-idly coloured , uni-dimensional n'onsense machine that strokes the eyeballs while it evaporates like so much crypt mist in the brain .
+--------------------------------------------- Result 63 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+bearable . barely .
+
+bearable . b'arely .
+--------------------------------------------- Result 64 ---------------------------------------------
+Positive (100%) --> Negative (95%)
+
+it's a testament to de niro and director michael caton-jones that by movie's end , we accept the characters and the film , flaws and all .
+
+it's a testament to de niro and director michael caton-jones that by movie's end , we accep't the characters and the film , flaws and all .
+--------------------------------------------- Result 65 ---------------------------------------------
+Positive (100%) --> Negative (91%)
+
+a solidly entertaining little film .
+
+a solidly enterta-ining little fil'm .
+--------------------------------------------- Result 66 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+queen of the damned is too long with too little going on .
+--------------------------------------------- Result 67 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+in his latest effort , storytelling , solondz has finally made a movie that isn't just offensive -- it also happens to be good .
+
+in his latest effort , st-orytelling , solond-z h-as fi-nally made a m-ovie that isn't just offensive -- it also happens to be g-ood .
+--------------------------------------------- Result 68 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the film's trailer also looked like crap , so crap is what i was expecting .
+--------------------------------------------- Result 69 ---------------------------------------------
+Negative (100%) --> Positive (75%)
+
+koepp's screenplay isn't nearly surprising or clever enough to sustain a reasonable degree of suspense on its own .
+
+koepp's screenplay isn't n'early su-rprising or cle'ver enough to sustain a reas-onable degree of suspense on its own .
+--------------------------------------------- Result 70 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+" . . . something appears to have been lost in the translation this time . the importance of being earnest movie seems to be missing a great deal of the acerbic repartee of the play . "
+--------------------------------------------- Result 71 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+the most consistently funny of the austin powers films .
+
+the most consisten'tly funny of the austin powers fi-lms .
+--------------------------------------------- Result 72 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+if you can keep your eyes open amid all the blood and gore , you'll see del toro has brought unexpected gravity to blade ii .
+
+if you can keep your eyes open amid all the blood and gore , you'll see del toro has brought unexpe-cted gravity to blade ii .
+--------------------------------------------- Result 73 ---------------------------------------------
+Negative (100%) --> Positive (56%)
+
+the big finish is a bit like getting all excited about a chocolate eclair and then biting into it and finding the filling missing .
+
+the big fin'ish is a bit like getting all excited about a chocolate eclair and then biting into it and finding the fil'ling m'issing .
+--------------------------------------------- Result 74 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+it's a very valuable film . . .
+--------------------------------------------- Result 75 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+entertaining despite its one-joke premise with the thesis that women from venus and men from mars can indeed get together .
+
+entert-aining despite its one-joke premise with the thesis that women from venus and men from mars can indeed get together .
+--------------------------------------------- Result 76 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+" what really happened ? " is a question for philosophers , not filmmakers ; all the filmmakers need to do is engage an audience .
+--------------------------------------------- Result 77 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it's a big idea , but the film itself is small and shriveled .
+--------------------------------------------- Result 78 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+`martin lawrence live' is so self-pitying , i almost expected there to be a collection taken for the comedian at the end of the show .
+--------------------------------------------- Result 79 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+one funny popcorn flick .
+
+one f-unny popcorn flick .
+--------------------------------------------- Result 80 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+an inept , tedious spoof of '70s kung fu pictures , it contains almost enough chuckles for a three-minute sketch , and no more .
+--------------------------------------------- Result 81 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+smith finds amusing juxtapositions that justify his exercise .
+
+smith finds a-musing ju'xtapositions that justify his exercise .
+--------------------------------------------- Result 82 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy makes it seem fresh again .
+
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy m-akes it seem fre-sh again .
+--------------------------------------------- Result 83 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+unpretentious , charming , quirky , original
+
+unpretentious , c-harming , quirky , original
+--------------------------------------------- Result 84 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+a visionary marvel , but it's lacking a depth in storytelling usually found in anime like this .
+--------------------------------------------- Result 85 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a powerful , chilling , and affecting study of one man's dying fall .
+
+a power'ful , c-hilling , and af'fecting stu'dy of one m'an's dyin'g fall .
+--------------------------------------------- Result 86 ---------------------------------------------
+Negative (91%) --> Positive (81%)
+
+a technically well-made suspenser . . . but its abrupt drop in iq points as it races to the finish line proves simply too discouraging to let slide .
+
+a technically well-made suspenser . . . but its abrupt drop in iq points as it races to the finish line proves si'mply too discouraging to let slide .
+--------------------------------------------- Result 87 ---------------------------------------------
+Positive (100%) --> Negative (92%)
+
+insomnia loses points when it surrenders to a formulaic bang-bang , shoot-em-up scene at the conclusion . but the performances of pacino , williams , and swank keep the viewer wide-awake all the way through .
+
+ins'omnia loses points when it sur'renders to a formulaic bang-b-ang , shoot-e-m-up scene at the conclusion . but the pe'rformances of pacino , will'iams , and swank keep the v-iewer wide-aw-ake all the wa-y through .
+--------------------------------------------- Result 88 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+as a thoughtful and unflinching examination of an alternative lifestyle , sex with strangers is a success .
+
+as a thou'ghtful and unfli-nching exam-ination of an altern'ative l'ifestyle , se-x with st-rangers is a s'uccess .
+--------------------------------------------- Result 89 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+cattaneo reworks the formula that made the full monty a smashing success . . . but neglects to add the magic that made it all work .
+
+cattaneo reworks the formula that made the full monty a smashing success . . . but negle'cts to add the magic that made it all work .
+--------------------------------------------- Result 90 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+the production values are of the highest and the performances attractive without being memorable .
+--------------------------------------------- Result 91 ---------------------------------------------
+Positive (95%) --> Negative (84%)
+
+hey , happy ! is many things -- stoner midnight flick , sci-fi deconstruction , gay fantasia -- but above all it's a love story as sanguine as its title .
+
+hey , ha-ppy ! is ma'ny things -- stone-r midnight flick , s-ci-fi deconstruction , gay fantasia -- but above all it's a l-ove story as sanguine as its title .
+--------------------------------------------- Result 92 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+as well-acted and well-intentioned as all or nothing is , however , the film comes perilously close to being too bleak , too pessimistic and too unflinching for its own good .
+--------------------------------------------- Result 93 ---------------------------------------------
+Positive (100%) --> Negative (94%)
+
+in the director's cut , the film is not only a love song to the movies but it also is more fully an example of the kind of lush , all-enveloping movie experience it rhapsodizes .
+
+in the director's cut , the film is not only a love song to the movies but it also is more fu'lly an example of the kind of lus'h , all-enveloping movie experie-nce it rhapsodizes .
+--------------------------------------------- Result 94 ---------------------------------------------
+Negative (100%) --> Positive (50%)
+
+far-fetched premise , convoluted plot , and thematic mumbo jumbo about destiny and redemptive love .
+
+far-f-etched premise , convoluted plot , and thematic m'umbo jum-bo about destiny and rede-mptive love .
+--------------------------------------------- Result 95 ---------------------------------------------
+Positive (97%) --> Negative (98%)
+
+this amiable picture talks tough , but it's all bluster -- in the end it's as sweet as greenfingers . . .
+
+this amiable picture talks tough , but it's all bluster -- in the end it's as sw-eet as greenfingers . . .
+--------------------------------------------- Result 96 ---------------------------------------------
+Positive (100%) --> Negative (51%)
+
+an animation landmark as monumental as disney's 1937 breakthrough snow white and the seven dwarfs .
+
+an animation la-ndmark as monum-ental as di-sney's 1937 breakthrough snow white and the seven dwarfs .
+--------------------------------------------- Result 97 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+to call this film a lump of coal would only be to flatter it .
+--------------------------------------------- Result 98 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+great character interaction .
+
+grea't character interaction .
+--------------------------------------------- Result 99 ---------------------------------------------
+Negative (99%) --> Positive (90%)
+
+more likely to have you scratching your head than hiding under your seat .
+
+more lik'ely to have you scratching your head than hid'ing under your seat .
+--------------------------------------------- Result 100 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+that haynes can both maintain and dismantle the facades that his genre and his character construct is a wonderous accomplishment of veracity and narrative grace .
+
+that ha'ynes can both mainta'in and dis'mantle the facades that his gen're and his c-haracter co'nstruct is a won'derous acc-omplishment of veracity and na'rrative grace .
+--------------------------------------------- Result 101 ---------------------------------------------
+Positive (99%) --> Negative (67%)
+
+those who don't entirely 'get' godard's distinctive discourse will still come away with a sense of his reserved but existential poignancy .
+
+those who don't entirely 'get' godard's distinctive discourse will still c-ome away with a sense of his reser'ved but existential poignancy .
+--------------------------------------------- Result 102 ---------------------------------------------
+Positive (99%) --> Negative (69%)
+
+. it's a testament to the film's considerable charm that it succeeds in entertaining , despite playing out like a feature-length sitcom replete with stereotypical familial quandaries . there's a sheer unbridled delight in the way the story unfurls . . .
+
+. it's a testament to the film's considerable charm that it succeeds in entertaining , despite playing out like a feature-length sitcom replete with stereotypical familial quandaries . there's a sheer unbridled deligh't in the way the story unfurls . . .
+--------------------------------------------- Result 103 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+even after 90 minutes of playing opposite each other bullock and grant still look ill at ease sharing the same scene . what should have been a painless time-killer becomes instead a grating endurance test .
+
+even after 90 minutes of playing opposite each other bullock and grant still look i-ll at ease sharing the same scene . what should have been a painless time-killer becomes instead a grat'ing endurance te'st .
+--------------------------------------------- Result 104 ---------------------------------------------
+Negative (100%) --> Positive (69%)
+
+there's no disguising this as one of the worst films of the summer . or for the year , for that matter .
+
+there's no disguising this as one of the w'orst film's of the summer . or for the year , for that matter .
+--------------------------------------------- Result 105 ---------------------------------------------
+Negative (99%) --> [FAILED]
+
+i could have used my two hours better watching being john malkovich again .
+--------------------------------------------- Result 106 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+i just saw this movie . . . well , it's probably not accurate to call it a movie .
+--------------------------------------------- Result 107 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+miller has crafted an intriguing story of maternal instincts and misguided acts of affection .
+
+miller has crafted an intrigui-ng s-tory of maternal instincts and misguided acts of affection .
+--------------------------------------------- Result 108 ---------------------------------------------
+Negative (90%) --> Positive (100%)
+
+the film . . . presents classic moral-condundrum drama : what would you have done to survive ? the problem with the film is whether these ambitions , laudable in themselves , justify a theatrical simulation of the death camp of auschwitz ii-birkenau .
+
+the film . . . presents classic moral-condundrum drama : what would you have done to survive ? the p'roblem with the film is whether these ambitions , laudable in themselves , justify a theatrical simulation of the death camp of auschwitz ii-birkenau .
+--------------------------------------------- Result 109 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it's not a particularly good film , but neither is it a monsterous one .
+--------------------------------------------- Result 110 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+definitely a crowd-pleaser , but then , so was the roman colosseum .
+--------------------------------------------- Result 111 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+the gags that fly at such a furiously funny pace that the only rip off that we were aware of was the one we felt when the movie ended so damned soon .
+--------------------------------------------- Result 112 ---------------------------------------------
+Negative (100%) --> Positive (69%)
+
+a cellophane-pop remake of the punk classic ladies and gentlemen , the fabulous stains . . . crossroads is never much worse than bland or better than inconsequential .
+
+a cellophane-pop remake of the punk classic ladies and gentlemen , the fabulous stains . . . crossroads is never m'uch worse than bl'and or better than inconsequential .
+--------------------------------------------- Result 113 ---------------------------------------------
+Negative (64%) --> [SKIPPED]
+
+an almost unbearably morbid love story .
+--------------------------------------------- Result 114 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+hart's war seems to want to be a character study , but apparently can't quite decide which character .
+--------------------------------------------- Result 115 ---------------------------------------------
+Positive (100%) --> Negative (91%)
+
+. . . is funny in the way that makes you ache with sadness ( the way chekhov is funny ) , profound without ever being self-important , warm without ever succumbing to sentimentality .
+
+. . . is funny in the wa'y that mak-es you ac-he with sad'ness ( the way chek-hov is fu'nny ) , prof'ound without ever being s'elf-important , war'm without ever succ-umbing to sentimen-tality .
+--------------------------------------------- Result 116 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+not just unlikable . disturbing . disgusting . without any redeeming value whatsoever .
+--------------------------------------------- Result 117 ---------------------------------------------
+Positive (99%) --> Negative (98%)
+
+an adorably whimsical comedy that deserves more than a passing twinkle .
+
+an adorably whimsical c-omedy that deserves more than a passing twinkle .
+--------------------------------------------- Result 118 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+tells ( the story ) with such atmospheric ballast that shrugging off the plot's persnickety problems is simply a matter of ( being ) in a shrugging mood .
+--------------------------------------------- Result 119 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+the stunt work is top-notch ; the dialogue and drama often food-spittingly funny .
+--------------------------------------------- Result 120 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+goofy , nutty , consistently funny . and educational !
+
+goofy , nutty , consisten'tly funny . and edu-cational !
+--------------------------------------------- Result 121 ---------------------------------------------
+Positive (100%) --> Negative (73%)
+
+arliss howard's ambitious , moving , and adventurous directorial debut , big bad love , meets so many of the challenges it poses for itself that one can forgive the film its flaws .
+
+arliss h-oward's ambitious , moving , and adve'nturous directorial debut , b-ig bad love , meets so many of the c-hallenges it poses for itself that one can forgive the film its flaws .
+--------------------------------------------- Result 122 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+gaping plot holes sink this 'sub'-standard thriller and drag audience enthusiasm to crush depth .
+--------------------------------------------- Result 123 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+the film has too many spots where it's on slippery footing , but is acceptable entertainment for the entire family and one that's especially fit for the kiddies .
+--------------------------------------------- Result 124 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+in imax in short , it's just as wonderful on the big screen .
+
+in imax in short , it's just as wo-nderful on the big screen .
+--------------------------------------------- Result 125 ---------------------------------------------
+Negative (100%) --> Positive (73%)
+
+talkiness isn't necessarily bad , but the dialogue frequently misses the mark .
+
+talkiness isn't necessarily bad , but the dialogue frequently m'isses the mark .
+--------------------------------------------- Result 126 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+this is a nervy , risky film , and villeneuve has inspired croze to give herself over completely to the tormented persona of bibi .
+
+this is a ne-rvy , risky fi'lm , and villeneuve has inspired croze to g-ive herself over completely to the tormented persona of bibi .
+--------------------------------------------- Result 127 ---------------------------------------------
+Negative (95%) --> [SKIPPED]
+
+fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .
+--------------------------------------------- Result 128 ---------------------------------------------
+Negative (100%) --> Positive (51%)
+
+throughout all the tumult , a question comes to mind : so why is this so boring ?
+
+throughout all the t'umult , a quest'ion com'es to mind : so why is this s-o bo'ring ?
+--------------------------------------------- Result 129 ---------------------------------------------
+Positive (100%) --> Negative (69%)
+
+the best film of the year 2002 .
+
+the b-est f-ilm of the y-ear 2002 .
+--------------------------------------------- Result 130 ---------------------------------------------
+Negative (100%) --> Positive (94%)
+
+true to its title , it traps audiences in a series of relentlessly nasty situations that we would pay a considerable ransom not to be looking at .
+
+true to its t'itle , it traps audiences in a seri-es of relentlessly nas'ty situations that we would pay a considerable ransom not to be looking at .
+--------------------------------------------- Result 131 ---------------------------------------------
+Negative (83%) --> [SKIPPED]
+
+i had a dream that a smart comedy would come along to rescue me from a summer of teen-driven , toilet-humor codswallop , and its name was earnest .
+--------------------------------------------- Result 132 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+if the film's vision of sport as a secular religion is a bit cloying , its through-line of family and community is heartening in the same way that each season marks a new start .
+
+if the fi'lm's vision of spor't as a secular religion is a b'it cloying , its through-line of family and community is hear-tening in the same way that e-ach season marks a new start .
+--------------------------------------------- Result 133 ---------------------------------------------
+Negative (95%) --> [SKIPPED]
+
+weighty and ponderous but every bit as filling as the treat of the title .
+--------------------------------------------- Result 134 ---------------------------------------------
+Negative (99%) --> Positive (95%)
+
+press the delete key .
+
+p'ress the de'lete key .
+--------------------------------------------- Result 135 ---------------------------------------------
+Negative (100%) --> Positive (56%)
+
+any intellectual arguments being made about the nature of god are framed in a drama so clumsy , there is a real danger less sophisticated audiences will mistake it for an endorsement of the very things that bean abhors .
+
+any intellectual arguments being made about the nature of god are framed in a d'rama s'o c'lumsy , there is a r'eal danger less sophisticated audiences will mis-take it for an endorsement of the very things that b'ean a-bhors .
+--------------------------------------------- Result 136 ---------------------------------------------
+Negative (100%) --> Positive (79%)
+
+[lin chung's] voice is rather unexceptional , even irritating ( at least to this western ear ) , making it awfully hard to buy the impetus for the complicated love triangle that develops between the three central characters .
+
+[lin chung's] voice is rather unexceptional , even irritat'ing ( at least to this western ear ) , making it a'wfully hard to buy the impet'us for the complicated love triangle that develops between the three central characters .
+--------------------------------------------- Result 137 ---------------------------------------------
+Positive (99%) --> Negative (86%)
+
+it's got all the familiar bruckheimer elements , and schumacher does probably as good a job as anyone at bringing off the hopkins/rock collision of acting styles and onscreen personas .
+
+it's got all the familiar bruckheimer el'ements , and schumacher d'oes probably as good a job as anyone at bringing off the hopkins/rock collision of acting styl-es and onscreen personas .
+--------------------------------------------- Result 138 ---------------------------------------------
+Positive (67%) --> [SKIPPED]
+
+proves a lovely trifle that , unfortunately , is a little too in love with its own cuteness .
+--------------------------------------------- Result 139 ---------------------------------------------
+Positive (97%) --> Negative (62%)
+
+has enough wit , energy and geniality to please not only the fanatical adherents on either side , but also people who know nothing about the subject and think they're not interested .
+
+has enough wi't , energy and geniality to please not only the fanatical adherents on either s-ide , but also peop-le who know nothing about the subject and think they're not interested .
+--------------------------------------------- Result 140 ---------------------------------------------
+Negative (100%) --> Positive (85%)
+
+this one aims for the toilet and scores a direct hit .
+
+this one aims for the toi'let and scores a direct hit .
+--------------------------------------------- Result 141 ---------------------------------------------
+Positive (100%) --> Negative (93%)
+
+oh , james ! your 20th outing shows off a lot of stamina and vitality , and get this , madonna's cameo doesn't suck !
+
+oh , james ! your 20th outing shows off a lot of stamina and vitality , and get this , madonna's cameo doesn't s-uck !
+--------------------------------------------- Result 142 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+exceptionally well acted by diane lane and richard gere .
+
+ex'ceptionally w-ell acted by diane lane and richard gere .
+--------------------------------------------- Result 143 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+it works its magic with such exuberance and passion that the film's length becomes a part of its fun .
+
+it works its m-agic with such exube-rance and passio'n that the film's length beco-mes a p-art of its f-un .
+--------------------------------------------- Result 144 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+even fans of ismail merchant's work , i suspect , would have a hard time sitting through this one .
+--------------------------------------------- Result 145 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+the main story . . . is compelling enough , but it's difficult to shrug off the annoyance of that chatty fish .
+--------------------------------------------- Result 146 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+at its worst , the movie is pretty diverting ; the pity is that it rarely achieves its best .
+--------------------------------------------- Result 147 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+the campy results make mel brooks' borscht belt schtick look sophisticated .
+--------------------------------------------- Result 148 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+to call this one an eventual cult classic would be an understatement , and woe is the horror fan who opts to overlook this goofily endearing and well-lensed gorefest .
+--------------------------------------------- Result 149 ---------------------------------------------
+Negative (100%) --> Positive (98%)
+
+[hell is] looking down at your watch and realizing serving sara isn't even halfway through .
+
+[hel-l is] looking down at your w'atch and realizing se'rving sa-ra isn't even half'way through .
+--------------------------------------------- Result 150 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+earnest yet curiously tepid and choppy recycling in which predictability is the only winner .
+
+e'arnest yet curious-ly tep'id and cho-ppy recycl'ing in which p'redictability is the only wi'nner .
+--------------------------------------------- Result 151 ---------------------------------------------
+Negative (100%) --> Positive (97%)
+
+'dragonfly' dwells on crossing-over mumbo jumbo , manipulative sentimentality , and sappy dialogue .
+
+'dragonf-ly' dwells on crossing-ove-r mu-mbo j-umbo , m-anipulative s-entimentality , and s'appy dialogue .
+--------------------------------------------- Result 152 ---------------------------------------------
+Negative (99%) --> Positive (70%)
+
+in a 102-minute film , aaliyah gets at most 20 minutes of screen time . . . . most viewers will wish there had been more of the " queen " and less of the " damned . "
+
+in a 102-minute film , aaliyah gets at most 20 minutes of screen time . . . . most vi'ewers will wi'sh there had been more of the " queen " and les's of the " damned . "
+--------------------------------------------- Result 153 ---------------------------------------------
+Negative (99%) --> Positive (55%)
+
+rashomon-for-dipsticks tale .
+
+rashomon-fo'r-dipsticks tale .
+--------------------------------------------- Result 154 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+spirit is a visual treat , and it takes chances that are bold by studio standards , but it lacks a strong narrative .
+
+spirit is a visual treat , and it takes chances that are bold by studio standards , but it lac-ks a strong narrative .
+--------------------------------------------- Result 155 ---------------------------------------------
+Positive (91%) --> [SKIPPED]
+
+the sort of picture in which , whenever one of the characters has some serious soul searching to do , they go to a picture-perfect beach during sunset .
+--------------------------------------------- Result 156 ---------------------------------------------
+Negative (98%) --> Positive (76%)
+
+it sounds like another clever if pointless excursion into the abyss , and that's more or less how it plays out .
+
+it sounds like another clever if pointl-ess excursion into the abyss , and that's more or less how it plays out .
+--------------------------------------------- Result 157 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a movie of riveting power and sadness .
+
+a movi'e of r-iveting pow-er and sad-ness .
+--------------------------------------------- Result 158 ---------------------------------------------
+Negative (98%) --> Positive (92%)
+
+a film that clearly means to preach exclusively to the converted .
+
+a f'ilm that clearly means to preach exclusively to the converted .
+--------------------------------------------- Result 159 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+for more than two decades mr . nachtwey has traveled to places in the world devastated by war , famine and poverty and documented the cruelty and suffering he has found with an devastating , eloquent clarity .
+
+for more than two deca'des m'r . nac'htwey ha's trav'eled to pl-aces in the wor-ld devastate'd by wa-r , fa'mine and p-overty and docume'nted the crue-lty and sufferin-g he ha-s fo'und with an devastati'ng , eloquent clar'ity .
+--------------------------------------------- Result 160 ---------------------------------------------
+Positive (99%) --> Negative (78%)
+
+the film may not hit as hard as some of the better drug-related pictures , but it still manages to get a few punches in .
+
+the fil'm may not hit as hard as so-me of the bet-ter drug-re'lated pictures , but it stil'l manages to ge't a fe'w punche-s in .
+--------------------------------------------- Result 161 ---------------------------------------------
+Positive (100%) --> Negative (96%)
+
+proves a servicable world war ii drama that can't totally hide its contrivances , but it at least calls attention to a problem hollywood too long has ignored .
+
+proves a servicable world war ii dra'ma that can't totally hide its contrivances , but it at least calls attention to a problem hollywood too long has i'gnored .
+--------------------------------------------- Result 162 ---------------------------------------------
+Positive (100%) --> Negative (71%)
+
+lan yu is a genuine love story , full of traditional layers of awakening and ripening and separation and recovery .
+
+l-an yu is a genuine l'ove s'tory , full of trad-itional lay-ers of a-wakening and ri'pening and sepa-ration and re-covery .
+--------------------------------------------- Result 163 ---------------------------------------------
+Positive (71%) --> Negative (100%)
+
+the wild thornberrys movie is pleasant enough and the message of our close ties with animals can certainly not be emphasized enough .
+
+the wild thornberrys movie is pleasant enough and the message of our close ties with animals can certainly not b-e emphasized enough .
+--------------------------------------------- Result 164 ---------------------------------------------
+Negative (100%) --> Positive (66%)
+
+when you find yourself rooting for the monsters in a horror movie , you know the picture is in trouble .
+
+when you find yourself rooting for the monsters in a h'orror movi'e , you k-now the p'icture is in troubl-e .
+--------------------------------------------- Result 165 ---------------------------------------------
+Negative (100%) --> Positive (90%)
+
+even when crush departs from the 4w formula . . . it feels like a glossy rehash .
+
+even when cr'ush departs from the 4w form'ula . . . it fe'els l'ike a glo-ssy r'ehash .
+--------------------------------------------- Result 166 ---------------------------------------------
+Negative (93%) --> [SKIPPED]
+
+spider-man is about growing strange hairs , getting a more mature body , and finding it necessary to hide new secretions from the parental units .
+--------------------------------------------- Result 167 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+you never know where changing lanes is going to take you but it's a heck of a ride . samuel l . jackson is one of the best actors there is .
+--------------------------------------------- Result 168 ---------------------------------------------
+Negative (100%) --> Positive (93%)
+
+girlfriends are bad , wives are worse and babies are the kiss of death in this bitter italian comedy .
+
+girlfriends are b'ad , wives are worse and babies are the kiss of de'ath in this bitter italian comedy .
+--------------------------------------------- Result 169 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+another in a long line of ultra-violent war movies , this one is not quite what it could have been as a film , but the story and theme make up for it .
+--------------------------------------------- Result 170 ---------------------------------------------
+Positive (100%) --> Negative (91%)
+
+as action-adventure , this space-based homage to robert louis stevenson's treasure island fires on all plasma conduits .
+
+as action-adventu-re , this space'-based h-omage to robert louis stevens-on's t-reasure island fires on all plasma conduits .
+--------------------------------------------- Result 171 ---------------------------------------------
+Positive (100%) --> Negative (95%)
+
+a grittily beautiful film that looks , sounds , and feels more like an extended , open-ended poem than a traditionally structured story .
+
+a grittily b-eautiful fi'lm that looks , sounds , and feels more like an extended , open-ended poem than a tradit'ionally structured story .
+--------------------------------------------- Result 172 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+too long , and larded with exposition , this somber cop drama ultimately feels as flat as the scruffy sands of its titular community .
+
+too l'ong , and l'arded with exposition , this somber cop drama ultimatel'y feels as fla-t as the scruffy sands of its titular community .
+--------------------------------------------- Result 173 ---------------------------------------------
+Positive (100%) --> Negative (52%)
+
+spielberg's realization of a near-future america is masterful . this makes minority report necessary viewing for sci-fi fans , as the film has some of the best special effects ever .
+
+spielberg's realization of a near-future amer-ica is mast-erful . this make-s minority report necessary v-iewing for sci-fi fans , as the film has some of the b-est special effects ever .
+--------------------------------------------- Result 174 ---------------------------------------------
+Positive (97%) --> Negative (94%)
+
+grown-up quibbles are beside the point here . the little girls understand , and mccracken knows that's all that matters .
+
+grown-up quibbles are beside the point here . the little girls u'nderstand , and mccracken knows that's all that matters .
+--------------------------------------------- Result 175 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+a soul-stirring documentary about the israeli/palestinian conflict as revealed through the eyes of some children who remain curious about each other against all odds .
+--------------------------------------------- Result 176 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+franco is an excellent choice for the walled-off but combustible hustler , but he does not give the transcendent performance sonny needs to overcome gaps in character development and story logic .
+--------------------------------------------- Result 177 ---------------------------------------------
+Negative (100%) --> Positive (97%)
+
+the story is far-flung , illogical , and plain stupid .
+
+the sto-ry is far-flung , il'logical , and pl-ain s'tupid .
+--------------------------------------------- Result 178 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+one gets the impression the creators of don't ask don't tell laughed a hell of a lot at their own jokes . too bad none of it is funny .
+--------------------------------------------- Result 179 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+did we really need a remake of " charade ? "
+--------------------------------------------- Result 180 ---------------------------------------------
+Positive (92%) --> [SKIPPED]
+
+the armenian genocide deserves a more engaged and honest treatment .
+--------------------------------------------- Result 181 ---------------------------------------------
+Negative (100%) --> Positive (94%)
+
+the cast has a high time , but de broca has little enthusiasm for such antique pulp .
+
+the cast has a high time , but de broca has l'ittle enthusiasm for such antique pulp .
+--------------------------------------------- Result 182 ---------------------------------------------
+Negative (92%) --> [SKIPPED]
+
+by the time it ends in a rush of sequins , flashbulbs , blaring brass and back-stabbing babes , it has said plenty about how show business has infiltrated every corner of society -- and not always for the better .
+--------------------------------------------- Result 183 ---------------------------------------------
+Positive (99%) --> Negative (99%)
+
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in viewing deleted scenes .
+
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in vie'wing deleted sce-nes .
+--------------------------------------------- Result 184 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+intensely romantic , thought-provoking and even an engaging mystery .
+
+in-tensely romantic , though't-provoking and even an eng-aging mys'tery .
+--------------------------------------------- Result 185 ---------------------------------------------
+Positive (100%) --> Negative (69%)
+
+throws in enough clever and unexpected twists to make the formula feel fresh .
+
+throws in enough clever and unexpe-cted twi-sts to m-ake the formula feel fresh .
+--------------------------------------------- Result 186 ---------------------------------------------
+Positive (100%) --> Negative (91%)
+
+ya-yas everywhere will forgive the flaws and love the film .
+
+ya-yas everywhere will forgive the flaws and l-ove the film .
+--------------------------------------------- Result 187 ---------------------------------------------
+Positive (100%) --> Negative (72%)
+
+assayas' ambitious , sometimes beautiful adaptation of jacques chardonne's novel .
+
+assayas' ambitious , sometimes beautiful adaptat'ion of jacques chardonne'-s no-vel .
+--------------------------------------------- Result 188 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+doesn't come close to justifying the hype that surrounded its debut at the sundance film festival two years ago .
+
+doesn't come c'lose to justifying the hype that surrounded its debut at the sundance film festival two years ago .
+--------------------------------------------- Result 189 ---------------------------------------------
+Negative (100%) --> Positive (51%)
+
+a word of advice to the makers of the singles ward : celebrity cameos do not automatically equal laughs . and neither do cliches , no matter how 'inside' they are .
+
+a word of advice to the makers of the singl-es wa'rd : celebrity ca'meos do not automatically equ'al la'ughs . and neither do cliches , no matter how '-inside' they are .
+--------------------------------------------- Result 190 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the movie's downfall is to substitute plot for personality . it doesn't really know or care about the characters , and uses them as markers for a series of preordained events .
+--------------------------------------------- Result 191 ---------------------------------------------
+Positive (100%) --> Negative (95%)
+
+from both a great and a terrible story , mr . nelson has made a film that is an undeniably worthy and devastating experience .
+
+from both a g-reat and a terrible story , mr . nels-on has made a film that is an un-deniably worthy and deva'stating experience .
+--------------------------------------------- Result 192 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+there's something to be said for a studio-produced film that never bothers to hand viewers a suitcase full of easy answers .
+--------------------------------------------- Result 193 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+this is one of mr . chabrol's subtlest works , but also one of his most uncanny .
+
+this is one of m-r . c-habrol's su-btlest wo'rks , but also one of his most un-canny .
+--------------------------------------------- Result 194 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+. . . blade ii is still top-heavy with blazing guns , cheatfully filmed martial arts , disintegrating bloodsucker computer effects and jagged camera moves that serve no other purpose than to call attention to themselves .
+
+. . . blade ii is still top-he'avy with blazing g-uns , cheatf-ully filmed martial arts , disintegrating bloodsucker computer effects and jagged camera moves that serve no other purpose than to call attention to themselves .
+--------------------------------------------- Result 195 ---------------------------------------------
+Positive (97%) --> Negative (100%)
+
+working from a surprisingly sensitive script co-written by gianni romoli . . . ozpetek avoids most of the pitfalls you'd expect in such a potentially sudsy set-up .
+
+working from a surprisingly sensitive script co-written by gianni romoli . . . ozpetek avoids most of the p-itfalls you'd expect in such a potentially sudsy set-up .
+--------------------------------------------- Result 196 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the venezuelans say things like " si , pretty much " and " por favor , go home " when talking to americans . that's muy loco , but no more ridiculous than most of the rest of " dragonfly . "
+--------------------------------------------- Result 197 ---------------------------------------------
+Positive (100%) --> Negative (77%)
+
+the performances are an absolute joy .
+
+the perf'ormances are an abs'olute j-oy .
+--------------------------------------------- Result 198 ---------------------------------------------
+Negative (100%) --> Positive (75%)
+
+the self-serious equilibrium makes its point too well ; a movie , like life , isn't much fun without the highs and lows .
+
+the self-serious equilibrium makes its point too we'll ; a movi-e , like life , isn't muc'h f'un without the highs and lows .
+--------------------------------------------- Result 199 ---------------------------------------------
+Positive (100%) --> Negative (56%)
+
+there is something that is so meditative and lyrical about babak payami's boldly quirky iranian drama secret ballot . . . a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics
+
+there is something that is s-o m-editative and lyri'cal about babak pay-ami's b-oldly quirky ir-anian dr-ama sec-ret ballot . . . a c-harming and evo'king little d'itty that manage-s to show the gent-le and humane side of mi'ddle easter-n wor'ld poli'tics
+--------------------------------------------- Result 200 ---------------------------------------------
+Positive (97%) --> Negative (99%)
+
+can i admit xxx is as deep as a petri dish and as well-characterized as a telephone book but still say it was a guilty pleasure ?
+
+can i admit xxx is as deep as a petri dish and as well-characterized as a telephone book but still say it was a guilty pleasu-re ?
+--------------------------------------------- Result 201 ---------------------------------------------
+Negative (62%) --> Positive (52%)
+
+while this one gets off with a good natured warning , future lizard endeavors will need to adhere more closely to the laws of laughter
+
+while this one gets off with a good natured warning , future lizard endeavors will need to a'dhere more closely to the laws of laughter
+--------------------------------------------- Result 202 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a quasi-documentary by french filmmaker karim dridi that celebrates the hardy spirit of cuban music .
+
+a quasi-docume-ntary by french filmmaker karim dridi that celebr-ates the hard-y sp-irit of cuban music .
+--------------------------------------------- Result 203 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+eight legged freaks falls flat as a spoof .
+--------------------------------------------- Result 204 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it's an odd show , pregnant with moods , stillborn except as a harsh conceptual exercise .
+--------------------------------------------- Result 205 ---------------------------------------------
+Negative (99%) --> [SKIPPED]
+
+it's like an old warner bros . costumer jived with sex -- this could be the movie errol flynn always wanted to make , though bette davis , cast as joan , would have killed him .
+--------------------------------------------- Result 206 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+the film's desire to be liked sometimes undermines the possibility for an exploration of the thornier aspects of the nature/nurture argument in regards to homosexuality .
+--------------------------------------------- Result 207 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the story alone could force you to scratch a hole in your head .
+--------------------------------------------- Result 208 ---------------------------------------------
+Positive (99%) --> Negative (99%)
+
+its spirit of iconoclastic abandon -- however canned -- makes for unexpectedly giddy viewing .
+
+its spirit of iconoclastic abandon -- however canned -- makes for unexpectedly giddy viewi-ng .
+--------------------------------------------- Result 209 ---------------------------------------------
+Positive (100%) --> Negative (87%)
+
+if the man from elysian fields is doomed by its smallness , it is also elevated by it--the kind of movie that you enjoy more because you're one of the lucky few who sought it out .
+
+if the man from elysian fields is doomed by its smallness , it is also ele-vated by i't--the kind of movie that you enjoy more because you're one of the lucky few who sought it out .
+--------------------------------------------- Result 210 ---------------------------------------------
+Negative (100%) --> Positive (84%)
+
+the film is strictly routine .
+
+the film is st'rictly ro'utine .
+--------------------------------------------- Result 211 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the trouble is , its filmmakers run out of clever ideas and visual gags about halfway through .
+--------------------------------------------- Result 212 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+a soap-opera quality twist in the last 20 minutes . . . almost puts the kibosh on what is otherwise a sumptuous work of b-movie imagination .
+--------------------------------------------- Result 213 ---------------------------------------------
+Positive (64%) --> [SKIPPED]
+
+" not really as bad as you might think ! "
+--------------------------------------------- Result 214 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+. . . in the pile of useless actioners from mtv schmucks who don't know how to tell a story for more than four minutes .
+--------------------------------------------- Result 215 ---------------------------------------------
+Positive (100%) --> Negative (65%)
+
+pull[s] off the rare trick of recreating not only the look of a certain era , but also the feel .
+
+pull[s] off the ra're trick of recr-eating not only the look of a certain e-ra , but also the feel .
+--------------------------------------------- Result 216 ---------------------------------------------
+Positive (100%) --> Negative (59%)
+
+a tightly directed , highly professional film that's old-fashioned in all the best possible ways .
+
+a tightly directed , high'ly professional f'ilm that's old'-fashioned in all the best possible ways .
+--------------------------------------------- Result 217 ---------------------------------------------
+Negative (100%) --> Positive (91%)
+
+dull , a road-trip movie that's surprisingly short of both adventure and song .
+
+d'ull , a road-trip mo'vie t'hat's surprisi'ngly sho-rt of both adventure and song .
+--------------------------------------------- Result 218 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the drama discloses almost nothing .
+--------------------------------------------- Result 219 ---------------------------------------------
+Positive (100%) --> Negative (81%)
+
+it's easy to be cynical about documentaries in which underdogs beat the odds and the human spirit triumphs , but westbrook's foundation and dalrymple's film earn their uplift .
+
+it's e-asy to be cyni-cal about documentarie's in which underdo'gs be-at the odd's and the hum-an spiri't t-riumphs , but westbro-ok's founda'tion and dalrymple's fi-lm earn their uplift .
+--------------------------------------------- Result 220 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+flat , misguided comedy .
+--------------------------------------------- Result 221 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+a banal , virulently unpleasant excuse for a romantic comedy .
+--------------------------------------------- Result 222 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+it's all arty and jazzy and people sit and stare and turn away from one another instead of talking and it's all about the silences and if you're into that , have at it .
+--------------------------------------------- Result 223 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+adults will certainly want to spend their time in the theater thinking up grocery lists and ways to tell their kids how not to act like pinocchio . as for children , they won't enjoy the movie at all .
+--------------------------------------------- Result 224 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+a moving and not infrequently breathtaking film .
+
+a moving and not i'nfrequently breathtaking film .
+--------------------------------------------- Result 225 ---------------------------------------------
+Positive (74%) --> Negative (98%)
+
+sure , i hated myself in the morning . but then again , i hate myself most mornings . i still like moonlight mile , better judgment be damned .
+
+sure , i hated myself in the morning . but then again , i hate myself most mornings . i still like moonlight mile , better judgment b-e damned .
+--------------------------------------------- Result 226 ---------------------------------------------
+Positive (100%) --> Negative (50%)
+
+mike white's deft combination of serious subject matter and dark , funny humor make " " the good girl " a film worth watching .
+
+mi'ke white's deft combina-tion of se-rious subjec't matter and d'ark , funny humo-r ma'ke " " the good girl " a f'ilm wort-h watc'hing .
+--------------------------------------------- Result 227 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a joyous occasion
+
+a j-oyous occ-asion
+--------------------------------------------- Result 228 ---------------------------------------------
+Positive (100%) --> Negative (62%)
+
+it's an entertaining movie , and the effects , boosted to the size of a downtown hotel , will all but take you to outer space .
+
+it's an e-ntertaining mo-vie , and the effects , boosted to the size of a downtown hotel , will all but take you to outer spa-ce .
+--------------------------------------------- Result 229 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the work of an exhausted , desiccated talent who can't get out of his own way .
+--------------------------------------------- Result 230 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+despite juliet stevenon's attempt to bring cohesion to pamela's emotional roller coaster life , it is not enough to give the film the substance it so desperately needs .
+--------------------------------------------- Result 231 ---------------------------------------------
+Positive (100%) --> Negative (93%)
+
+spy kids 2 also happens to be that rarity among sequels : it actually improves upon the original hit movie .
+
+spy kids 2 also happens to be that rarity among sequels : it actually impro-ves upon the original hit movie .
+--------------------------------------------- Result 232 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+we started to wonder if some unpaid intern had just typed 'chris rock , ' 'anthony hopkins' and 'terrorists' into some univac-like script machine .
+--------------------------------------------- Result 233 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+satisfyingly scarifying , fresh and old-fashioned at the same time .
+
+satisf-yingly scarifying , f-resh and old-fashioned at the same tim-e .
+--------------------------------------------- Result 234 ---------------------------------------------
+Positive (96%) --> [SKIPPED]
+
+there is more than one joke about putting the toilet seat down . and that should tell you everything you need to know about all the queen's men .
+--------------------------------------------- Result 235 ---------------------------------------------
+Negative (100%) --> Positive (78%)
+
+an awful movie that will only satisfy the most emotionally malleable of filmgoers .
+
+an aw'ful movie that wi'll only satisfy the most emotionall'y malle'able of filmgoer's .
+--------------------------------------------- Result 236 ---------------------------------------------
+Negative (79%) --> [SKIPPED]
+
+rarely has skin looked as beautiful , desirable , even delectable , as it does in trouble every day .
+--------------------------------------------- Result 237 ---------------------------------------------
+Positive (100%) --> Negative (70%)
+
+heartwarming and gently comic even as the film breaks your heart .
+
+heartwarmi-ng and gen'tly comic even as the film br'eaks your h'eart .
+--------------------------------------------- Result 238 ---------------------------------------------
+Negative (100%) --> Positive (75%)
+
+though there's a clarity of purpose and even-handedness to the film's direction , the drama feels rigged and sluggish .
+
+t'hough there's a clarity of pur-pose and even-handedness to the film's direc-tion , the dram-a feels rigge-d and sluggish .
+--------------------------------------------- Result 239 ---------------------------------------------
+Positive (100%) --> Negative (70%)
+
+symbolically , warm water under a red bridge is a celebration of feminine energy , a tribute to the power of women to heal .
+
+symbolically , war'm wa-ter under a r-ed bri'dge is a cele'bration of feminine e'nergy , a t-ribute to the pow-er of w'omen to he'al .
+--------------------------------------------- Result 240 ---------------------------------------------
+Negative (100%) --> Positive (93%)
+
+veers uncomfortably close to pro-serb propaganda .
+
+veer-s u'ncomfortably close to pro-serb pro-paganda .
+--------------------------------------------- Result 241 ---------------------------------------------
+Negative (100%) --> Positive (88%)
+
+the film never gets over its own investment in conventional arrangements , in terms of love , age , gender , race , and class .
+
+the film never ge'ts over its own inve'stment in conventional arrangements , in terms of love , age , gender , race , and class .
+--------------------------------------------- Result 242 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .
+
+a comedy-drama of nearly epic proportions rooted in a since-re performance by the title character undergoing midlife crisis .
+--------------------------------------------- Result 243 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the premise itself is just sooooo tired . pair that with really poor comedic writing . . . and you've got a huge mess .
+--------------------------------------------- Result 244 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the lead actors share no chemistry or engaging charisma . we don't even like their characters .
+--------------------------------------------- Result 245 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+my little eye is the best little " horror " movie i've seen in years .
+
+my little eye is the be-st lit'tle " horror " movie i've seen in y-ears .
+--------------------------------------------- Result 246 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a movie of technical skill and rare depth of intellect and feeling .
+
+a movi'e of technic-al sk-ill and rare de-pth of i'ntellect and feeli-ng .
+--------------------------------------------- Result 247 ---------------------------------------------
+Positive (100%) --> Negative (97%)
+
+both exuberantly romantic and serenely melancholy , what time is it there ? may prove to be [tsai's] masterpiece .
+
+both ex-uberantly romantic and serenely melancholy , what time is it there ? may pro've to be [tsai's] m-asterpiece .
+--------------------------------------------- Result 248 ---------------------------------------------
+Negative (96%) --> Positive (80%)
+
+in moonlight mile , no one gets shut out of the hug cycle .
+
+in moonlight mile , no one gets shut out of the hug c'ycle .
+--------------------------------------------- Result 249 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+what's so striking about jolie's performance is that she never lets her character become a caricature -- not even with that radioactive hair .
+
+what's so s-triking about jolie's performance is that she never lets her character become a caricature -- not even with that radioactive hair .
+--------------------------------------------- Result 250 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+what a dumb , fun , curiously adolescent movie this is .
+
+what a dumb , f-un , curiously adolescent movie this is .
+--------------------------------------------- Result 251 ---------------------------------------------
+Positive (99%) --> Negative (98%)
+
+paid in full is remarkably engaging despite being noticeably derivative of goodfellas and at least a half dozen other trouble-in-the-ghetto flicks .
+
+paid in full is remarkably eng-aging despite being noticeably derivative of goodfellas and at least a half dozen other trouble-in-the-ghetto flicks .
+--------------------------------------------- Result 252 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+supposedly based upon real , or at least soberly reported incidents , the film ends with a large human tragedy . alas , getting there is not even half the interest .
+--------------------------------------------- Result 253 ---------------------------------------------
+Positive (100%) --> Negative (80%)
+
+the film occasionally tries the viewer's patience with slow pacing and a main character who sometimes defies sympathy , but it ultimately satisfies with its moving story .
+
+the fil'm occ-asionally tries the viewer's patience with slow pacing and a main character who sometimes defies sympathy , but it ultimately satisfies with its moving s-tory .
+--------------------------------------------- Result 254 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+missteps take what was otherwise a fascinating , riveting story and send it down the path of the mundane .
+--------------------------------------------- Result 255 ---------------------------------------------
+Positive (97%) --> Negative (66%)
+
+meticulously uncovers a trail of outrageous force and craven concealment .
+
+meti-culously uncovers a trail of outrageous force and craven concealment .
+--------------------------------------------- Result 256 ---------------------------------------------
+Positive (100%) --> Negative (86%)
+
+pete's screenplay manages to find that real natural , even-flowing tone that few movies are able to accomplish .
+
+pete's screen-play manages to find that real nat-ural , even-'flowing tone that few mo-vies are able to accomplish .
+--------------------------------------------- Result 257 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+a rehash of every gangster movie from the past decade .
+
+a reha-sh of every gangster movie from the past decade .
+--------------------------------------------- Result 258 ---------------------------------------------
+Negative (100%) --> Positive (81%)
+
+the only young people who possibly will enjoy it are infants . . . who might be distracted by the movie's quick movements and sounds .
+
+the only you-ng p'eople who po-ssibly will en-joy it are i-nfants . . . who might be distracted by the movie-'s quick movements and sounds .
+--------------------------------------------- Result 259 ---------------------------------------------
+Negative (100%) --> Positive (92%)
+
+the movie is almost completely lacking in suspense , surprise and consistent emotional conviction .
+
+the movie is almost completely lac'king in suspense , surprise and consistent emotional conviction .
+--------------------------------------------- Result 260 ---------------------------------------------
+Negative (100%) --> Positive (92%)
+
+in his determination to lighten the heavy subject matter , silberling also , to a certain extent , trivializes the movie with too many nervous gags and pratfalls .
+
+in his determination to lighten the heavy subject matter , silberling also , to a certain extent , tr'ivializes the mo'vie with too m'any nervou-s g'ags and pratfal-ls .
+--------------------------------------------- Result 261 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+steadfastly uncinematic but powerfully dramatic .
+
+steadfastly uncinematic but po'werfully drama-tic .
+--------------------------------------------- Result 262 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+like a precious and finely cut diamond , magnificent to behold in its sparkling beauty yet in reality it's one tough rock .
+--------------------------------------------- Result 263 ---------------------------------------------
+Positive (100%) --> Negative (86%)
+
+an energetic and engaging film that never pretends to be something it isn't .
+
+an energetic and eng'aging fi'lm that never pr'etends to be something it isn't .
+--------------------------------------------- Result 264 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+broder's screenplay is shallow , offensive and redundant , with pitifully few real laughs .
+--------------------------------------------- Result 265 ---------------------------------------------
+Negative (99%) --> Positive (58%)
+
+it's a movie that ends with truckzilla , for cryin' out loud . if that doesn't clue you in that something's horribly wrong , nothing will .
+
+it's a m-ovie that ends with t'ruckzilla , for cryin' out l'oud . if that doesn't clue you in that something's horribly wrong , nothing will .
+--------------------------------------------- Result 266 ---------------------------------------------
+Negative (100%) --> Positive (87%)
+
+barney throws away the goodwill the first half of his movie generates by orchestrating a finale that is impenetrable and dull .
+
+bar-ney throws away the go-odwill the first ha-lf of his movie generates by orchestrating a finale that is impen'etrable and dul-l .
+--------------------------------------------- Result 267 ---------------------------------------------
+Positive (61%) --> Negative (83%)
+
+your children will be occupied for 72 minutes .
+
+your children will be occupied for 7'2 minutes .
+--------------------------------------------- Result 268 ---------------------------------------------
+Negative (70%) --> Positive (100%)
+
+two hours of sepia-tinted heavy metal images and surround sound effects of people moaning .
+
+two hours of sepia-tinted heavy metal images and surround sound effects of people moani'ng .
+--------------------------------------------- Result 269 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+tom green and an ivy league college should never appear together on a marquee , especially when the payoff is an unschooled comedy like stealing harvard , which fails to keep 80 minutes from seeming like 800 .
+--------------------------------------------- Result 270 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+a movie where story is almost an afterthought amidst a swirl of colors and inexplicable events .
+--------------------------------------------- Result 271 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+it takes you somewhere you're not likely to have seen before , but beneath the exotic surface ( and exotic dancing ) it's surprisingly old-fashioned .
+--------------------------------------------- Result 272 ---------------------------------------------
+Negative (61%) --> Positive (100%)
+
+the densest distillation of roberts' movies ever made .
+
+the dens'est distillation of roberts' movies ever made .
+--------------------------------------------- Result 273 ---------------------------------------------
+Positive (99%) --> Negative (93%)
+
+twohy knows how to inflate the mundane into the scarifying , and gets full mileage out of the rolling of a stray barrel or the unexpected blast of a phonograph record .
+
+twohy knows how to inflate the mundane into the scarifying , and g'ets full mileage out of the rolling of a stray barrel or the unexpecte'd blast of a phonograph record .
+--------------------------------------------- Result 274 ---------------------------------------------
+Positive (77%) --> Negative (100%)
+
+the kind of trifle that date nights were invented for .
+
+the kind of trifle that date nights were inven-ted for .
+--------------------------------------------- Result 275 ---------------------------------------------
+Positive (99%) --> Negative (92%)
+
+ana's journey is not a stereotypical one of self-discovery , as she's already comfortable enough in her own skin to be proud of her rubenesque physique . . .
+
+ana's j-ourney is not a s'tereotypical one of self-discovery , as she's already comfortable enough in her own skin to be p-roud of her rubenesque physique . . .
+--------------------------------------------- Result 276 ---------------------------------------------
+Positive (100%) --> Negative (96%)
+
+an old-fashioned but emotionally stirring adventure tale of the kind they rarely make anymore .
+
+an old-fashioned but emotionally sti-rring ad'venture tale of the kind they r-arely m-ake anymore .
+--------------------------------------------- Result 277 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+. . . a fairly disposable yet still entertaining b picture .
+
+. . . a fairly disposable yet still enter-taining b picture .
+--------------------------------------------- Result 278 ---------------------------------------------
+Positive (100%) --> Negative (51%)
+
+a real audience-pleaser that will strike a chord with anyone who's ever waited in a doctor's office , emergency room , hospital bed or insurance company office .
+
+a r-eal audience-pleaser that w-ill strike a chord with anyone who's ever w-aited in a docto-r's office , emerge-ncy r'oom , ho'spital b-ed or insu'rance com'pany off-ice .
+--------------------------------------------- Result 279 ---------------------------------------------
+Negative (100%) --> Positive (95%)
+
+swims in mediocrity , sticking its head up for a breath of fresh air now and then .
+
+swims in m'ediocrity , sticking its head up for a breath of fresh air now and then .
+--------------------------------------------- Result 280 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+" austin powers in goldmember " has the right stuff for silly summer entertainment and has enough laughs to sustain interest to the end .
+
+" austin powers in goldmem-ber " has the righ't stuff for silly s-ummer e-ntertainment and ha's enough la-ughs to sustain interest to the end .
+--------------------------------------------- Result 281 ---------------------------------------------
+Positive (99%) --> Negative (97%)
+
+you've already seen city by the sea under a variety of titles , but it's worth yet another visit .
+
+you've already seen c'ity by the s-ea under a var-iety of tit-les , but it's worth yet another visi't .
+--------------------------------------------- Result 282 ---------------------------------------------
+Positive (88%) --> Negative (100%)
+
+an odd drama set in the world of lingerie models and bar dancers in the midwest that held my interest precisely because it didn't try to .
+
+an odd drama set in the world of lingerie models and bar dancers in the midwest that he-ld my interest precisely because it didn't try to .
+--------------------------------------------- Result 283 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the plot is paper-thin and the characters aren't interesting enough to watch them go about their daily activities for two whole hours .
+--------------------------------------------- Result 284 ---------------------------------------------
+Positive (99%) --> Negative (99%)
+
+while the story does seem pretty unbelievable at times , it's awfully entertaining to watch .
+
+while the story does seem pretty unbelievable at times , it's awfully e-ntertaining to watch .
+--------------------------------------------- Result 285 ---------------------------------------------
+Negative (98%) --> [SKIPPED]
+
+if you're in the right b-movie frame of mind , it may just scare the pants off you .
+--------------------------------------------- Result 286 ---------------------------------------------
+Positive (70%) --> Negative (99%)
+
+you will likely prefer to keep on watching .
+
+you will likely prefer to k-eep on watching .
+--------------------------------------------- Result 287 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+it's a sharp movie about otherwise dull subjects .
+
+it's a shar'p movie about otherwise dull subjects .
+--------------------------------------------- Result 288 ---------------------------------------------
+Positive (100%) --> Negative (61%)
+
+time out is as serious as a pink slip . and more than that , it's an observant , unfussily poetic meditation about identity and alienation .
+
+t-ime out is as ser-ious as a pink slip . and more than that , it's an observant , un'fussily p'oetic meditation about i'dentity and alienation .
+--------------------------------------------- Result 289 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+bean drops the ball too many times . . . hoping the nifty premise will create enough interest to make up for an unfocused screenplay .
+
+bean drops the ball too many times . . . ho'ping the nifty premise will create enough interest to make up for an unfocused screenplay .
+--------------------------------------------- Result 290 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+diaz , applegate , blair and posey are suitably kooky which should appeal to women and they strip down often enough to keep men alert , if not amused .
+--------------------------------------------- Result 291 ---------------------------------------------
+Positive (100%) --> Negative (66%)
+
+what sets this romantic comedy apart from most hollywood romantic comedies is its low-key way of tackling what seems like done-to-death material .
+
+what s-ets this romantic co'medy apart from most hollywood romantic comed'ies is its low-key way of tackli-ng what seems like done-to-death material .
+--------------------------------------------- Result 292 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+skillful as he is , mr . shyamalan is undone by his pretensions .
+--------------------------------------------- Result 293 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+a vivid , spicy footnote to history , and a movie that grips and holds you in rapt attention from start to finish .
+--------------------------------------------- Result 294 ---------------------------------------------
+Negative (100%) --> Positive (67%)
+
+the metaphors are provocative , but too often , the viewer is left puzzled by the mechanics of the delivery .
+
+the metaphors are provocative , but too of'ten , the viewer is l'eft puzz-led by the mechanics of the delivery .
+--------------------------------------------- Result 295 ---------------------------------------------
+Negative (100%) --> Positive (51%)
+
+supposedly authentic account of a historical event that's far too tragic to merit such superficial treatment .
+
+supposedly authentic account of a historical event that's far too tragic to merit such superfici'al treatment .
+--------------------------------------------- Result 296 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+i was hoping that it would be sleazy and fun , but it was neither .
+--------------------------------------------- Result 297 ---------------------------------------------
+Negative (100%) --> Positive (72%)
+
+the movie isn't painfully bad , something to be 'fully experienced' ; it's just tediously bad , something to be fully forgotten .
+
+the movi-e isn't painful-ly b'ad , something to be 'ful-ly experienced' ; it's just tedi-ously ba-d , something to be fully f'orgotten .
+--------------------------------------------- Result 298 ---------------------------------------------
+Positive (86%) --> [SKIPPED]
+
+the plot is romantic comedy boilerplate from start to finish .
+--------------------------------------------- Result 299 ---------------------------------------------
+Positive (99%) --> Negative (99%)
+
+there's a lot of tooth in roger dodger . but what's nice is that there's a casual intelligence that permeates the script .
+
+there's a lot of tooth in roger dodger . but what's nic-e is that ther'e's a casual intelligence that pe-rmeates the script .
+--------------------------------------------- Result 300 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+overburdened with complicated plotting and banal dialogue
+--------------------------------------------- Result 301 ---------------------------------------------
+Positive (100%) --> Negative (81%)
+
+a quirky comedy set in newfoundland that cleverly captures the dry wit that's so prevalent on the rock .
+
+a quirky comedy se't in newfoundland that cle-verly captures the dry w'it that's so prevalen't on the roc-k .
+--------------------------------------------- Result 302 ---------------------------------------------
+Negative (100%) --> Positive (54%)
+
+totally overwrought , deeply biased , and wholly designed to make you feel guilty about ignoring what the filmmakers clearly believe are the greatest musicians of all time .
+
+tot-ally o'verwrought , deeply biased , and wholly designed to make you feel guilty about ig-noring what the film-makers clearly belie've are the gre'atest musicia-ns of all time .
+--------------------------------------------- Result 303 ---------------------------------------------
+Positive (100%) --> Negative (70%)
+
+what's most memorable about circuit is that it's shot on digital video , whose tiny camera enables shafer to navigate spaces both large . . . and small . . . with considerable aplomb .
+
+what's most mem-orable about circuit is that it's shot on d'igital video , whose tiny c'amera enables shafer to navigate spa-ces both larg-e . . . and small . . . with considerable aplomb .
+--------------------------------------------- Result 304 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+an encouraging effort from mccrudden
+--------------------------------------------- Result 305 ---------------------------------------------
+Negative (100%) --> Positive (86%)
+
+charly comes off as emotionally manipulative and sadly imitative of innumerable past love story derisions .
+
+charly comes off as emotionally man'ipulative and sadly imit-ative of innumerable past love story derisions .
+--------------------------------------------- Result 306 ---------------------------------------------
+Positive (100%) --> Negative (59%)
+
+a sensitive and astute first feature by anne-sophie birot .
+
+a se-nsitive and astute first fea-ture by anne-sophie bi-rot .
+--------------------------------------------- Result 307 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+as pedestrian as they come .
+
+as pedes-trian as they come .
+--------------------------------------------- Result 308 ---------------------------------------------
+Positive (100%) --> Negative (51%)
+
+does a good job of establishing a time and place , and of telling a fascinating character's story .
+
+do'es a good job of est-ablishing a tim-e and p-lace , and of telling a fasc'inating charact-er's s'tory .
+--------------------------------------------- Result 309 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+the artwork is spectacular and unlike most animaton from japan , the characters move with grace and panache .
+
+the artwork is spect'acular and unlike most animato-n from ja-pan , the characters mov'e with grace and p'anache .
+--------------------------------------------- Result 310 ---------------------------------------------
+Negative (99%) --> Positive (100%)
+
+as saccharine as it is disposable .
+
+as s-accharine as it is dispos'able .
+--------------------------------------------- Result 311 ---------------------------------------------
+Positive (100%) --> Negative (65%)
+
+here polanski looks back on those places he saw at childhood , and captures them by freeing them from artefact , and by showing them heartbreakingly drably .
+
+here polanski looks back on those pl'aces he saw at childhood , and capt-ures them by freei-ng them from artefact , and by showing them hear'tbreakingly drably .
+--------------------------------------------- Result 312 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+williams absolutely nails sy's queasy infatuation and overall strangeness .
+
+williams absolutely nai-ls sy's queasy infatuation and overall strangeness .
+--------------------------------------------- Result 313 ---------------------------------------------
+Positive (97%) --> Negative (98%)
+
+'if you are in the mood for an intelligent weepy , it can easily worm its way into your heart . '
+
+'if you are in the mood for an intelligent weepy , it can easily worm its way into your hea-rt . '
+--------------------------------------------- Result 314 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+gangster no . 1 is solid , satisfying fare for adults .
+
+gan-gster no . 1 is solid , satisf'ying f'are for ad-ults .
+--------------------------------------------- Result 315 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+suffers from its timid parsing of the barn-side target of sons trying to breach gaps in their relationships with their fathers .
+--------------------------------------------- Result 316 ---------------------------------------------
+Positive (100%) --> Negative (97%)
+
+without resorting to camp or parody , haynes ( like sirk , but differently ) has transformed the rhetoric of hollywood melodrama into something provocative , rich , and strange .
+
+without re'sorting to camp or parody , haynes ( like sirk , but differently ) ha's tra'nsformed the rhetoric of hol-lywood melodrama into something provocative , rich , and strange .
+--------------------------------------------- Result 317 ---------------------------------------------
+Negative (100%) --> Positive (80%)
+
+further sad evidence that tom tykwer , director of the resonant and sense-spinning run lola run , has turned out to be a one-trick pony -- a maker of softheaded metaphysical claptrap .
+
+further sa-d evidence that tom tykwer , director of the resonant and sense-spinning run lola run , has turned out to be a one-trick pony -- a maker of softhe'aded metaphysical claptrap .
+--------------------------------------------- Result 318 ---------------------------------------------
+Positive (100%) --> Negative (76%)
+
+beautifully crafted and brutally honest , promises offers an unexpected window into the complexities of the middle east struggle and into the humanity of its people .
+
+b'eautifully craf'ted and brutally honest , promis'es offers an unexp'ected win'dow into the c-omplexities of the midd-le eas-t struggl-e and into the hu-manity of its peop-le .
+--------------------------------------------- Result 319 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+much credit must be given to the water-camera operating team of don king , sonny miller , and michael stewart . their work is fantastic .
+
+much credit must be given to the water-camera operating team of don king , sonny miller , and michael stewart . their work is f-antastic .
+--------------------------------------------- Result 320 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+shiner can certainly go the distance , but isn't world championship material
+--------------------------------------------- Result 321 ---------------------------------------------
+Negative (100%) --> Positive (91%)
+
+the filmmakers are playing to the big boys in new york and l . a . to that end , they mock the kind of folks they don't understand , ones they figure the power-lunchers don't care to understand , either .
+
+the filmmaker-s are playing to the big boys in new york and l . a . to that end , they moc-k the kind of folks they don't un-derstand , ones they figure the power-lunchers don't c'are to understand , either .
+--------------------------------------------- Result 322 ---------------------------------------------
+Positive (100%) --> Negative (68%)
+
+a gangster movie with the capacity to surprise .
+
+a gangs'ter m'ovie with the capacity to sur-prise .
+--------------------------------------------- Result 323 ---------------------------------------------
+Positive (100%) --> Negative (90%)
+
+a film of delicate interpersonal dances . caine makes us watch as his character awakens to the notion that to be human is eventually to have to choose . it's a sight to behold .
+
+a film of delicate in'terpersonal d'ances . ca-ine makes u-s wa'tch as his charact'er a-wakens to the not-ion that to be human is event'ually to have to c'hoose . it's a sight to beh'old .
+--------------------------------------------- Result 324 ---------------------------------------------
+Positive (99%) --> Negative (58%)
+
+gangs , despite the gravity of its subject matter , is often as fun to watch as a good spaghetti western .
+
+gangs , despite the gravity of its subject matter , is often as fun to w-atch as a g'ood spaghetti we'stern .
+--------------------------------------------- Result 325 ---------------------------------------------
+Positive (100%) --> Negative (93%)
+
+director lee has a true cinematic knack , but it's also nice to see a movie with its heart so thoroughly , unabashedly on its sleeve .
+
+di-rector lee has a tru-e c-inematic knack , but it's also nice to s'ee a movie with its hear't so thoroughly , unab-ashedly on its sle-eve .
+--------------------------------------------- Result 326 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the uneven movie does have its charms and its funny moments but not quite enough of them .
+--------------------------------------------- Result 327 ---------------------------------------------
+Positive (89%) --> [SKIPPED]
+
+does anyone much think the central story of brendan behan is that he was a bisexual sweetheart before he took to drink ?
+--------------------------------------------- Result 328 ---------------------------------------------
+Negative (84%) --> [SKIPPED]
+
+saved from being merely way-cool by a basic , credible compassion .
+--------------------------------------------- Result 329 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the exploitative , clumsily staged violence overshadows everything , including most of the actors .
+--------------------------------------------- Result 330 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+this director's cut -- which adds 51 minutes -- takes a great film and turns it into a mundane soap opera .
+
+this director's cut -- which adds 51 minutes -- takes a great film and turns it into a mun-dane soap opera .
+--------------------------------------------- Result 331 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+feels more like a rejected x-files episode than a credible account of a puzzling real-life happening .
+--------------------------------------------- Result 332 ---------------------------------------------
+Negative (100%) --> Positive (74%)
+
+as his circle of friends keeps getting smaller one of the characters in long time dead says 'i'm telling you , this is f * * * ed' . maybe he was reading the minds of the audience .
+
+as his circle of friends keeps getting smaller one of the cha'racters in long time dead says 'i'-m telling you , this is f * * * ed' . m-aybe he was reading the minds of the audience .
+--------------------------------------------- Result 333 ---------------------------------------------
+Negative (100%) --> Positive (89%)
+
+it's so downbeat and nearly humorless that it becomes a chore to sit through -- despite some first-rate performances by its lead .
+
+it's s-o downbeat and nearly humorless that it becomes a chore to sit through -- desp-ite some first-rate performances by its lead .
+--------------------------------------------- Result 334 ---------------------------------------------
+Positive (100%) --> Negative (57%)
+
+a journey spanning nearly three decades of bittersweet camaraderie and history , in which we feel that we truly know what makes holly and marina tick , and our hearts go out to them as both continue to negotiate their imperfect , love-hate relationship .
+
+a journe-y spanning nearly three decades of bitters-weet camara-derie and his'tory , in which we feel that we t'ruly kn'ow what mak'es ho-lly and ma'rina t'ick , and our hearts go out to them as both co-ntinue to negoti-ate their imperfect , love-hate relationship .
+--------------------------------------------- Result 335 ---------------------------------------------
+Negative (100%) --> Positive (98%)
+
+strident and inelegant in its 'message-movie' posturing .
+
+strident and in-elegant in its 'message-movie' posturing .
+--------------------------------------------- Result 336 ---------------------------------------------
+Negative (99%) --> Positive (92%)
+
+the ethos of the chelsea hotel may shape hawke's artistic aspirations , but he hasn't yet coordinated his own dv poetry with the beat he hears in his soul .
+
+the ethos of the chelsea hotel may shape hawke's artistic aspirations , but he hasn't yet c'oordinated his own dv poetry with the beat he hears in his soul .
+--------------------------------------------- Result 337 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the santa clause 2 is a barely adequate babysitter for older kids , but i've got to give it thumbs down .
+--------------------------------------------- Result 338 ---------------------------------------------
+Positive (66%) --> [SKIPPED]
+
+a period story about a catholic boy who tries to help a jewish friend get into heaven by sending the audience straight to hell .
+--------------------------------------------- Result 339 ---------------------------------------------
+Positive (100%) --> Negative (75%)
+
+pratfalls aside , barbershop gets its greatest play from the timeless spectacle of people really talking to each other .
+
+pratfalls aside , barbershop gets its greatest play from the time'less spectacle of people really talking to each other .
+--------------------------------------------- Result 340 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+a so-so , made-for-tv something posing as a real movie .
+--------------------------------------------- Result 341 ---------------------------------------------
+Positive (100%) --> Negative (61%)
+
+steers , in his feature film debut , has created a brilliant motion picture .
+
+steers , in his feature film debut , has created a b-rilliant motion picture .
+--------------------------------------------- Result 342 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+the world needs more filmmakers with passionate enthusiasms like martin scorsese . but it doesn't need gangs of new york .
+--------------------------------------------- Result 343 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+laugh-out-loud lines , adorably ditsy but heartfelt performances , and sparkling , bittersweet dialogue that cuts to the chase of the modern girl's dilemma .
+
+laugh-ou't-loud lines , ad-orably ditsy but h'eartfelt pe-rformances , and sparkli-ng , bitterswee't dialogue that cut-s to the chase of the moder-n gi'rl's dile-mma .
+--------------------------------------------- Result 344 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+spy-vs . -spy action flick with antonio banderas and lucy liu never comes together .
+--------------------------------------------- Result 345 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+this is an insultingly inept and artificial examination of grief and its impacts upon the relationships of the survivors .
+
+this is an insultingly i'nept and artif'icial examination of grief and its impacts upon the relationships of the survivors .
+--------------------------------------------- Result 346 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+neither quite a comedy nor a romance , more of an impish divertissement of themes that interest attal and gainsbourg -- they live together -- the film has a lot of charm .
+
+neither quite a comedy nor a romance , more of an impish divertissement of themes that interest attal and gainsbourg -- they live together -- the film has a lot of ch-arm .
+--------------------------------------------- Result 347 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+performances are potent , and the women's stories are ably intercut and involving .
+
+performances are po-tent , and the wome'n's storie-s are ab-ly in'tercut and i'nvolving .
+--------------------------------------------- Result 348 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+. . . a ho-hum affair , always watchable yet hardly memorable .
+
+. . . a ho-hum affair , always watchable yet ha-rdly memorable .
+--------------------------------------------- Result 349 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+ice age won't drop your jaw , but it will warm your heart , and i'm giving it a strong thumbs up .
+--------------------------------------------- Result 350 ---------------------------------------------
+Positive (100%) --> Negative (67%)
+
+a brilliant , absurd collection of vignettes that , in their own idiosyncratic way , sum up the strange horror of life in the new millennium .
+
+a brillian't , absurd collection of vignettes that , in their own i'diosyncratic way , sum up the strang'e horror of l-ife in the n-ew mi'llennium .
+--------------------------------------------- Result 351 ---------------------------------------------
+Negative (99%) --> Positive (98%)
+
+the master of disguise is awful . it's pauly shore awful . don't say you weren't warned .
+
+the master of disguise is aw'ful . it's pauly shore awf'ul . don't say you weren't warned .
+--------------------------------------------- Result 352 ---------------------------------------------
+Positive (100%) --> Negative (57%)
+
+scherfig , the writer-director , has made a film so unabashedly hopeful that it actually makes the heart soar . yes , soar .
+
+scherfig , the writer-director , has made a fil-m so unabashedly hopeful that it actually makes the hear't soar . yes , soar .
+--------------------------------------------- Result 353 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+yet another self-consciously overwritten story about a rag-tag bunch of would-be characters that team up for a can't-miss heist -- only to have it all go wrong .
+--------------------------------------------- Result 354 ---------------------------------------------
+Positive (100%) --> Negative (93%)
+
+there's no denying that burns is a filmmaker with a bright future ahead of him .
+
+there's no deny-ing that burns is a fil-mmaker with a bri-ght fut'ure ahead of him .
+--------------------------------------------- Result 355 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+the film was immensely enjoyable thanks to great performances by both steve buscemi and rosario dawson . . .
+
+the fil-m was immen-sely e-njoyable tha'nks to grea't performances by both s'teve buscem-i and rosar'io d'awson . . .
+--------------------------------------------- Result 356 ---------------------------------------------
+Negative (100%) --> Positive (83%)
+
+characterisation has been sacrificed for the sake of spectacle .
+
+ch'aracterisation has been sacrifice-d for the s'ake of spe'ctacle .
+--------------------------------------------- Result 357 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+tully is worth a look for its true-to-life characters , its sensitive acting , its unadorned view of rural life and the subtle direction of first-timer hilary birmingham .
+
+tully is wor'th a look for its true-to-lif-e charact'ers , its se'nsitive actin-g , its unadorned v-iew of rural l-ife and the subtl-e direct-ion of first-timer hilary birming-ham .
+--------------------------------------------- Result 358 ---------------------------------------------
+Negative (100%) --> Positive (90%)
+
+such a premise is ripe for all manner of lunacy , but kaufman and gondry rarely seem sure of where it should go .
+
+such a premise is ripe for all manner of lunacy , but kaufman and gondry ra-rely seem sure of where it should go .
+--------------------------------------------- Result 359 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+deuces wild treads heavily into romeo and juliet/west side story territory , where it plainly has no business going .
+--------------------------------------------- Result 360 ---------------------------------------------
+Negative (89%) --> [SKIPPED]
+
+sometimes we feel as if the film careens from one colorful event to another without respite , but sometimes it must have seemed to frida kahlo as if her life did , too .
+--------------------------------------------- Result 361 ---------------------------------------------
+Positive (100%) --> Negative (98%)
+
+as relationships shift , director robert j . siegel allows the characters to inhabit their world without cleaving to a narrative arc .
+
+as relationships shift , director robert j . siegel all-ows the characters to i-nhabit their world without cleaving to a narrati-ve arc .
+--------------------------------------------- Result 362 ---------------------------------------------
+Negative (100%) --> Positive (69%)
+
+shame on writer/director vicente aranda for making a florid biopic about mad queens , obsessive relationships , and rampant adultery so dull .
+
+sh-ame on w'riter/director vicente ar'anda for making a fl'orid biopic about mad queens , obsessive relationships , and rampan't adultery s'o d'ull .
+--------------------------------------------- Result 363 ---------------------------------------------
+Negative (99%) --> [FAILED]
+
+cherish would've worked a lot better had it been a short film .
+--------------------------------------------- Result 364 ---------------------------------------------
+Negative (100%) --> Positive (78%)
+
+one of the worst movies of the year . . . . watching it was painful .
+
+one of the w-orst movie's of the year . . . . wat'ching it was painf'ul .
+--------------------------------------------- Result 365 ---------------------------------------------
+Negative (100%) --> Positive (83%)
+
+this 90-minute dud could pass for mike tyson's e ! true hollywood story .
+
+this 90-minute dud could pas's for m'ike tyson's e ! true hollywood story .
+--------------------------------------------- Result 366 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+the modern remake of dumas's story is long on narrative and ( too ) short on action .
+--------------------------------------------- Result 367 ---------------------------------------------
+Positive (100%) --> Negative (97%)
+
+old-fashioned but thoroughly satisfying entertainment .
+
+old-fashione'd but tho'roughly satisfying ent'ertainment .
+--------------------------------------------- Result 368 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+sex with strangers is fascinating . . .
+
+sex with strangers is fasc'inating . . .
+--------------------------------------------- Result 369 ---------------------------------------------
+Positive (94%) --> Negative (79%)
+
+one of the funnier movies in town .
+
+one of the funnier mov-ies in town .
+--------------------------------------------- Result 370 ---------------------------------------------
+Positive (100%) --> Negative (86%)
+
+the early and middle passages are surprising in how much they engage and even touch us . this is not a classical dramatic animated feature , nor a hip , contemporary , in-jokey one . it's sort of in-between , and it works .
+
+the early and middle passages are surprising in how much they engage and even touch us . this is not a classical dramatic animated feature , nor a hip , contemporary , in-jokey one . it's sort of in-between , and it wo-rks .
+--------------------------------------------- Result 371 ---------------------------------------------
+Negative (100%) --> Positive (97%)
+
+feels strangely hollow at its emotional core .
+
+feels strangely h'ollow at its emotional core .
+--------------------------------------------- Result 372 ---------------------------------------------
+Positive (100%) --> Negative (78%)
+
+kinnear . . . gives his best screen performance with an oddly winning portrayal of one of life's ultimate losers .
+
+kinnear . . . gives his best scr-een performance with an oddly w'inning po-rtrayal of one of lif'e's u'ltimate losers .
+--------------------------------------------- Result 373 ---------------------------------------------
+Positive (100%) --> Negative (78%)
+
+elegantly produced and expressively performed , the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy .
+
+e-legantly produced and exp-ressively performed , the six music-al numbers crystallize key plot moments into minutely de-tailed wonde-rs of dreamlike ecstasy .
+--------------------------------------------- Result 374 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+one of the best of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is worthy of our respect .
+--------------------------------------------- Result 375 ---------------------------------------------
+Positive (100%) --> Negative (93%)
+
+a pretty funny movie , with most of the humor coming , as before , from the incongruous but chemically perfect teaming of crystal and de niro .
+
+a pretty f'unny mov'ie , with most of the humor coming , as before , from the inc-ongruous but chemically perfect t-eaming of crystal and de niro .
+--------------------------------------------- Result 376 ---------------------------------------------
+Positive (100%) --> Negative (73%)
+
+in visual fertility treasure planet rivals the top japanese animations of recent vintage .
+
+in vis'ual fertility treas-ure planet rivals the top jap-anese animat-ions of re-cent vintage .
+--------------------------------------------- Result 377 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a highly watchable , giggly little story with a sweet edge to it .
+
+a hi'ghly watchab-le , giggly little s'tory with a swee't e-dge to it .
+--------------------------------------------- Result 378 ---------------------------------------------
+Positive (100%) --> Negative (96%)
+
+maryam is a small film , but it offers large rewards .
+
+maryam is a sma-ll film , but it offers lar'ge rewar'ds .
+--------------------------------------------- Result 379 ---------------------------------------------
+Negative (95%) --> [SKIPPED]
+
+those of you who don't believe in santa claus probably also think that sequels can never capture the magic of the original . well , this movie proves you wrong on both counts .
+--------------------------------------------- Result 380 ---------------------------------------------
+Positive (80%) --> [SKIPPED]
+
+certainly not a good movie , but it wasn't horrible either .
+--------------------------------------------- Result 381 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+beautifully directed and convincingly acted .
+
+bea-utifully dire'cted and conv'incingly acted .
+--------------------------------------------- Result 382 ---------------------------------------------
+Positive (100%) --> Negative (56%)
+
+the film is . . . determined to treat its characters , weak and strong , as fallible human beings , not caricatures , and to carefully delineate the cost of the inevitable conflicts between human urges and an institution concerned with self-preservation .
+
+the film is . . . determined to treat its characters , weak and str-ong , as fallible human beings , not caricatures , and to ca-refully deli'neate the cost of the inevitable conflicts between human urges and an institution concerned with self-preservation .
+--------------------------------------------- Result 383 ---------------------------------------------
+Positive (100%) --> Negative (94%)
+
+a muddle splashed with bloody beauty as vivid as any scorsese has ever given us .
+
+a muddle splashed with bloody bea-uty as vivid as any scorsese has ever given us .
+--------------------------------------------- Result 384 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a vivid , sometimes surreal , glimpse into the mysteries of human behavior .
+
+a viv-id , sometimes surrea'l , g-limpse into the mysterie's of h'uman behavio'r .
+--------------------------------------------- Result 385 ---------------------------------------------
+Positive (100%) --> Negative (82%)
+
+red dragon makes one appreciate silence of the lambs .
+
+red dragon makes one appreci-ate silence of the lambs .
+--------------------------------------------- Result 386 ---------------------------------------------
+Positive (97%) --> Negative (96%)
+
+a huge box-office hit in korea , shiri is a must for genre fans .
+
+a huge box-office hit in k-orea , shiri is a must for genre fans .
+--------------------------------------------- Result 387 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a captivating and intimate study about dying and loving . . .
+
+a capti-vating and i'ntimate s'tudy about dying and l'oving . . .
+--------------------------------------------- Result 388 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+juliette binoche's sand is vivacious , but it's hard to sense that powerhouse of 19th-century prose behind her childlike smile .
+--------------------------------------------- Result 389 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+a porn film without the sex scenes .
+--------------------------------------------- Result 390 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it collapses when mr . taylor tries to shift the tone to a thriller's rush .
+--------------------------------------------- Result 391 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+an unfortunate title for a film that has nothing endearing about it .
+--------------------------------------------- Result 392 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+it's a feel-bad ending for a depressing story that throws a bunch of hot-button items in the viewer's face and asks to be seen as hip , winking social commentary .
+--------------------------------------------- Result 393 ---------------------------------------------
+Negative (100%) --> Positive (70%)
+
+in a big corner office in hell , satan is throwing up his hands in surrender , is firing his r&d people , and has decided he will just screen the master of disguise 24/7 .
+
+in a big corner office in hell , satan is throwing up his hands in surrender , is firing his r&d people , and has de'cided he will just sc'reen the master of disguise 24/7 .
+--------------------------------------------- Result 394 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+. . . better described as a ghost story gone badly awry .
+--------------------------------------------- Result 395 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+the best thing i can say about this film is that i can't wait to see what the director does next .
+
+the best thing i can say about this film is that i can't w-ait to see what the director does next .
+--------------------------------------------- Result 396 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+although melodramatic and predictable , this romantic comedy explores the friendship between five filipino-americans and their frantic efforts to find love .
+
+although me'lodramatic and predictable , this romantic comedy ex-plores the friendship between five filipino-americans and their frantic efforts to find love .
+--------------------------------------------- Result 397 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a smart and funny , albeit sometimes superficial , cautionary tale of a technology in search of an artist .
+
+a smart and f'unny , albeit so'metimes superficial , cautionary tale of a technology in search of an artist .
+--------------------------------------------- Result 398 ---------------------------------------------
+Positive (100%) --> Negative (70%)
+
+its story about a young chinese woman , ah na , who has come to new york city to replace past tragedy with the american dream is one that any art-house moviegoer is likely to find compelling .
+
+its story about a young chinese woman , ah na , who has come to new york city to replace past tragedy with the american drea'm is one that any art-house moviegoer is likely to find c-ompelling .
+--------------------------------------------- Result 399 ---------------------------------------------
+Negative (100%) --> Positive (77%)
+
+the skills of a calculus major at m . i . t . are required to balance all the formulaic equations in the long-winded heist comedy who is cletis tout ?
+
+the skills of a calculus major at m . i . t . are r'equired to balance all the formulaic equations in the long-win-ded heist comed'y who is cletis tout ?
+--------------------------------------------- Result 400 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+an original and highly cerebral examination of the psychopathic mind
+
+an or'iginal and highly cerebral exam'ination of the psychopathic mind
+--------------------------------------------- Result 401 ---------------------------------------------
+Negative (100%) --> Positive (59%)
+
+yes they can swim , the title is merely anne-sophie birot's off-handed way of saying girls find adolescence difficult to wade through .
+
+y-es they can swim , the t'itle is me'rely anne-s-ophie biro-t's off-handed way of s'aying girls find adolescence diff'icult to wade through .
+--------------------------------------------- Result 402 ---------------------------------------------
+Positive (100%) --> Negative (73%)
+
+a wry , affectionate delight .
+
+a wr'y , affectionate deligh't .
+--------------------------------------------- Result 403 ---------------------------------------------
+Positive (100%) --> Negative (72%)
+
+[grant] goes beyond his usual fluttering and stammering and captures the soul of a man in pain who gradually comes to recognize it and deal with it .
+
+[grant] goes beyond his u'sual flutte'ring and stammering and captu-res the soul of a m-an in pain who gradua'lly come-s to recognize it and deal with it .
+--------------------------------------------- Result 404 ---------------------------------------------
+Negative (84%) --> [SKIPPED]
+
+it's like a " big chill " reunion of the baader-meinhof gang , only these guys are more harmless pranksters than political activists .
+--------------------------------------------- Result 405 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+a breathtaking adventure for all ages , spirit tells its poignant and uplifting story in a stunning fusion of music and images .
+--------------------------------------------- Result 406 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the action quickly sinks into by-the-numbers territory .
+--------------------------------------------- Result 407 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without stickiness .
+
+lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without sticki'ness .
+--------------------------------------------- Result 408 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+what begins as a film in the tradition of the graduate quickly switches into something more recyclable than significant .
+--------------------------------------------- Result 409 ---------------------------------------------
+Positive (100%) --> Negative (75%)
+
+[shyamalan] continues to cut a swathe through mainstream hollywood , while retaining an integrity and refusing to compromise his vision .
+
+[shyamalan] continues to cut a swathe through mainstream hollywood , while retaining an integrity and refu'sing to compromise his vision .
+--------------------------------------------- Result 410 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+an entertaining , if ultimately minor , thriller .
+
+an enterta-ining , if ultimately minor , thriller .
+--------------------------------------------- Result 411 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+harris is supposed to be the star of the story , but comes across as pretty dull and wooden .
+--------------------------------------------- Result 412 ---------------------------------------------
+Negative (80%) --> Positive (95%)
+
+belongs in the too-hot-for-tv direct-to-video/dvd category , and this is why i have given it a one-star rating .
+
+belongs in the to-o-hot-for-tv direct-to-video/dvd category , and this is why i have given it a one-star rating .
+--------------------------------------------- Result 413 ---------------------------------------------
+Positive (85%) --> Negative (99%)
+
+the closest thing to the experience of space travel
+
+the closest thing to the experi-ence of space travel
+--------------------------------------------- Result 414 ---------------------------------------------
+Negative (100%) --> Positive (100%)
+
+though uniformly well acted , especially by young ballesta and galan ( a first-time actor ) , writer/director achero manas's film is schematic and obvious .
+
+t'hough uniformly well acted , especially by young ballesta and galan ( a first-time actor ) , writer/director achero manas's film is schematic and obvious .
+--------------------------------------------- Result 415 ---------------------------------------------
+Positive (99%) --> [SKIPPED]
+
+never again , while nothing special , is pleasant , diverting and modest -- definitely a step in the right direction .
+--------------------------------------------- Result 416 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+throwing in everything except someone pulling the pin from a grenade with his teeth , windtalkers seems to have ransacked every old world war ii movie for overly familiar material .
+--------------------------------------------- Result 417 ---------------------------------------------
+Negative (100%) --> Positive (81%)
+
+the connected stories of breitbart and hanussen are actually fascinating , but the filmmaking in invincible is such that the movie does not do them justice .
+
+the connected stories of breitbart and hanussen are actually fascinating , but the filmmaking in invincible is such that the movie does not do them just'ice .
+--------------------------------------------- Result 418 ---------------------------------------------
+Positive (100%) --> Negative (89%)
+
+this seductive tease of a thriller gets the job done . it's a scorcher .
+
+this seduct'ive tease of a thril-ler g-ets the job done . it's a scorcher .
+--------------------------------------------- Result 419 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+well-made but mush-hearted .
+
+well-mad-e but mu'sh-hearted .
+--------------------------------------------- Result 420 ---------------------------------------------
+Negative (66%) --> Positive (86%)
+
+if it were any more of a turkey , it would gobble in dolby digital stereo . if nothing else , " rollerball " 2002 may go down in cinema history as the only movie ever in which the rest of the cast was outshined by ll cool j .
+
+if it were any more of a turkey , it would gobble in dolby digital stereo . if nothing else , " rollerball " 2002 may go down in cin'ema history as the only movie ever in which the rest of the cast was outshined by ll cool j .
+--------------------------------------------- Result 421 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+. . . certainly an entertaining ride , despite many talky , slow scenes . but something seems to be missing . a sense of real magic , perhaps .
+--------------------------------------------- Result 422 ---------------------------------------------
+Positive (98%) --> Negative (90%)
+
+the film feels uncomfortably real , its language and locations bearing the unmistakable stamp of authority .
+
+the film feels uncomfortably real , its language and locations bearing the unmistakable stamp of a-uthority .
+--------------------------------------------- Result 423 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+like the tuck family themselves , this movie just goes on and on and on and on
+--------------------------------------------- Result 424 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+how do you make a movie with depth about a man who lacked any ? on the evidence before us , the answer is clear : not easily and , in the end , not well enough .
+--------------------------------------------- Result 425 ---------------------------------------------
+Positive (100%) --> Negative (59%)
+
+standing in the shadows of motown is the best kind of documentary , one that makes a depleted yesterday feel very much like a brand-new tomorrow .
+
+standing in the shadows of motown is the bes't kind of doc-umentary , one that makes a depleted yesterday feel very much like a brand-new tomorrow .
+--------------------------------------------- Result 426 ---------------------------------------------
+Negative (100%) --> Positive (98%)
+
+a preposterously melodramatic paean to gang-member teens in brooklyn circa 1958 .
+
+a preposterou-sly melodramatic paean to gang-member teens in brooklyn circa 1958 .
+--------------------------------------------- Result 427 ---------------------------------------------
+Negative (100%) --> Positive (79%)
+
+the dialogue is cumbersome , the simpering soundtrack and editing more so .
+
+the dialo'gue is cu'mbersome , the simp-ering soundtrack and edi'ting more so .
+--------------------------------------------- Result 428 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+solondz is without doubt an artist of uncompromising vision , but that vision is beginning to feel , if not morally bankrupt , at least terribly monotonous .
+
+solondz is without doubt an artist of uncompromising vision , but that vision is b'eginning to feel , if not morally bankrup-t , at least terribly monoto-nous .
+--------------------------------------------- Result 429 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+tunney , brimming with coltish , neurotic energy , holds the screen like a true star .
+
+tunney , brimming with coltish , neurotic ene-rgy , holds the screen like a t-rue star .
+--------------------------------------------- Result 430 ---------------------------------------------
+Positive (100%) --> Negative (92%)
+
+its use of the thriller form to examine the labyrinthine ways in which people's lives cross and change , buffeted by events seemingly out of their control , is intriguing , provocative stuff .
+
+its use of the thriller form to exami-ne the lab'yrinthine ways in which people's lives cross and chang-e , buffeted by even'ts seemingly out of their control , is intriguing , provocat-ive s'tuff .
+--------------------------------------------- Result 431 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+works because we're never sure if ohlinger's on the level or merely a dying , delusional man trying to get into the history books before he croaks .
+--------------------------------------------- Result 432 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+like a bad improvisation exercise , the superficially written characters ramble on tediously about their lives , loves and the art they're struggling to create .
+--------------------------------------------- Result 433 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+we get the comedy we settle for .
+--------------------------------------------- Result 434 ---------------------------------------------
+Negative (100%) --> Positive (99%)
+
+it has become apparent that the franchise's best years are long past .
+
+it has become apparent that the franchise's best years are long pa'st .
+--------------------------------------------- Result 435 ---------------------------------------------
+Positive (99%) --> Negative (99%)
+
+there's a great deal of corny dialogue and preposterous moments . and yet , it still works .
+
+there's a great deal of corny dialogue and preposterous moments . and yet , it still wo-rks .
+--------------------------------------------- Result 436 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+the hanukkah spirit seems fried in pork .
+--------------------------------------------- Result 437 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+there's something poignant about an artist of 90-plus years taking the effort to share his impressions of life and loss and time and art with us .
+
+there's something poign'ant about an ar-tist of 9'0-plus y'ears tak'ing the effort to s'hare his imp-ressions of li'fe and lo'ss and tim'e and ar't with us .
+--------------------------------------------- Result 438 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+in gleefully , thumpingly hyperbolic terms , it covers just about every cliche in the compendium about crass , jaded movie types and the phony baloney movie biz .
+--------------------------------------------- Result 439 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+plunges you into a reality that is , more often then not , difficult and sad , and then , without sentimentalizing it or denying its brutality , transforms that reality into a lyrical and celebratory vision .
+
+plung'es you into a re'ality that is , more o-ften then not , di'fficult and s-ad , and then , without sent-imentalizing it or de-nying its brut-ality , t-ransforms that realit-y into a lyri'cal and celebra-tory vis'ion .
+--------------------------------------------- Result 440 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+suffers from a decided lack of creative storytelling .
+--------------------------------------------- Result 441 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+in my opinion , analyze that is not as funny or entertaining as analyze this , but it is a respectable sequel .
+
+in my opinion , analyze that is not as funny or entertaining as analyze this , but it is a re-spectable sequel .
+--------------------------------------------- Result 442 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+a charming and funny story of clashing cultures and a clashing mother/daughter relationship .
+
+a char'ming and f-unny sto-ry of cl'ashing cu-ltures and a clashing mo-ther/daughter relationship .
+--------------------------------------------- Result 443 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+[an] absorbing documentary .
+
+[an] a'bsorbing documentary .
+--------------------------------------------- Result 444 ---------------------------------------------
+Negative (99%) --> Positive (95%)
+
+a film that plays things so nice 'n safe as to often play like a milquetoast movie of the week blown up for the big screen .
+
+a film that plays things so nice 'n safe as to often play like a milquetoast movie of the week bl-own up for the big screen .
+--------------------------------------------- Result 445 ---------------------------------------------
+Negative (100%) --> Positive (85%)
+
+sandra bullock and hugh grant make a great team , but this predictable romantic comedy should get a pink slip .
+
+s-andra bullock and hugh grant make a grea't team , but this predict'able romantic comedy should g'et a pin'k slip .
+--------------------------------------------- Result 446 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+i walked away not really know who " they " were , what " they " looked like . why " they " were here and what " they " wanted and quite honestly , i didn't care .
+--------------------------------------------- Result 447 ---------------------------------------------
+Negative (100%) --> Positive (59%)
+
+another boorish movie from the i-heard-a-joke- at-a-frat-party school of screenwriting .
+
+another boo-rish m'ovie from the i'-heard-a-joke- at-a-fr-at-party school of screenwriting .
+--------------------------------------------- Result 448 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+if borstal boy isn't especially realistic , it is an engaging nostalgia piece .
+
+if borstal boy isn't especially realistic , it is an e-ngaging nostalgia piece .
+--------------------------------------------- Result 449 ---------------------------------------------
+Negative (100%) --> [SKIPPED]
+
+i'd rather watch a rerun of the powerpuff girls
+--------------------------------------------- Result 450 ---------------------------------------------
+Positive (87%) --> Negative (61%)
+
+would you laugh if a tuba-playing dwarf rolled down a hill in a trash can ? do you chuckle at the thought of an ancient librarian whacking a certain part of a man's body ? if you answered yes , by all means enjoy the new guy .
+
+would you laugh if a tuba-playing dwarf rolled down a hill in a trash can ? do you chuckle at the thought of an ancient librarian whacking a certain part of a man's body ? if you answered yes , by all means enj-oy the new guy .
+--------------------------------------------- Result 451 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+i'm going to give it a marginal thumbs up . i liked it just enough .
+
+i'm going to giv'e it a marginal th'umbs up . i li'ked it just enough .
+--------------------------------------------- Result 452 ---------------------------------------------
+Positive (99%) --> Negative (100%)
+
+watching spirited away is like watching an eastern imagination explode .
+
+watching spirited away is like watching an eastern imaginatio'n explode .
+--------------------------------------------- Result 453 ---------------------------------------------
+Positive (100%) --> Negative (61%)
+
+as warm as it is wise , deftly setting off uproarious humor with an underlying seriousness that sneaks up on the viewer , providing an experience that is richer than anticipated .
+
+as wa-rm as it is wi'se , def-tly set-ting off uproari'ous humo'r with an under-lying seriousness that sne-aks up on the vi-ewer , providing an ex-perience that is ri'cher than anticipated .
+--------------------------------------------- Result 454 ---------------------------------------------
+Negative (100%) --> Positive (61%)
+
+though there are many tense scenes in trapped , they prove more distressing than suspenseful .
+
+though there are many tense scenes in trapped , they prov'e more di-stressing than s'uspenseful .
+--------------------------------------------- Result 455 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+though overall an overwhelmingly positive portrayal , the film doesn't ignore the more problematic aspects of brown's life .
+
+though overall an overwhelmingly positive portrayal , the film doesn't ign'ore the more problematic aspects of brown's life .
+--------------------------------------------- Result 456 ---------------------------------------------
+Positive (99%) --> Negative (88%)
+
+like its title character , this nicholas nickleby finds itself in reduced circumstances -- and , also like its hero , it remains brightly optimistic , coming through in the end .
+
+like its title chara-cter , this nicho'las nickl-eby finds itself in reduced circu'mstances -- and , also l'ike its hero , it remains brightly opt-imistic , coming through in the end .
+--------------------------------------------- Result 457 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+this kind of hands-on storytelling is ultimately what makes shanghai ghetto move beyond a good , dry , reliable textbook and what allows it to rank with its worthy predecessors .
+
+this k-ind of hands'-on st-orytelling is ultimately what makes shanghai ghetto move beyond a g'ood , dry , rel-iable textbook and what al-lows it to r-ank with its wo-rthy predecesso-rs .
+--------------------------------------------- Result 458 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+the comedy makes social commentary more palatable .
+
+the comedy makes social commentary more pal-atable .
+--------------------------------------------- Result 459 ---------------------------------------------
+Negative (97%) --> Positive (97%)
+
+the sight of the name bruce willis brings to mind images of a violent battlefield action picture , but the film has a lot more on its mind--maybe too much .
+
+the sight of the name bruce willis brings to mind images of a violent battlefield action picture , but the film has a lot more on its mind--maybe too m'uch .
+--------------------------------------------- Result 460 ---------------------------------------------
+Positive (100%) --> [FAILED]
+
+brutally honest and told with humor and poignancy , which makes its message resonate .
+--------------------------------------------- Result 461 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+movies like high crimes flog the dead horse of surprise as if it were an obligation . how about surprising us by trying something new ?
+--------------------------------------------- Result 462 ---------------------------------------------
+Positive (100%) --> [SKIPPED]
+
+one key problem with these ardently christian storylines is that there is never any question of how things will turn out .
+--------------------------------------------- Result 463 ---------------------------------------------
+Positive (100%) --> Negative (85%)
+
+the most ingenious film comedy since being john malkovich .
+
+the most in-genious f'ilm comedy since being john malkovich .
+--------------------------------------------- Result 464 ---------------------------------------------
+Positive (100%) --> Negative (84%)
+
+in addition to scoring high for originality of plot -- putting together familiar themes of family , forgiveness and love in a new way -- lilo & stitch has a number of other assets to commend it to movie audiences both innocent and jaded .
+
+in addition to scoring h-igh for originality of plot -- putting together familiar themes of family , for'giveness and love in a new way -- l-ilo & stitch ha-s a number of other assets to commend it to m-ovie audiences both innoce-nt and jaded .
+--------------------------------------------- Result 465 ---------------------------------------------
+Negative (91%) --> [SKIPPED]
+
+bring on the sequel .
+--------------------------------------------- Result 466 ---------------------------------------------
+Negative (100%) --> Positive (74%)
+
+blade ii has a brilliant director and charismatic star , but it suffers from rampant vampire devaluation .
+
+blade ii h-as a brilliant direc-tor and charismatic star , but it suffers from rampant vampire devaluati-on .
+--------------------------------------------- Result 467 ---------------------------------------------
+Positive (98%) --> Negative (93%)
+
+by its modest , straight-ahead standards , undisputed scores a direct hit .
+
+by its modest , straight-ahea-d standards , undisputed scores a direct hit .
+--------------------------------------------- Result 468 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+no such thing breaks no new ground and treads old turf like a hippopotamus ballerina .
+--------------------------------------------- Result 469 ---------------------------------------------
+Positive (100%) --> Negative (95%)
+
+the film truly does rescue [the funk brothers] from motown's shadows . it's about time .
+
+the film tru'ly does re-scue [the funk brothers] from motown's shadows . it's about time .
+--------------------------------------------- Result 470 ---------------------------------------------
+Positive (99%) --> Negative (96%)
+
+hugh grant , who has a good line in charm , has never been more charming than in about a boy .
+
+hugh grant , who has a good line in charm , has never been more c-harming than in about a boy .
+--------------------------------------------- Result 471 ---------------------------------------------
+Positive (100%) --> Negative (62%)
+
+tsai ming-liang's witty , wistful new film , what time is it there ? , is a temporal inquiry that shoulders its philosophical burden lightly .
+
+tsai ming-liang's wi'tty , wistful new f-ilm , what time is it there ? , is a temporal i'nquiry that shoulders its philosophica-l burde'n lightly .
+--------------------------------------------- Result 472 ---------------------------------------------
+Negative (100%) --> Positive (85%)
+
+a film that presents an interesting , even sexy premise then ruins itself with too many contrivances and goofy situations .
+
+a film that presents an interesting , even sexy pre-mise then rui'ns itself with too many contrivances and goo'fy situations .
+--------------------------------------------- Result 473 ---------------------------------------------
+Negative (100%) --> Positive (62%)
+
+the filmmakers keep pushing the jokes at the expense of character until things fall apart .
+
+the filmmakers keep pushi-ng the jok'es at the expense of charac-ter until things fal-l apar-t .
+--------------------------------------------- Result 474 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+watching " ending " is too often like looking over the outdated clothes and plastic knickknacks at your neighbor's garage sale . you can't believe anyone would really buy this stuff .
+--------------------------------------------- Result 475 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+[breheny's] lensing of the new zealand and cook island locations captures both the beauty of the land and the people .
+
+[breheny's] lensing of the new zealand and cook i'sland locations ca-ptures both the b-eauty of the land and the people .
+--------------------------------------------- Result 476 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+too slick and manufactured to claim street credibility .
+--------------------------------------------- Result 477 ---------------------------------------------
+Positive (100%) --> Negative (97%)
+
+a pointed , often tender , examination of the pros and cons of unconditional love and familial duties .
+
+a poi-nted , often tender , ex'amination of the p-ros and c-ons of un-conditional l'ove and famil-ial duties .
+--------------------------------------------- Result 478 ---------------------------------------------
+Negative (100%) --> Positive (95%)
+
+the dramatic scenes are frequently unintentionally funny , and the action sequences -- clearly the main event -- are surprisingly uninvolving .
+
+the dramatic scenes are frequently unintention-ally funny , and the action sequences -- clearly the main event -- are surprisingly uninvo'lving .
+--------------------------------------------- Result 479 ---------------------------------------------
+Positive (100%) --> Negative (80%)
+
+the film is hard to dismiss -- moody , thoughtful , and lit by flashes of mordant humor .
+
+the fil'm is hard to dismiss -- m'oody , thoug-htful , and l'it by flashes of mordan't hum'or .
+--------------------------------------------- Result 480 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+too bad writer-director adam rifkin situates it all in a plot as musty as one of the golden eagle's carpets .
+--------------------------------------------- Result 481 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+nothing short of a masterpiece -- and a challenging one .
+
+nothing sh-ort of a masterp-iece -- and a challengin'g one .
+--------------------------------------------- Result 482 ---------------------------------------------
+Positive (100%) --> Negative (92%)
+
+an engrossing iranian film about two itinerant teachers and some lost and desolate people they encounter in a place where war has savaged the lives and liberties of the poor and the dispossessed .
+
+an engro-ssing irania'n film about two itine'rant teachers and some lost and desolate people they encounter in a place where war has savaged the lives and liberties of the poor and the dispossessed .
+--------------------------------------------- Result 483 ---------------------------------------------
+Negative (100%) --> [FAILED]
+
+certainly beautiful to look at , but its not very informative about its titular character and no more challenging than your average television biopic .
+--------------------------------------------- Result 484 ---------------------------------------------
+Positive (62%) --> [SKIPPED]
+
+those eternally devoted to the insanity of black will have an intermittently good time . feel free to go get popcorn whenever he's not onscreen .
+--------------------------------------------- Result 485 ---------------------------------------------
+Positive (100%) --> Negative (63%)
+
+an engrossing story that combines psychological drama , sociological reflection , and high-octane thriller .
+
+an eng-rossing story that combines psycholog'ical dra-ma , so'ciological reflection , and high-oct-ane thriller .
+--------------------------------------------- Result 486 ---------------------------------------------
+Negative (100%) --> Positive (74%)
+
+a boring masquerade ball where normally good actors , even kingsley , are made to look bad .
+
+a b'oring mas-querade ball where normally good actors , even kingsle'y , are m'ade to lo'ok b'ad .
+--------------------------------------------- Result 487 ---------------------------------------------
+Negative (98%) --> [SKIPPED]
+
+an involving , inspirational drama that sometimes falls prey to its sob-story trappings .
+--------------------------------------------- Result 488 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+this is a shrewd and effective film from a director who understands how to create and sustain a mood .
+
+this is a s'hrewd and effec'tive fil'm from a direc'tor who understa-nds how to creat-e and su'stain a m-ood .
+--------------------------------------------- Result 489 ---------------------------------------------
+Positive (96%) --> Negative (99%)
+
+the acting in pauline and paulette is good all round , but what really sets the film apart is debrauwer's refusal to push the easy emotional buttons .
+
+the acting in pauline and paulette is good all round , but what really s-ets the film apart is debrauwer's refusal to push the easy emotional buttons .
+--------------------------------------------- Result 490 ---------------------------------------------
+Negative (99%) --> Positive (68%)
+
+the beautiful images and solemn words cannot disguise the slack complacency of [godard's] vision , any more than the gorgeous piano and strings on the soundtrack can drown out the tinny self-righteousness of his voice .
+
+the beautiful images and solemn words cannot disguis'e the sla'ck complacency of [godard's] vision , any more than the gorgeous piano and strings on the soundtrack can dro-wn out the tinny self-righteousness of his voice .
+--------------------------------------------- Result 491 ---------------------------------------------
+Positive (100%) --> Negative (73%)
+
+if you're looking for an intelligent movie in which you can release your pent up anger , enough is just the ticket you need .
+
+if you're lo-oking for an intelligen't movie in which you can re'lease your pe'nt up anger , enough is just the t-icket you need .
+--------------------------------------------- Result 492 ---------------------------------------------
+Positive (99%) --> Negative (91%)
+
+[the film] tackles the topic of relationships in such a straightforward , emotionally honest manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+
+[the film] tackles the topic of relationships in such a straightforward , emotionally h-onest manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+--------------------------------------------- Result 493 ---------------------------------------------
+Positive (99%) --> Negative (77%)
+
+. . . quite good at providing some good old fashioned spooks .
+
+. . . quite goo-d at providing some good old fashioned spooks .
+--------------------------------------------- Result 494 ---------------------------------------------
+Positive (100%) --> Negative (100%)
+
+dense , exhilarating documentary .
+
+dense , ex'hilarating docum'entary .
+--------------------------------------------- Result 495 ---------------------------------------------
+Negative (100%) --> Positive (78%)
+
+the 70-year-old godard has become , to judge from in praise of love , the sort of bitter old crank who sits behind his light meter and harangues the supposed injustices of the artistic world-at-large without doing all that much to correct them .
+
+the 70-year-old godard has become , to judge from in praise of l-ove , the sort of bitter old cra'nk who sits behind his light met'er and harangues the supposed injustices of the artistic world-at-large without doing all that much to correct them .
+--------------------------------------------- Result 496 ---------------------------------------------
+Positive (100%) --> Negative (99%)
+
+there's real visual charge to the filmmaking , and a strong erotic spark to the most crucial lip-reading sequence .
+
+there's re'al v'isual charge to the filmma'king , and a str-ong er-otic s'park to the most cru-cial lip-'reading s-equence .
+--------------------------------------------- Result 497 ---------------------------------------------
+Negative (96%) --> [SKIPPED]
+
+fairy-tale formula , serves as a paper skeleton for some very good acting , dialogue , comedy , direction and especially charm .
+--------------------------------------------- Result 498 ---------------------------------------------
+Negative (100%) --> Positive (77%)
+
+the very simple story seems too simple and the working out of the plot almost arbitrary .
+
+the ve'ry simple story see-ms too s'imple and the working out of the plo't almost arbitrary .
+--------------------------------------------- Result 499 ---------------------------------------------
+Positive (100%) --> Negative (82%)
+
+demonstrates a vivid imagination and an impressive style that result in some terrific setpieces .
+
+d-emonstrates a vivid imagination and an impressive s-tyle that result in some te-rrific setpie-ces .
+--------------------------------------------- Result 500 ---------------------------------------------
+Positive (100%) --> Negative (81%)
+
+this is one of those rare docs that paints a grand picture of an era and makes the journey feel like a party .
+
+this is one of those r-are d'ocs that paints a gran'd pi'cture of an er'a and makes the jo-urney feel like a party .
+Number Of Successful Attacks: 332
+Number Of Failed Attacks: 87
+Number Of Skipped Attacks: 81
+Original Acc[%]: 83.8
+After Attack Acc [%]: 17.4
+Attack Success Rate [%]: 79.24
+Words Per Input: 20.67
+Semantic Sim: 1.0
+Number Changed Words: 3.36
+Perturbed Words [%]: 18.32%
+Average Time Taken [s]: 0.721
+Avg Number Queries: 74.7

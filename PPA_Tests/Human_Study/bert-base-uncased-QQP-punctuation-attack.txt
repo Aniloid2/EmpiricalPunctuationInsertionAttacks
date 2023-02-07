@@ -1,0 +1,3235 @@
+--------------------------------------------- Result 1 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (61%)
+
+Question1: What is the best way to reduce belly and arm fat?
+Question2: How should I reduce my belly naturally?
+
+Question1: What is the best way to reduce belly and arm fat?
+Question2: How should I diminish my belly naturally?
+--------------------------------------------- Result 2 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: Where can I found best quality fire rated shutters in Sydney?
+Question2: Where can I found long-lasting fire shutters in Sydney?
+
+Question1: Where can I found best quality fire rated shutters in Sydney?
+Question2: Where can I found long-lasting fire sunroom in Sydney?
+--------------------------------------------- Result 3 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (68%)
+
+Question1: How can I add comment as anonymous in Quora?
+Question2: How will you use Quora differently now that you can't leave comments anonymously?
+
+Question1: How can I add comment as anonymous in Quora?
+Question2: How will you uso Quora similarly now that you can't going comments anonymously?
+--------------------------------------------- Result 4 ---------------------------------------------
+Not_duplicate (92%) --> Duplicate (60%)
+
+Question1: When was the wheel invented?
+Question2: How was the wheel invented?
+
+Question1: When was the wheel invented?
+Question2: Processes was the wheel invented?
+--------------------------------------------- Result 5 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are some Hadoop MapReduce based interview questions?
+Question2: What kind of questions are expected in a Hadoop developer interview?
+--------------------------------------------- Result 6 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Which online service do people in China use to watch American TV and movies?
+Question2: How can I use Google in China?
+--------------------------------------------- Result 7 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the relationship between velocity, pressure and area in fluid dynamics ? If area increases, will the velocity increase or decrease?
+Question2: Why does the mass also increase if the velocity of an object increases?
+--------------------------------------------- Result 8 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (72%)
+
+Question1: Instagram (product): How can I get a verified account on Instagram?
+Question2: How can I get verified sign for Instagram?
+
+Question1: Instagram (product): How can I get a verified account on Instagram?
+Question2: How can I get scrutiny sign for Instagram?
+--------------------------------------------- Result 9 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (95%)
+
+Question1: Who is going to win the 2016 presidential election?
+Question2: Who will win the US election?
+
+Question1: Who is going to win the 2016 presidential election?
+Question2: Who will win the US suffrage?
+--------------------------------------------- Result 10 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (96%)
+
+Question1: Is there time when you’re dead?
+Question2: Why do people only love you when you're dead?
+
+Question1: Is there time when you’re dead?
+Question2: Consequently got ones only iove you when you're dead?
+--------------------------------------------- Result 11 ---------------------------------------------
+Duplicate (58%) --> Not_duplicate (100%)
+
+Question1: Can Atheism solve problems created by religious fundamentalism?
+Question2: Is atheism an answer to religious terrorism?
+
+Question1: Can Atheism solve problems created by religious fundamentalism?
+Question2: Is scepticism an answer to religious terrorism?
+--------------------------------------------- Result 12 ---------------------------------------------
+Duplicate (62%) --> [SKIPPED]
+
+Question1: Which is the best site for watching porn?
+Question2: What is the best porn site on the Internet? Why?
+--------------------------------------------- Result 13 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: Why India fails to get medals in Olympics?
+Question2: Why does India perform so poorly at the Olympics?
+
+Question1: Why India fails to get medals in Olympics?
+Question2: Why does Hindustan perform so faintly at the Olympiad?
+--------------------------------------------- Result 14 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (99%)
+
+Question1: How can you increase your height?
+Question2: How do I increase my height after 22?
+
+Question1: How can you increase your height?
+Question2: How do I redouble my height after 22?
+--------------------------------------------- Result 15 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (95%)
+
+Question1: Is it safe to touch stray dogs?
+Question2: Is it ok to kill stray dogs?
+
+Question1: Is it safe to touch stray dogs?
+Question2: Posed it ok to kiil stray dogs?
+--------------------------------------------- Result 16 ---------------------------------------------
+Duplicate (82%) --> Not_duplicate (80%)
+
+Question1: What are the post study work options in the UK for an undergraduate international student?
+Question2: Will UK Open the Post Study visa for International Students?
+
+Question1: What are the post study work options in the UK for an undergraduate international student?
+Question2: Will ANGLIA Open the Post Study visa for International Students?
+--------------------------------------------- Result 17 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the difference between molding and casting?
+Question2: What is difference between a bushing and a bearing?
+--------------------------------------------- Result 18 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: How can I overcome the procrastination?
+Question2: What is the best way to kill procrastination?
+
+Question1: How can I overcome the procrastination?
+Question2: What is the best way to kill stunted?
+--------------------------------------------- Result 19 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the different possible careers you can enter into after studying User Experience Design?
+Question2: What steps can I take to avoid getting infected by chickenpox from another infected person?
+--------------------------------------------- Result 20 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (95%)
+
+Question1: What is the future of front end developer?
+Question2: What is the future of Front End Developers?
+
+Question1: What is the future of front end developer?
+Question2: What is the future of Front End Proponents?
+--------------------------------------------- Result 21 ---------------------------------------------
+Duplicate (84%) --> Not_duplicate (97%)
+
+Question1: How do I motivate myself to learn?
+Question2: How could I motivate myself to learn stuff?
+
+Question1: How do I motivate myself to learn?
+Question2: How could I motivate myself to know stuff?
+--------------------------------------------- Result 22 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (69%)
+
+Question1: Does Elon Musk wear a watch?
+Question2: Does Elon Musk ever watch TV? I mean, how is he able to do so much?
+
+Question1: Does Elon Musk wear a watch?
+Question2: Fact Elon Musk ever watch TELEVISION? me mean, how is he potential to would so considerable?
+--------------------------------------------- Result 23 ---------------------------------------------
+Duplicate (80%) --> Not_duplicate (100%)
+
+Question1: How do you turn love to hate?
+Question2: How can love be turned into hate?
+
+Question1: How do you turn love to hate?
+Question2: How can love be turned into dissing?
+--------------------------------------------- Result 24 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the key factors for thinking about sponsorship assets and rights identification for a large company?
+Question2: What is the key success factor for 3PL industry especially for forwarding company?
+--------------------------------------------- Result 25 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is the Google host matching process different for Hardware Engineering interns for Summer 2016?
+Question2: I applied a little late to the Google summer internship for this summer and passed the technical interview, but I haven't been host-matched. Is it possible for me to push for an internship with them next summer?
+--------------------------------------------- Result 26 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (91%)
+
+Question1: What is digital marketing?What are the basics of Digital Marketing?What is digital marketing strategy?Who needs digital marketing services?
+Question2: What is digital marketing and how to set career in digital marketing?
+
+Question1: What is digital marketing?What are the basics of Digital Marketing?What is digital marketing strategy?Who needs digital marketing services?
+Question2: What is numerical marketing and how to set career in digital marketing?
+--------------------------------------------- Result 27 ---------------------------------------------
+Not_duplicate (93%) --> Duplicate (83%)
+
+Question1: Why is Quora app so bad?
+Question2: Why does not Quora have an app?
+
+Question1: Why is Quora app so bad?
+Question2: Why does not Quora have an apt?
+--------------------------------------------- Result 28 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (91%)
+
+Question1: Will BPD come back ?
+Question2: Why would someone with BPD keep coming back to the same person?
+
+Question1: Will BPD come back ?
+Question2: Why would someone with BPD hold coming back to the same everybody?
+--------------------------------------------- Result 29 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (53%)
+
+Question1: How do I know if a guy likes me or not?
+Question2: How can I know if a. guy likes me?
+
+Question1: How do I know if a guy likes me or not?
+Question2: How can I know if a. fellers likes me?
+--------------------------------------------- Result 30 ---------------------------------------------
+Not_duplicate (58%) --> [SKIPPED]
+
+Question1: Which one do you prefer watching over and over: Game of Thrones or The Lord of the Rings?
+Question2: Which one do you prefer, The Lord of the Rings or Game of Thrones?
+--------------------------------------------- Result 31 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the ratio of hosts to guests on Airbnb?
+Question2: How safe is Airbnb?
+--------------------------------------------- Result 32 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (100%)
+
+Question1: What is a good way to become motivated?
+Question2: What is the best way to keep yourself always motivated?
+
+Question1: What is a good way to become motivated?
+Question2: What is the best way to keep yourself always motivate?
+--------------------------------------------- Result 33 ---------------------------------------------
+Not_duplicate (80%) --> Duplicate (51%)
+
+Question1: How is standard deviation used in the real world?
+Question2: How is the standard deviation used for data normalization?
+
+Question1: How is standard deviation used in the real world?
+Question2: How is the yardstick deviation used for data normalization?
+--------------------------------------------- Result 34 ---------------------------------------------
+Not_duplicate (60%) --> Duplicate (53%)
+
+Question1: Will earth always have a moon?
+Question2: What would happen to Earth if there was no Moon?
+
+Question1: Will earth always have a moon?
+Question2: What would occurs to Earth if there was no Moon?
+--------------------------------------------- Result 35 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: Who are the founders of Google?
+Question2: Who invented Google?
+
+Question1: Who are the founders of Google?
+Question2: Who invented Yelp?
+--------------------------------------------- Result 36 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (80%)
+
+Question1: Do good project managers complete tasks them to meet customer deliverables if the team members responsible for the task do a poor job?
+Question2: Do good project managers complete tasks themselves to meet customer deliverables if the team member responsible for the task does a poor job?
+
+Question1: Do good project managers complete tasks them to meet customer deliverables if the team members responsible for the task do a poor job?
+Question2: Do good project managers complete tasks themselves to meet customer deliverables if the team member responsible for the task does a needy job?
+--------------------------------------------- Result 37 ---------------------------------------------
+Duplicate (93%) --> Not_duplicate (62%)
+
+Question1: What are the most advanced car tools that people don't know about yet?
+Question2: What are the most advanced car gadgets that people don't know about yet?
+
+Question1: What are the most advanced car tools that people don't know about yet?
+Question2: What are the most advanced boxcars gadgets that people don't know about yet?
+--------------------------------------------- Result 38 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: If Canada visitor visa is rejected, do they put the rejection stamp on passport?
+Question2: Its been a month my friend has applied for Canada Study Visa, the status is still showing processing. Is there a chances of Visa getting rejected?
+--------------------------------------------- Result 39 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is Lî Zhì Xù a good Chinese name?
+Question2: Is 恬莉 a good Chinese name?
+--------------------------------------------- Result 40 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the best multi-purpose microphone?
+Question2: Where do yacht designers go online?
+--------------------------------------------- Result 41 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (53%)
+
+Question1: What is Java programming used for?
+Question2: What exactly is Java used for? What things can I program using Java?
+
+Question1: What is Java programming used for?
+Question2: What explicitly is Java used for? What things can I timed operate Java?
+--------------------------------------------- Result 42 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What does “天人” mean in English?
+Question2: What does ''bientot'' mean in English?
+--------------------------------------------- Result 43 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: How could an English learner speak fluently?
+Question2: How To speak English Fluently ?
+
+Question1: How could an English learner speak fluently?
+Question2: How To speak Francaise Fluently ?
+--------------------------------------------- Result 44 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (68%)
+
+Question1: What is alkaline water?
+Question2: Is alkaline water a scam?
+
+Question1: What is alkaline water?
+Question2: Consists alkaline waters a phoney?
+--------------------------------------------- Result 45 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (69%)
+
+Question1: How do I start learning C from basics to an expert level?
+Question2: How and where do I start learning C programming?
+
+Question1: How do I start learning C from basics to an expert level?
+Question2: How and where do I start tuition ch programming?
+--------------------------------------------- Result 46 ---------------------------------------------
+Duplicate (84%) --> Not_duplicate (59%)
+
+Question1: Who have a better orgasm: men or women?
+Question2: Do men or women have a better orgasm?
+
+Question1: Who have a better orgasm: men or women?
+Question2: Do men or women have a good orgasm?
+--------------------------------------------- Result 47 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Male Sex Workers and Male Prostitutes: How does one become a gigolo in Delhi?
+Question2: What is career prospect and life of a Male escort or Gigolo like in India? What are the problems they face in their real world.
+--------------------------------------------- Result 48 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (78%)
+
+Question1: How do you increase friction?
+Question2: How do grips increase friction?
+
+Question1: How do you increase friction?
+Question2: How do gripped heighten friction?
+--------------------------------------------- Result 49 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (50%)
+
+Question1: What is the best way to learn and master a computer programming language?
+Question2: What is best way to start learning programming?
+
+Question1: What is the best way to learn and master a computer programming language?
+Question2: What is best way to start learning programmes?
+--------------------------------------------- Result 50 ---------------------------------------------
+Not_duplicate (64%) --> Duplicate (78%)
+
+Question1: Is it better to listen to music or silence when studying?
+Question2: Is it ok for me to listen to music while I am studying?
+
+Question1: Is it better to listen to music or silence when studying?
+Question2: Got it ok for me to listen to music while I am studying?
+--------------------------------------------- Result 51 ---------------------------------------------
+Not_duplicate (80%) --> [SKIPPED]
+
+Question1: What are the differences between community college and University college?
+Question2: What are the differences between college and community college?
+--------------------------------------------- Result 52 ---------------------------------------------
+Duplicate (72%) --> Not_duplicate (83%)
+
+Question1: How can I search my friends on Quora?
+Question2: How can I search a friend on Quora?
+
+Question1: How can I search my friends on Quora?
+Question2: How can I search a amis on Quora?
+--------------------------------------------- Result 53 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What would happen if animals stopped producing baby animals?
+Question2: What would happen if every animal species were to suddenly become sentient and smart as humans? If there were a global war between all animals, which would win?
+--------------------------------------------- Result 54 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: What are the safety precautions on handling shotguns proposed by the NRA in the entire U.S. including it’s territories and possessions? 3
+Question2: What are the safety precautions on handling shotguns proposed by the NRA in Hawaii?
+
+Question1: What are the safety precautions on handling shotguns proposed by the NRA in the entire U.S. including it’s territories and possessions? 3
+Question2: What are the safety precautions on handling fusiliers proposed by the NRA in Hawaii?
+--------------------------------------------- Result 55 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can you spray paint on rubber?
+Question2: How do you get spray paint off porcelain sink?
+--------------------------------------------- Result 56 ---------------------------------------------
+Duplicate (100%) --> [FAILED]
+
+Question1: Why did Arnab Goswami quitted from Times Now?
+Question2: Why Arnab Goswami resigned times now?
+--------------------------------------------- Result 57 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is it possible to get every video you put to watch later on the top instead of the bottom of the list?
+Question2: "Is it possible to get captions on YouTube videos if there is no ""cc"" button?"
+--------------------------------------------- Result 58 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is S1, S2, S3, S4, S5 and S6 in regards to the U.S. Army?
+Question2: What is it like being a soldier in the U.S. Army?
+--------------------------------------------- Result 59 ---------------------------------------------
+Not_duplicate (84%) --> [SKIPPED]
+
+Question1: If you had the opportunity to have dinner with anyone who would it be and why?
+Question2: Who would you like to have dinner with, anyone from history?
+--------------------------------------------- Result 60 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is Kate Middleton upper class?
+Question2: Periyar being belonged to a upper class, how come he fought against the upper class?
+--------------------------------------------- Result 61 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the meaning of the song skinny love?
+Question2: Which compiler should I use with Dev c++ ide for windows 7?
+--------------------------------------------- Result 62 ---------------------------------------------
+Duplicate (57%) --> Not_duplicate (100%)
+
+Question1: I love science, but I hate maths. Is that bad?
+Question2: Can I hate math but love science?
+
+Question1: I love science, but I hate maths. Is that bad?
+Question2: Can I hate algebra but love science?
+--------------------------------------------- Result 63 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How is heat transferred in solids?
+Question2: How is Heat transferred?
+--------------------------------------------- Result 64 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is Chemistry World?
+Question2: What is chemistry?
+--------------------------------------------- Result 65 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "What is the meaning of the Tamil word ""teuria""?"
+Question2: "What is the meaning of the Tamil word ""KAVILAM""?"
+--------------------------------------------- Result 66 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why is Minecraft so expensive?
+Question2: Why do a lot of people hate Minecraft?
+--------------------------------------------- Result 67 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (93%)
+
+Question1: What is the condition of international medical graduates in UK?
+Question2: What is the situation of international medical graduates in UK now?
+
+Question1: What is the condition of international medical graduates in UK?
+Question2: What is the situation of international medical graduates in LONDON now?
+--------------------------------------------- Result 68 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why are all my SD cards corrupting?
+Question2: How can I recover lost files from a (corrupt?) sd card?
+--------------------------------------------- Result 69 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (90%)
+
+Question1: Do Trump supporters really just want a king?
+Question2: Do Trump supporters want a president or a king?
+
+Question1: Do Trump supporters really just want a king?
+Question2: Do Bitch supporters want a president or a emperor?
+--------------------------------------------- Result 70 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (98%)
+
+Question1: How I could turn off camera shutter sound of Moto G3 Android marshmallow?
+Question2: How can I turn off the camera shutter sound in moto g3 with android M?
+
+Question1: How I could turn off camera shutter sound of Moto G3 Android marshmallow?
+Question2: How can I turn off the camera shutter sound in moto g3 with android millionth?
+--------------------------------------------- Result 71 ---------------------------------------------
+Not_duplicate (73%) --> Duplicate (92%)
+
+Question1: When do women get horny?
+Question2: How often do women get horny and/or wet?
+
+Question1: When do women get horny?
+Question2: How often do women get horny and/or damper?
+--------------------------------------------- Result 72 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is earth fault current?
+Question2: What is earth fault?
+--------------------------------------------- Result 73 ---------------------------------------------
+Not_duplicate (50%) --> Duplicate (94%)
+
+Question1: What makes a woman beautiful besides her physical appearance?
+Question2: What makes her beautiful?
+
+Question1: What makes a woman beautiful besides her physical appearance?
+Question2: What contributing her beautiful?
+--------------------------------------------- Result 74 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (55%)
+
+Question1: How can the drive from Edmonton to Auckland be described, and how do these cities' attractions compare to those in Toronto?
+Question2: How can the drive from Edmonton to Auckland be described, and how do these cities' attractions compare to those in Hamilton?
+
+Question1: How can the drive from Edmonton to Auckland be described, and how do these cities' attractions compare to those in Toronto?
+Question2: How can the drive from Oilers to Auckland be described, and how do these cities' attractions compare to those in Hamilton?
+--------------------------------------------- Result 75 ---------------------------------------------
+Duplicate (92%) --> Not_duplicate (93%)
+
+Question1: Does cannabis oil made from indica plant really cure cancer?
+Question2: Can cannabis oil cure cancer?
+
+Question1: Does cannabis oil made from indica plant really cure cancer?
+Question2: Can marihuana oil cure cancer?
+--------------------------------------------- Result 76 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can I do supersets for strength?
+Question2: What are supersets?
+--------------------------------------------- Result 77 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: Which are the most inspiring autobiographies?
+Question2: What are some inspiring autobiographies?
+
+Question1: Which are the most inspiring autobiographies?
+Question2: What are some adoptive autobiographies?
+--------------------------------------------- Result 78 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I justify content in string using PHP?
+Question2: Why do single people or couples without kids buy cars larger than compact?
+--------------------------------------------- Result 79 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (100%)
+
+Question1: Where can I sell my idea?
+Question2: How can I sell or pitch my idea?
+
+Question1: Where can I sell my idea?
+Question2: How can I sell or stall my eyesight?
+--------------------------------------------- Result 80 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (98%)
+
+Question1: What are the best books, topics, and ways to prepare for UGC NET English literature?
+Question2: How do I prepare for the UGC NET English Literature at home?
+
+Question1: What are the best books, topics, and ways to prepare for UGC NET English literature?
+Question2: How do I prepare for the UGC NET Anglais Literature at home?
+--------------------------------------------- Result 81 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: How do I improve my English speaking?
+Question2: How can I improve in English?
+
+Question1: How do I improve my English speaking?
+Question2: How can I improve in Breton?
+--------------------------------------------- Result 82 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the latest low-cost marketing tool that gives more return?
+Question2: What is the best software (preferably low to no cost) for giving online presentations?
+--------------------------------------------- Result 83 ---------------------------------------------
+Duplicate (93%) --> Not_duplicate (100%)
+
+Question1: How do I find a job in Dubai from India?
+Question2: How do I get a job in Dubai from India?
+
+Question1: How do I find a job in Dubai from India?
+Question2: How do I get a job in Debi from India?
+--------------------------------------------- Result 84 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How can the arrangement of corynebacterium xerosis be described?
+Question2: How would you describe waves?
+--------------------------------------------- Result 85 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "Bodybuilding: Is it possible that Bradley Martyn is natural at 6'3"" 260lb lean looking like this? *see description*"
+Question2: Why do I have an urge to vomit after squats?
+--------------------------------------------- Result 86 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What exact property of older people's body's allow them to benter more immune against alcoholic all influence?
+Question2: What’s so special about Donald Trump?
+--------------------------------------------- Result 87 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What websites are like Tympanus' Codrops?
+Question2: Website design recommendations?
+--------------------------------------------- Result 88 ---------------------------------------------
+Not_duplicate (78%) --> Duplicate (82%)
+
+Question1: Who will win Hillary Clinton Or Donald Trump?
+Question2: Who would you vote for: Donald Trump or Hillary Clinton?
+
+Question1: Who will win Hillary Clinton Or Donald Trump?
+Question2: Who would you voting for: Donald Trump or Hillary Clinton?
+--------------------------------------------- Result 89 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "Genetic Engineering: Can we change our genes and then ""fix"" our appearance?"
+Question2: How do our genes influence us?
+--------------------------------------------- Result 90 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is there a word for some one who cares about both animals and humans?
+Question2: I love and care about animals. I love non-veg food. Am I a hypocrite?
+--------------------------------------------- Result 91 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (63%)
+
+Question1: What is your reaction about the ban on Rs. 500 and Rs. 1000 notes? Won't it create a chaos and harm the economy?
+Question2: What do you think about Modi's new policy on the ban of Rs 500 and Rs 1000 notes?
+
+Question1: What is your reaction about the ban on Rs. 500 and Rs. 1000 notes? Won't it create a chaos and harm the economy?
+Question2: What do you knew about Modi's nova instructions on the ban of Rs 500 and R 1000 notations?
+--------------------------------------------- Result 92 ---------------------------------------------
+Not_duplicate (81%) --> [SKIPPED]
+
+Question1: What exactly is the smell of a new car?
+Question2: Why do new cars have a new car smell? Is there a product that can make your car smell like that again?
+--------------------------------------------- Result 93 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is it like to take the Vaishno Devi walk?
+Question2: Is it easy to simply walk into Tibet from India?
+--------------------------------------------- Result 94 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why should the US continue to supply 73% of NATO funds? Shouldn't Germany step in and spend more?
+Question2: Why is India not a member of NATO?
+--------------------------------------------- Result 95 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (98%)
+
+Question1: Can you see who views your Instagram videos?
+Question2: How can I see who viewed my Instagram video?
+
+Question1: Can you see who views your Instagram videos?
+Question2: How can I see who consulted my Instagram video?
+--------------------------------------------- Result 96 ---------------------------------------------
+Not_duplicate (94%) --> Duplicate (54%)
+
+Question1: When was the telegraph invented?
+Question2: How was the telegraph invented?
+
+Question1: When was the telegraph invented?
+Question2: Means was the telegraph invented?
+--------------------------------------------- Result 97 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: How do I delete my account from this site?
+Question2: How do I delete Quora Account with all answers and questions also removed?
+
+Question1: How do I delete my account from this site?
+Question2: How do I delete Quora Compte with all answers and questions also removed?
+--------------------------------------------- Result 98 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is a suitable solar panel installation provider near Riverside, California CA?
+Question2: What is a suitable solar panel installation provider near Ridgecrest, California CA?
+--------------------------------------------- Result 99 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is upnp?
+Question2: What's the difference between UPnP and DLNA?
+--------------------------------------------- Result 100 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Applying to Microsoft?
+Question2: What companies in Charleston, SC have the best employee benefits?
+--------------------------------------------- Result 101 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Who do you think the worst drivers are?
+Question2: Do Uber drivers make more than taxi drivers?
+--------------------------------------------- Result 102 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (63%)
+
+Question1: Do astronauts masturbate on the ISS?
+Question2: How do astronauts on the ISS get sexual relief?
+
+Question1: Do astronauts masturbate on the ISS?
+Question2: Modo do astronauts on the ISH fetch sexual relief?
+--------------------------------------------- Result 103 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why do sodas contain saccharin instead of other sweeteners?
+Question2: Why must nail polish always be stored and sold in glass vials instead of containers made of other materials?
+--------------------------------------------- Result 104 ---------------------------------------------
+Not_duplicate (99%) --> [FAILED]
+
+Question1: Why do you use Twitter, but not Facebook?
+Question2: Why do you not use Twitter?
+--------------------------------------------- Result 105 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I'm auditioning for Iago in the musical Aladdin and I need a song and a one minute monologue. Any ideas?
+Question2: Can I file a complaint for some guys playing too loud music (devotional songs) and dhol without any reason, in the park front of my house?
+--------------------------------------------- Result 106 ---------------------------------------------
+Not_duplicate (99%) --> [FAILED]
+
+Question1: How can I get a DAAD scholarship?
+Question2: Which are the college which are recognized in DAAD scholarship?
+--------------------------------------------- Result 107 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (98%)
+
+Question1: What are the few things that make Indians happy?
+Question2: What are some things that makes Indian's happy?
+
+Question1: What are the few things that make Indians happy?
+Question2: What are some things that makes Indian's playful?
+--------------------------------------------- Result 108 ---------------------------------------------
+Duplicate (70%) --> [SKIPPED]
+
+Question1: What changes can we expect in education systems in the next 50 years?
+Question2: How will teaching and the classroom change in the next 30-50 years?
+--------------------------------------------- Result 109 ---------------------------------------------
+Duplicate (70%) --> Not_duplicate (64%)
+
+Question1: What are the best job portals for freshers in India?
+Question2: Which is the best job Portals in India?
+
+Question1: What are the best job portals for freshers in India?
+Question2: Which is the best job Portal in India?
+--------------------------------------------- Result 110 ---------------------------------------------
+Not_duplicate (90%) --> [SKIPPED]
+
+Question1: How do I get free iTunes gift cards in India?
+Question2: Are there iTunes gift cards? If so, where can they be purchased at in the US?
+--------------------------------------------- Result 111 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the advantages of convolutional neural network compared to a simple neural network from the theoretical and practical respective?
+Question2: Why do we use convolution in neural networks?
+--------------------------------------------- Result 112 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (85%)
+
+Question1: Will AAP be able to win elections in GOA?
+Question2: How many seats will AAP win in Punjab and Goa 2017?
+
+Question1: Will AAP be able to win elections in GOA?
+Question2: Method many seats will AAP win in India and Goa 2017?
+--------------------------------------------- Result 113 ---------------------------------------------
+Duplicate (87%) --> Not_duplicate (95%)
+
+Question1: How can I learn cakephp?
+Question2: What is the best way to learn cakephp?
+
+Question1: How can I learn cakephp?
+Question2: What is the best fashion to learn cakephp?
+--------------------------------------------- Result 114 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What companies are similar to razorfish?
+Question2: Are there companies similar to Applits?
+--------------------------------------------- Result 115 ---------------------------------------------
+Duplicate (93%) --> [SKIPPED]
+
+Question1: Will Donald Trump or Hillary Clinton win the 2016 US presidential election?
+Question2: How likely is it for Donald Trump to win the 2016 US presidential election?
+--------------------------------------------- Result 116 ---------------------------------------------
+Not_duplicate (60%) --> [SKIPPED]
+
+Question1: Is Narendra Modi the best Prime Minister of India?
+Question2: Why is Narendra Modi the best Prime Minister for India?
+--------------------------------------------- Result 117 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are some best topics for blog according to trends? Which kind of topics will grab more attention?
+Question2: Does broken temper effect touch sensitivity?
+--------------------------------------------- Result 118 ---------------------------------------------
+Duplicate (98%) --> [SKIPPED]
+
+Question1: Can you see who views your Instagram?
+Question2: Can I see who viewed my Instagram videos?
+--------------------------------------------- Result 119 ---------------------------------------------
+Duplicate (52%) --> [SKIPPED]
+
+Question1: What are some books that everyone should read?
+Question2: What are the best books of all time?
+--------------------------------------------- Result 120 ---------------------------------------------
+Not_duplicate (68%) --> [SKIPPED]
+
+Question1: What are Promises in Javascript?
+Question2: What is a Promise object in JavaScript?
+--------------------------------------------- Result 121 ---------------------------------------------
+Duplicate (74%) --> [SKIPPED]
+
+Question1: What is the condition of WiFi at RVCE hostels ?
+Question2: How is the WiFi at RVCE?
+--------------------------------------------- Result 122 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (55%)
+
+Question1: What can I do to feel satisfied?
+Question2: Why don't I ever feel satisfied?
+
+Question1: What can I do to feel satisfied?
+Question2: Why don't I ever inkling satisfied?
+--------------------------------------------- Result 123 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (63%)
+
+Question1: Why do some people think the Earth is flat?
+Question2: Why are so many people obsessed with the flat Earth theory?
+
+Question1: Why do some people think the Earth is flat?
+Question2: So are so many people obsessed with the appartment Earth theory?
+--------------------------------------------- Result 124 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the aim?
+Question2: What is the aim of science?
+--------------------------------------------- Result 125 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I have scored 279 out of 360 (appx. AIR 500) in JEE Main. How do I revise for JEE Advanced (IITJEE) in these last few days?
+Question2: I scored a 231 out of 360 on my JEE mains. Is there any chance of me getting into IISER's?
+--------------------------------------------- Result 126 ---------------------------------------------
+Duplicate (81%) --> Not_duplicate (99%)
+
+Question1: Would Steve Jobs approve many of the decisions Tim Cook has taken?
+Question2: Would Steve Jobs be proud of Tim Cook's performance right now?
+
+Question1: Would Steve Jobs approve many of the decisions Tim Cook has taken?
+Question2: Would Steve Trabajo be proud of Tim Cook's performance right now?
+--------------------------------------------- Result 127 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (89%)
+
+Question1: Why is Elon Musk so successful?
+Question2: What makes Elon Musk so successful?
+
+Question1: Why is Elon Musk so successful?
+Question2: What ai Elon Musk so successful?
+--------------------------------------------- Result 128 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (57%)
+
+Question1: Is the 2016 MacBook Pro still worth it (as opposed to a high end PC)?
+Question2: Is the new Macbook Pro 2016 an over priced disappointment?
+
+Question1: Is the 2016 MacBook Pro still worth it (as opposed to a high end PC)?
+Question2: Is the youngest Macbook Vocational 2016 an over outlay disappointment?
+--------------------------------------------- Result 129 ---------------------------------------------
+Duplicate (81%) --> Not_duplicate (89%)
+
+Question1: What do you season pork with, and how prepare it?
+Question2: What should you season pork with?
+
+Question1: What do you season pork with, and how prepare it?
+Question2: What should you seasons barbecued with?
+--------------------------------------------- Result 130 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Who owns the rights to the Marvel character Viper aka Madame Hydra?
+Question2: What are examples of reflexive and intensive pronouns?
+--------------------------------------------- Result 131 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What should you do if you think you love someone other than your husband?
+Question2: What should I do if I think my boyfriend loved his ex more than he loves me?
+--------------------------------------------- Result 132 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What methods did you use to skip school?
+Question2: 20s (age): What tips or methods have you used for trying to achieve your goals but that didn't work (or work as well as you hoped)?
+--------------------------------------------- Result 133 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (54%)
+
+Question1: How do I ask this girl to hang out?
+Question2: Does the guy always have to ask the girl to hang out? Why or why not?
+
+Question1: How do I ask this girl to hang out?
+Question2: Ca the guy always have to ask the girl to hang out? Why or why not?
+--------------------------------------------- Result 134 ---------------------------------------------
+Not_duplicate (97%) --> Duplicate (60%)
+
+Question1: Where can you hire the best PHP, ASP.NET and iPhone apps developer at a low cost in India?
+Question2: Where can you hire the best PHP, Asp.net and mobile apps developer at a low cost in India?
+
+Question1: Where can you hire the best PHP, ASP.NET and iPhone apps developer at a low cost in India?
+Question2: Where can you enlistment the best PHP, Asp.net and mobile apps sponsor at a small cost in India?
+--------------------------------------------- Result 135 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (63%)
+
+Question1: What is it like being discreetly rich?
+Question2: What is it like to be discreetly wealthy?
+
+Question1: What is it like being discreetly rich?
+Question2: What is it like to be discreetly prosperous?
+--------------------------------------------- Result 136 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I deal with a boss who plays favorites and does not acknowledge hard work of others who are not his/her favorite's?
+Question2: How do I tell my spineless boss he that practices favoritism in a way that doesn't get me fired?
+--------------------------------------------- Result 137 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (73%)
+
+Question1: How can I get AIR 1 in the IIT-JEE exam?
+Question2: Can I get AIR 1 in IIT JEE?
+
+Question1: How can I get AIR 1 in the IIT-JEE exam?
+Question2: Can I get AIR 1 in ITI JEE?
+--------------------------------------------- Result 138 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (98%)
+
+Question1: What is your opinion on PM Narendra Modi's decision to ban INR 500 and INR 1000 notes?
+Question2: Is our PM Modi doing the correct thing with 500 and 1000 Rs notes?
+
+Question1: What is your opinion on PM Narendra Modi's decision to ban INR 500 and INR 1000 notes?
+Question2: Is our PM Modi doing the accurately gadget with 500 and 1000 Rs pointing?
+--------------------------------------------- Result 139 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I recover lost Skype contacts on an Android phone?
+Question2: How do you recover lost contacts from a Nokia X Dual SIM card?
+--------------------------------------------- Result 140 ---------------------------------------------
+Duplicate (94%) --> [SKIPPED]
+
+Question1: What do women do that men hate?
+Question2: What is something that women do that men hate the most?
+--------------------------------------------- Result 141 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is it safe to take Claritin-D and Tylenol together?
+Question2: Can I take an Allegra and Claritin same day?
+--------------------------------------------- Result 142 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (95%)
+
+Question1: Why do I want to become a lawyer?
+Question2: Why do people want to become lawyers?
+
+Question1: Why do I want to become a lawyer?
+Question2: Why do people want to become solicitors?
+--------------------------------------------- Result 143 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can you identify this plant from Australia with long smooth leaves and olive-like fruits?
+Question2: Can I identify plants with a picture?
+--------------------------------------------- Result 144 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Where can I ask for donations for a personal cause?
+Question2: Where can I download a free eBook in French?
+--------------------------------------------- Result 145 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is it possible to form an image with the intersection of reflected ray and incident ray?
+Question2: Are infrared rays and other of the electromagnetic waves also subjected to reflection and refraction like light waves?
+--------------------------------------------- Result 146 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is purchasing similar goods online, an example of batch processing or online processing?
+Question2: What is the process for increase traffic in an Online business?
+--------------------------------------------- Result 147 ---------------------------------------------
+Duplicate (51%) --> Not_duplicate (85%)
+
+Question1: How can I become an investment banker in India?
+Question2: How do you become an investment banker in India?
+
+Question1: How can I become an investment banker in India?
+Question2: Manners do you become an investment banker in India?
+--------------------------------------------- Result 148 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can I learn to play guitar at age of 35?
+Question2: At the age of 23 can I learn to play harmonica?
+--------------------------------------------- Result 149 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the typical career path for someone who becomes a professor in economics?
+Question2: What is the typical career path for someone who becomes a professor in chemistry?
+--------------------------------------------- Result 150 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How much would you pay for a desk space per day?
+Question2: Where can you find like-minded people to travel with if you're 17?
+--------------------------------------------- Result 151 ---------------------------------------------
+Not_duplicate (64%) --> Duplicate (58%)
+
+Question1: How can I earn mony in online?
+Question2: What is the best way of earning mony online during studies?
+
+Question1: How can I earn mony in online?
+Question2: What is the best way of earning mony online during survey?
+--------------------------------------------- Result 152 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the meaning of the emoji winking mouth open?
+Question2: What does the '100' emoji generally mean?
+--------------------------------------------- Result 153 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (51%)
+
+Question1: Should I become a web developer?
+Question2: How do I become a web developer?
+
+Question1: Should I become a web developer?
+Question2: Motivates do me become a web developer?
+--------------------------------------------- Result 154 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Who are your favorite graphic design bloggers?
+Question2: Who are some of your favorite graphic designers? Why?
+--------------------------------------------- Result 155 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I connect internal storage of my Zenfone 2 to macbook? I want to transfer data via USB Cable
+Question2: How can I transfer files from my phone to PC without using a USB cable?
+--------------------------------------------- Result 156 ---------------------------------------------
+Not_duplicate (96%) --> [SKIPPED]
+
+Question1: How does 301 redirection works?
+Question2: How do I do 301 redirection?
+--------------------------------------------- Result 157 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (51%)
+
+Question1: When will KBC 9 begin?
+Question2: When will KBC season 8 begin?
+
+Question1: When will KBC 9 begin?
+Question2: When wanting KBC season 8 begin?
+--------------------------------------------- Result 158 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I'm scared of my behavior and hate myself, can anyone help me?
+Question2: How can I know if my interpretation of my dog's behavior towards me is a projection of the way I feel about myself, such as when he looks blue and I think I'm not a good enough parent?
+--------------------------------------------- Result 159 ---------------------------------------------
+Duplicate (55%) --> [SKIPPED]
+
+Question1: Why do electrons in an atom exist in discrete energy levels, and why don’t they fall into the nucleus or radiate electromagnetic energy as they orbit?
+Question2: Neils Bohr proposed the model of his atom stating that electrons move in special discrete orbits but on what basis?
+--------------------------------------------- Result 160 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (64%)
+
+Question1: I forgot my Gmail password and my recovery Gmail phone number is closed how can I recover my Gmail account?
+Question2: How do I reset my password for old Gmail account?
+
+Question1: I forgot my Gmail password and my recovery Gmail phone number is closed how can I recover my Gmail account?
+Question2: How do I reset my password for old Gmail ledgers?
+--------------------------------------------- Result 161 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do you delete text messages in an Android?
+Question2: How do you recover deleted texts on an Android phone?
+--------------------------------------------- Result 162 ---------------------------------------------
+Not_duplicate (50%) --> [SKIPPED]
+
+Question1: Is it legal as an international student to volunteer for a political campaign?
+Question2: Can an international student volunteer in a political campaign?
+--------------------------------------------- Result 163 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (86%)
+
+Question1: Which coaching institute is better for cat TIME or IMS?
+Question2: Is CAT coaching at Time Thrissur worthy?
+
+Question1: Which coaching institute is better for cat TIME or IMS?
+Question2: Ai CAT coaching at Time Thrissur worthy?
+--------------------------------------------- Result 164 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (85%)
+
+Question1: What should be my resolution for 2017?
+Question2: What are some new year resolutions for 2017?
+
+Question1: What should be my resolution for 2017?
+Question2: What are some new year tackle for 2017?
+--------------------------------------------- Result 165 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: What is best source for start learning digital marketing?
+Question2: What should I learn to become a best digital marketer?
+
+Question1: What is best source for start learning digital marketing?
+Question2: What should I learn to become a best numerical marketer?
+--------------------------------------------- Result 166 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (85%)
+
+Question1: Which is the best Business school in the World?
+Question2: What are some of the best business schools in world?
+
+Question1: Which is the best Business school in the World?
+Question2: What are some of the best business schoolchildren in world?
+--------------------------------------------- Result 167 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Which is better: the Hyundai Creta or the Maruti Suzuki S Cross?
+Question2: I am from Mumbai and I am planning to buy a cab and run under Uber. Is it profitable? Which car should I purchase?
+--------------------------------------------- Result 168 ---------------------------------------------
+Duplicate (60%) --> [SKIPPED]
+
+Question1: How do you live life on the edge?
+Question2: How do I live life on the edge?
+--------------------------------------------- Result 169 ---------------------------------------------
+Duplicate (100%) --> [FAILED]
+
+Question1: How was the KVPY 2016 SA paper? What is the expected cutoff?
+Question2: How was the KVPY 2016 sa?
+--------------------------------------------- Result 170 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What makes nylon hydrophobic?
+Question2: How can nylon be used to recycle it?
+--------------------------------------------- Result 171 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: When miui 8 will be available for mi max India?
+Question2: How does kangaride pricing work for their trips?
+--------------------------------------------- Result 172 ---------------------------------------------
+Duplicate (91%) --> Not_duplicate (80%)
+
+Question1: How can I lose 1kg every day?
+Question2: How many calories do I burn to lose 1kg weight per day?
+
+Question1: How can I lose 1kg every day?
+Question2: How many calories do I burn to lose 1kg weight per jour?
+--------------------------------------------- Result 173 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I am seeking for a buyer who is interested to buy Bangladeshi germent products?
+Question2: I'm interested in creating a new electronic product for a particular niche. It would be similar to other products out there but for a different use case. How can I find out who manufactures these other products to approach them about working on my product as well?
+--------------------------------------------- Result 174 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the explanation for the ending of the movie Before We Go?
+Question2: "Just watched the movie ""Maze Runner"" and the end kind of confused me a little. Is there going to be a Maze Runner 2?"
+--------------------------------------------- Result 175 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Will a master's in Software Engineering degree make it easier to land Lead Engineer and Architect jobs?
+Question2: In a few months I'll be graduating with a master's degree in electrical engineering (DSP and Radar) from South Africa. How difficult is it to find a job in the UK and what salary should I expect?
+--------------------------------------------- Result 176 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are some cool WhatsApp group names?
+Question2: What are some mind-blowing facts about WhatsApp?
+--------------------------------------------- Result 177 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (64%)
+
+Question1: How can we earn money online without investment?
+Question2: What should I do to make money online in India?
+
+Question1: How can we earn money online without investment?
+Question2: What should I do to make money web in India?
+--------------------------------------------- Result 178 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Which Python module is better, envoy or subprocess module? Why?
+Question2: What are must have modules of Python?
+--------------------------------------------- Result 179 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Who are the current rising stars in linguistics?
+Question2: Who are the current rising stars in economics?
+--------------------------------------------- Result 180 ---------------------------------------------
+Not_duplicate (97%) --> Duplicate (52%)
+
+Question1: What is the effect of pressure and temperature on viscosity?
+Question2: What is the effect of pressure and temperature on viscosity of natural gas?
+
+Question1: What is the effect of pressure and temperature on viscosity?
+Question2: What is the raison of pressure and temperature on viscosity of natural gases?
+--------------------------------------------- Result 181 ---------------------------------------------
+Duplicate (67%) --> Not_duplicate (100%)
+
+Question1: Can science encourage spirituality?
+Question2: Is there any reasonable and logical relation between science and spirituality?
+
+Question1: Can science encourage spirituality?
+Question2: Is there any reasonable and logical relation between science and spiritualism?
+--------------------------------------------- Result 182 ---------------------------------------------
+Not_duplicate (76%) --> Duplicate (78%)
+
+Question1: What are some unbelievable facts of Mahabaratha and Ramayana?
+Question2: What are the unbelievable facts of Mahabaratha?
+
+Question1: What are some unbelievable facts of Mahabaratha and Ramayana?
+Question2: What are the unbelievable factual of Mahabaratha?
+--------------------------------------------- Result 183 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Who are some lesser known important historical figures of Swaziland and what should people know about them?
+Question2: Who are some lesser known important historical figures of Libya and what should people know about them?
+--------------------------------------------- Result 184 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the origin of your name?
+Question2: "What is the origin of the name ""China""?"
+--------------------------------------------- Result 185 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Don’t get time for workout or running due to scheduled life. Feeling sleepy and lazy all the day in office. Any valuable suggestion?
+Question2: I don't feel ready for the GMAT, but have it scheduled in 2 days. Should I reschedule it or stop procrastinating and take it so that I have a score to build from?
+--------------------------------------------- Result 186 ---------------------------------------------
+Not_duplicate (92%) --> Duplicate (64%)
+
+Question1: Has anyone ever recovered from anxiety and panic attacks?
+Question2: How can I recover from a panic attack?
+
+Question1: Has anyone ever recovered from anxiety and panic attacks?
+Question2: Consequently can me recover from a panic atac?
+--------------------------------------------- Result 187 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why is coffee such a potent and efficient laxative?
+Question2: Is there a natural laxative in Coffee?
+--------------------------------------------- Result 188 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I'm an atheist, but I like praying, it gives me peace. Is that ok?
+Question2: Why test question sldkjfsd fsldkfjsldkf jslkdjfslkdjf?
+--------------------------------------------- Result 189 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why don't Maestro cards have a CVV number?
+Question2: Where is the CVC/CVV located on a debit card?
+--------------------------------------------- Result 190 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do you write a query letter for a book?
+Question2: How do you write a query letter for a translation?
+--------------------------------------------- Result 191 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is each state known for in terms of commerce?
+Question2: What options do I have after graduation in commerce when I am not from regular college? What regular course or short term course can I take up?
+--------------------------------------------- Result 192 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the main components of social commerce?
+Question2: What is the best social media e-commerce solution available in the market?
+--------------------------------------------- Result 193 ---------------------------------------------
+Duplicate (85%) --> Not_duplicate (81%)
+
+Question1: Which url has to be used to create a blog on Quora?
+Question2: How do I create a URL on Quora blogs?
+
+Question1: Which url has to be used to create a blog on Quora?
+Question2: How do I create a HTTP on Quora twitter?
+--------------------------------------------- Result 194 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (81%)
+
+Question1: What are the best sites for learning python?
+Question2: What are the best learning sites for Python?
+
+Question1: What are the best sites for learning python?
+Question2: What are the best learning stances for Python?
+--------------------------------------------- Result 195 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I calculate systematic error and random error due to this graph?
+Question2: What is a Parallax error in physics?
+--------------------------------------------- Result 196 ---------------------------------------------
+Not_duplicate (70%) --> [SKIPPED]
+
+Question1: How can an iPod Touch 4g volume button that is stuck be fixed?
+Question2: Why are the volume buttons on my iPod touch not working? How can I fix them?
+--------------------------------------------- Result 197 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I install a python program on a random PC?
+Question2: How can I compile a Python program into a stand-alone executable program?
+--------------------------------------------- Result 198 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (88%)
+
+Question1: What are recessive genes?
+Question2: What makes a gene dominant or recessive?
+
+Question1: What are recessive genes?
+Question2: What is a gene pervasive or recessive?
+--------------------------------------------- Result 199 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (92%)
+
+Question1: How can I become a porn star?
+Question2: How do I become an adult pornstar?
+
+Question1: How can I become a porn star?
+Question2: Signifies do I become an adult pornstar?
+--------------------------------------------- Result 200 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can I give cloves to a dog? If so, in what proportions with water?
+Question2: Why is my dog afraid of deep water?
+--------------------------------------------- Result 201 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "What are some examples of sentences using the phrase ""trivially true""?"
+Question2: "What are some examples of sentences using the word ""derogatory""?"
+--------------------------------------------- Result 202 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Who was a better offensive tackle - Jim Parker or Anthony Munoz?
+Question2: What skills does a QB need for pro-style offense vs typical college offense? Why is it different from college play? How hard is it for a QB to adapt?
+--------------------------------------------- Result 203 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (95%)
+
+Question1: How did you gain 20 pounds in 2 months?
+Question2: What are some ways to gain 20 pounds in 2 months?
+
+Question1: How did you gain 20 pounds in 2 months?
+Question2: What are some ways to gain 20 pounds in 2 weeks?
+--------------------------------------------- Result 204 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (99%)
+
+Question1: What is the best poem you have written?
+Question2: What is the best poem that you have ever composed?
+
+Question1: What is the best poem you have written?
+Question2: What is the best ditty that you have ever composed?
+--------------------------------------------- Result 205 ---------------------------------------------
+Not_duplicate (99%) --> [FAILED]
+
+Question1: Is it better to have a girl as a good friend or a girl friend?
+Question2: Why is it hard for a boy and a girl to be good friends?
+--------------------------------------------- Result 206 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: How can I get a chance to meet Mr. Narendra Modi?
+Question2: How can I meet Narendra Modi if it's very important?
+
+Question1: How can I get a chance to meet Mr. Narendra Modi?
+Question2: How can I fulfill Narendra Modi if it's very important?
+--------------------------------------------- Result 207 ---------------------------------------------
+Duplicate (97%) --> [SKIPPED]
+
+Question1: Which is the best book to prepare for GMAT?
+Question2: What are the best books to prepare for the GMAT 2017?
+--------------------------------------------- Result 208 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What about c language?
+Question2: If a laptop becomes too cold, how will that affect its ability to startup?
+--------------------------------------------- Result 209 ---------------------------------------------
+Duplicate (92%) --> Not_duplicate (96%)
+
+Question1: Should I be an engineer or animator?
+Question2: Should I be an engineer or an animator?
+
+Question1: Should I be an engineer or animator?
+Question2: Should I be an engineer or an cartoonist?
+--------------------------------------------- Result 210 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Could the Purge ever happen?
+Question2: Which is better byju or topperlearning for JEE?
+--------------------------------------------- Result 211 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why do Tamilians despite knowing Hindi won't speak it?
+Question2: Is true length in graphics is the length of plan?
+--------------------------------------------- Result 212 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (95%)
+
+Question1: Was Osama Bin Laden really the one responsible for the events of 9/11?
+Question2: What is the reason truth of 9/11 attack? Was it really done by Osama bin Laden?
+
+Question1: Was Osama Bin Laden really the one responsible for the events of 9/11?
+Question2: What is the reason truth of 9/11 attack? Was it actually done by Laden bin Laden?
+--------------------------------------------- Result 213 ---------------------------------------------
+Not_duplicate (98%) --> Duplicate (95%)
+
+Question1: How realistic would it be to lose 40 pounds in 3 months?
+Question2: Is it possible to lose 40 pounds in 5 months?
+
+Question1: How realistic would it be to lose 40 pounds in 3 months?
+Question2: Exists it possible to lose 40 pounds in 5 mois?
+--------------------------------------------- Result 214 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (95%)
+
+Question1: How did the clock inventor know the time?
+Question2: When the first clock was invented, How did they know what time it was?
+
+Question1: How did the clock inventor know the time?
+Question2: When the first clock was invented, How did they know what timetables it was?
+--------------------------------------------- Result 215 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (62%)
+
+Question1: How can I just be myself?
+Question2: How can I always be myself?
+
+Question1: How can I just be myself?
+Question2: How can I historically be myself?
+--------------------------------------------- Result 216 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: While having anal sex, if we ejaculate inside is there a risk involved?
+Question2: I have a desire for anal sex is this normal?
+--------------------------------------------- Result 217 ---------------------------------------------
+Duplicate (100%) --> [SKIPPED]
+
+Question1: What is the easiest way to suicide?
+Question2: What is the best way to suicide?
+--------------------------------------------- Result 218 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is Sony Vegas Pro 14 useful?
+Question2: Is Sony Vegas Pro 6 useful?
+--------------------------------------------- Result 219 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Quincy Larson: what advice would you offer to a free code camper wishing to establish himself as a remote worker/freelancer by the end of the program?
+Question2: What advice would you give to someone who is working in a support project for the last 18 months and is highly passionate about writing code/programming?
+--------------------------------------------- Result 220 ---------------------------------------------
+Not_duplicate (59%) --> [SKIPPED]
+
+Question1: Why do people live?
+Question2: Why should people live?
+--------------------------------------------- Result 221 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "What animals begin with the letter ""y""?"
+Question2: "What is a list of animals that begin with the letter ""n""?"
+--------------------------------------------- Result 222 ---------------------------------------------
+Not_duplicate (95%) --> [SKIPPED]
+
+Question1: "How can I watch the TV show ""Friends"" on my iPhone?"
+Question2: How do you watch TV shows on an iPhone?
+--------------------------------------------- Result 223 ---------------------------------------------
+Duplicate (62%) --> Not_duplicate (92%)
+
+Question1: I have to complete my mechanical engineering. What do I have to do become a car manufacturer & car designer?
+Question2: Being a mechanical engineer yet to complete my degree, what do I have to do to become a design engineer (car designer)?
+
+Question1: I have to complete my mechanical engineering. What do I have to do become a car manufacturer & car designer?
+Question2: Being a mechanistic engineer yet to complete my degree, what do I have to do to become a design engineer (car designer)?
+--------------------------------------------- Result 224 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the name of the Gintama episode from which this GIF is taken?
+Question2: If gravity and acceleration have same unit m/s^2, why no one thought gravity is a kind of acceleration before Einstein?
+--------------------------------------------- Result 225 ---------------------------------------------
+Not_duplicate (90%) --> Duplicate (77%)
+
+Question1: "What Philosophical Ideas are in ""The Purge"""
+Question2: "What philosophical ideas are there in ""The Purge: Anarchy”?"
+
+Question1: "What Philosophical Ideas are in ""The Purge"""
+Question2: "What philosophical ideas are there in ""The Purge: Chaotic”?"
+--------------------------------------------- Result 226 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (65%)
+
+Question1: Is it healthy to eat egg whites every day?
+Question2: Is it healthy to eat one chicken every day?
+
+Question1: Is it healthy to eat egg whites every day?
+Question2: Is it healthy to eat one fowl each daytime?
+--------------------------------------------- Result 227 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "What are some sentence examples using ""censure""?"
+Question2: "What are some sentence examples using ""absolve""?"
+--------------------------------------------- Result 228 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (91%)
+
+Question1: It took me two hours to find my way back to earth wit an planetarium, is there a better way?
+Question2: It took me two hours to find my way back to earth with a planetarium, is there a better way?
+
+Question1: It took me two hours to find my way back to earth wit an planetarium, is there a better way?
+Question2: It took me three hours to find my way back to earth with a planetarium, is there a better way?
+--------------------------------------------- Result 229 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are some good side dishes for pesto chicken?
+Question2: What are side dishes for salmon patties?
+--------------------------------------------- Result 230 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (61%)
+
+Question1: How will the scrapping of Rs 500 and Rs 1000 notes help in reducing black money and corruption?
+Question2: How will issuing of new 2000 Rs notes help curb black money and corruption?
+
+Question1: How will the scrapping of Rs 500 and Rs 1000 notes help in reducing black money and corruption?
+Question2: How will broadcasts of nouvelle 2000 Rs score help reduce black money and corruption?
+--------------------------------------------- Result 231 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (99%)
+
+Question1: Why are Blonde Mongolia rare in America?
+Question2: Why are Blonde Mongolian rare in America?
+
+Question1: Why are Blonde Mongolia rare in America?
+Question2: Why are Blonde Tamerlane rare in America?
+--------------------------------------------- Result 232 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (54%)
+
+Question1: How can I download a video from this website?
+Question2: How do I download videos from a website on an iPad?
+
+Question1: How can I download a video from this website?
+Question2: How soaps me download videos from a www on an iPad?
+--------------------------------------------- Result 233 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is The Magnificent Seven (movie) inspired by any book or film?
+Question2: What is your review of The Magnificent Seven (1960 movie)?
+--------------------------------------------- Result 234 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the differences between sheep, lamb, goat, ram and mutton?
+Question2: What's the difference between a lamb and a goat?
+--------------------------------------------- Result 235 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the meaning of prestitute?
+Question2: What is a snooker in 8 ball pool?
+--------------------------------------------- Result 236 ---------------------------------------------
+Not_duplicate (96%) --> Duplicate (50%)
+
+Question1: How should one prepare for a campus placement?
+Question2: Do I have enough time to prepare for my campus placement?
+
+Question1: How should one prepare for a campus placement?
+Question2: Achieve I have enough time to prepare for my campus placement?
+--------------------------------------------- Result 237 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: Is reservation necessary in India?
+Question2: Is there any need for reservation in India?
+
+Question1: Is reservation necessary in India?
+Question2: Is there any need for storeroom in India?
+--------------------------------------------- Result 238 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: Where can I get best legal support for property transaction in Sydney?
+Question2: Where can I hire experienced professional for any property transaction in Sydney?
+
+Question1: Where can I get best legal support for property transaction in Sydney?
+Question2: Where can I hire experienced professional for any property transaction in Sidney?
+--------------------------------------------- Result 239 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (69%)
+
+Question1: I have a $100, where should I invest?
+Question2: I want to invest $100, where can I invest it?
+
+Question1: I have a $100, where should I invest?
+Question2: I dont to invest $100, where can I reverses it?
+--------------------------------------------- Result 240 ---------------------------------------------
+Not_duplicate (72%) --> Duplicate (55%)
+
+Question1: What are the good reference books for IIT jee PCM?
+Question2: What are the best reference books for IIT JEE?
+
+Question1: What are the good reference books for IIT jee PCM?
+Question2: What are the best reference textbooks for IIT JEE?
+--------------------------------------------- Result 241 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (98%)
+
+Question1: What are the top SEO/Digital marketing companies in delhi?
+Question2: Which are the best companies for search engine optimization in Delhi?
+
+Question1: What are the top SEO/Digital marketing companies in delhi?
+Question2: Which are the best companies for search engine optimization in Kolkata?
+--------------------------------------------- Result 242 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do you remove a coconut oil stain from a cotton shirt?
+Question2: How can we remove oil stains from silk sarees?
+--------------------------------------------- Result 243 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (61%)
+
+Question1: Could not get user data from social network?
+Question2: What if social networks didn't consume any data?
+
+Question1: Could not get user data from social network?
+Question2: What if social web didn't comer any database?
+--------------------------------------------- Result 244 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (54%)
+
+Question1: How can I get MOOC/E-learning through online web and video courses related to physiotherapy developed by Indian professorial/professors?
+Question2: How can I get MOOC/E-learning through online web and video courses related to pharmacovigilance developed by Indian professorial/professors?
+
+Question1: How can I get MOOC/E-learning through online web and video courses related to physiotherapy developed by Indian professorial/professors?
+Question2: Consequently can me perceives MOOC/E-learning through online cyber and video programmes linking to pharmacovigilance industrialized by Indian supercilious/teacher?
+--------------------------------------------- Result 245 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (77%)
+
+Question1: What do people of Pakistan think about Uri attack?
+Question2: How are the responses by educated people of Pakistan on the Uri attack?
+
+Question1: What do people of Pakistan think about Uri attack?
+Question2: Practices are the responses by educated people of Pakistan on the Orie attack?
+--------------------------------------------- Result 246 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: How can I avoid sleepiness during lectures?
+Question2: How do I avoid sleeping during the lectures?(a serious jee aspirant)
+
+Question1: How can I avoid sleepiness during lectures?
+Question2: How do I avoid sleeping during the soapbox?(a serious jee aspirant)
+--------------------------------------------- Result 247 ---------------------------------------------
+Not_duplicate (98%) --> Duplicate (53%)
+
+Question1: How do you track a FedEx package with a door tag number?
+Question2: How can I track a fed ex package without a tracking number?
+
+Question1: How do you track a FedEx package with a door tag number?
+Question2: How can I track a fed ex wrapped without a tracking number?
+--------------------------------------------- Result 248 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (61%)
+
+Question1: What are the best nursing homes?
+Question2: What are the best nursing homes in houston?
+
+Question1: What are the best nursing homes?
+Question2: What are the best nursing abode in texan?
+--------------------------------------------- Result 249 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Biswapati Sarkar: Which is your favourite comedian?
+Question2: Who is the most hated comedian among comedians?
+--------------------------------------------- Result 250 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (99%)
+
+Question1: What are the best human resources?
+Question2: Who are the best human resources?
+
+Question1: What are the best human resources?
+Question2: Who are the best human cures?
+--------------------------------------------- Result 251 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why do doctors ask you if you have any loose teeth before surgery?
+Question2: Do doctors ever do surgery on themselves?
+--------------------------------------------- Result 252 ---------------------------------------------
+Not_duplicate (97%) --> [SKIPPED]
+
+Question1: What is to be believed? Science or religion?
+Question2: Should I believe in science or religion?
+--------------------------------------------- Result 253 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is taboo?
+Question2: What are some taboos in science?
+--------------------------------------------- Result 254 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (90%)
+
+Question1: What are the dumbest questions ever asked on Quora?
+Question2: What is the most stupid question asked on Quora?
+
+Question1: What are the dumbest questions ever asked on Quora?
+Question2: What is the most silly question asked on Quora?
+--------------------------------------------- Result 255 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (99%)
+
+Question1: When did you realize that you've grown up?
+Question2: What was that one moment when you realized you have grown up?
+
+Question1: When did you realize that you've grown up?
+Question2: What was that one today when you made you have grown up?
+--------------------------------------------- Result 256 ---------------------------------------------
+Duplicate (67%) --> Not_duplicate (74%)
+
+Question1: What are the similarities and differences between Pakistani Punjab and Indian Punjab?
+Question2: What are the differences between Indian Punjab and Pakistani Punjab?
+
+Question1: What are the similarities and differences between Pakistani Punjab and Indian Punjab?
+Question2: What are the differences between Indian Punjab and Peshawar Punjab?
+--------------------------------------------- Result 257 ---------------------------------------------
+Not_duplicate (76%) --> [SKIPPED]
+
+Question1: If you have to place a mobile tower at your plot or house, how would you do it?
+Question2: How do I contact a mobile tower installation company for an installation in my land?
+--------------------------------------------- Result 258 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What should I do when my wife likes to talk with other men I don't like?
+Question2: Why don't women like cocky men?
+--------------------------------------------- Result 259 ---------------------------------------------
+Not_duplicate (61%) --> [SKIPPED]
+
+Question1: Is there anyways to increase Jio 4G speed?
+Question2: How can I increase my Jio 4G speed?
+--------------------------------------------- Result 260 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Which is a suitable solar panel installation provider near South Gate, California CA?
+Question2: Which is a good solar panel installation provider near Stinson Beach, California CA?
+--------------------------------------------- Result 261 ---------------------------------------------
+Duplicate (97%) --> [SKIPPED]
+
+Question1: How should I proceed with my life?
+Question2: How should I proceed in life?
+--------------------------------------------- Result 262 ---------------------------------------------
+Duplicate (83%) --> Not_duplicate (100%)
+
+Question1: Are cats color blind? Why or why not?
+Question2: Are cats or dogs color blind?
+
+Question1: Are cats color blind? Why or why not?
+Question2: Are hamsters or dogs color blind?
+--------------------------------------------- Result 263 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (58%)
+
+Question1: What is the best way to form a question?
+Question2: How do I form a question with do and did?
+
+Question1: What is the best way to form a question?
+Question2: How suis I form a question with done and did?
+--------------------------------------------- Result 264 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (74%)
+
+Question1: Why does Quora mark so many questions as needing improvement?
+Question2: Why does Quora always mark my question as needing clarification but does not specify the reason?
+
+Question1: Why does Quora mark so many questions as needing improvement?
+Question2: Why does Quora necessarily mark my question as needing lucidity but does not specify the reason?
+--------------------------------------------- Result 265 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (52%)
+
+Question1: If you are a good listener, you will find that every person has his own opinions, and people's opinions contradict each other, everyone thinks that he is right. My question, why do you think that you are right, why do you think that your opinion is right?
+Question2: What do you call a person who thinks he/she is always right, and any other opinion is wrong? How do you deal with such a person?
+
+Question1: If you are a good listener, you will find that every person has his own opinions, and people's opinions contradict each other, everyone thinks that he is right. My question, why do you think that you are right, why do you think that your opinion is right?
+Question2: What ca you asked a person who thinks he/she is invariably right, and any other opinion is wrong? Why ca you deals with such a everyone?
+--------------------------------------------- Result 266 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (97%)
+
+Question1: How do I gain weight in a month ?
+Question2: How do I gain weight within a month?
+
+Question1: How do I gain weight in a month ?
+Question2: How do I gain weight within a week?
+--------------------------------------------- Result 267 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: In what situations will Amazon cancel an order?
+Question2: How can you cancel an order made through Gilt?
+--------------------------------------------- Result 268 ---------------------------------------------
+Duplicate (95%) --> [SKIPPED]
+
+Question1: What are the best books on data structures?
+Question2: What are the best books for learning data structures?
+--------------------------------------------- Result 269 ---------------------------------------------
+Not_duplicate (93%) --> [SKIPPED]
+
+Question1: What is the weirdest thing you collect?
+Question2: What would be the weirdest thing to collect?
+--------------------------------------------- Result 270 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (52%)
+
+Question1: How do I start a program while anchoring?
+Question2: How do I become confident while anchoring?
+
+Question1: How do I start a program while anchoring?
+Question2: How do I se hopeful while anchoring?
+--------------------------------------------- Result 271 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Do swiping machines in shops have a limit on the amount to be drawn like the ATM machines?
+Question2: Photons are 'bend' downwards by mass; what does this say about the relation between photons and gravity (tons) and which particles would bend upwards?
+--------------------------------------------- Result 272 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How is the Faculty of Civil Engineering of TU Dresden, Germany?
+Question2: I got into ACCESS (Computational Civil Masters) in TU Dresden. Can I have an advice on the programme, and career options for an international student?
+--------------------------------------------- Result 273 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What gets you upset about being a leader?
+Question2: My boyfriend gets upset when I tell him that I feel a certain way about our relationship. What do I do?
+--------------------------------------------- Result 274 ---------------------------------------------
+Duplicate (95%) --> Not_duplicate (99%)
+
+Question1: Why do we waste food?
+Question2: Why do we waste so much food?
+
+Question1: Why do we waste food?
+Question2: Why do we jingles so much food?
+--------------------------------------------- Result 275 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Does the 'friend's with benefits' concept exist in Gurgaon?
+Question2: Which Historical TV series should watch?
+--------------------------------------------- Result 276 ---------------------------------------------
+Not_duplicate (91%) --> Duplicate (89%)
+
+Question1: What enemies do grizzly bears have?
+Question2: How do grizzly bears defend themselves?
+
+Question1: What enemies do grizzly bears have?
+Question2: Pourquoi do grizzly bears defend themselves?
+--------------------------------------------- Result 277 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: What's your idea about islam?
+Question2: What you think about Islam?
+
+Question1: What's your idea about islam?
+Question2: What you think about Iran?
+--------------------------------------------- Result 278 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How tall will I be if I am 5'2 and I am 13?
+Question2: How well can you predict a child's (adult) height from information about their parents?
+--------------------------------------------- Result 279 ---------------------------------------------
+Not_duplicate (51%) --> [SKIPPED]
+
+Question1: How can I learn how to write the Biblical Hebrew alphabet?
+Question2: How do you learn to write Biblical Hebrew?
+--------------------------------------------- Result 280 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (53%)
+
+Question1: After the U.S. dropped a nuclear bomb on Japan why didn't Japan fight back?
+Question2: When Japan got hit with the atomic bomb why didn't they fight back?
+
+Question1: After the U.S. dropped a nuclear bomb on Japan why didn't Japan fight back?
+Question2: When Osaka got hit with the atomic bomb why didn't they fight back?
+--------------------------------------------- Result 281 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why does my car's air conditioning smell bad?
+Question2: Where can I get my car's air conditioning fixed in Tijuana?
+--------------------------------------------- Result 282 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is it harmful for my body to orgasm just by imagining something rather than masturbating when I feel extremely horny? (I am celibate)
+Question2: What is the best way to lose weight for a pear body type? I want to know about balancing the body rather than just shrinking the body overall.
+--------------------------------------------- Result 283 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why most of the mobile companies provide very short charger/cable?
+Question2: I have the legitimate Apple charger, but I am using a third party mobile cable. Will it damage my iPhone?
+--------------------------------------------- Result 284 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What would they do to you when you come to class late in your college?
+Question2: What college classes help the most when it comes to being an entrepreneur?
+--------------------------------------------- Result 285 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the best investment avenues in present situation?
+Question2: Can a full time employee be successful in investing on stock markets and other potential investments to generate passive income?
+--------------------------------------------- Result 286 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is Agilent Technologies?
+Question2: What is Agile?
+--------------------------------------------- Result 287 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Step by step: How does a EMV contact card payment work?
+Question2: What is the difference between a contactless card and an EMV card?
+--------------------------------------------- Result 288 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What were some of Obama's daily habits when he was at Harvard Law?
+Question2: How would Barack Obama have been remembered if he were not reelected in 2012?
+--------------------------------------------- Result 289 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (79%)
+
+Question1: Why do people ask so many Googleable questions on Quora?
+Question2: Why do so many people ask things on Quora that they could just as easily Google?
+
+Question1: Why do people ask so many Googleable questions on Quora?
+Question2: Why do similarly many people poser things on Quora that they could just as easily Twitter?
+--------------------------------------------- Result 290 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Are antimatter and dark matter the same thing?
+Question2: "What would the implications be if we discovered there is no such thing as ""dark matter?"""
+--------------------------------------------- Result 291 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (56%)
+
+Question1: What should I do when I forgot my Instagram password and email?
+Question2: What should I do if I forgot my Instagram password and email?
+
+Question1: What should I do when I forgot my Instagram password and email?
+Question2: What should I do if I forgot my Instagram password and message?
+--------------------------------------------- Result 292 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (51%)
+
+Question1: How will abolishing rs.500 and rs.1000 notes reduce corruption and identifying black money?
+Question2: How will the new currency notes of denomination 500 and 2000 curb black money?
+
+Question1: How will abolishing rs.500 and rs.1000 notes reduce corruption and identifying black money?
+Question2: Patterns wanting the ny currency notes of denomination 500 and 2000 downsize black qian?
+--------------------------------------------- Result 293 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why is there bad smell in some of New Jersey's cities?
+Question2: How do I connect mysql to swift using novi’s mysql-swift ? I'm just started on making ios app and making app in general.
+--------------------------------------------- Result 294 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (95%)
+
+Question1: Is it worth buying iPhone 7?
+Question2: Is iPhone 7 worth buying?
+
+Question1: Is it worth buying iPhone 7?
+Question2: Is ipods 7 worth buying?
+--------------------------------------------- Result 295 ---------------------------------------------
+Duplicate (75%) --> Not_duplicate (95%)
+
+Question1: What is the function of nucleoid in a bacteria?
+Question2: What is the function of a nucleoid in a bacteria cell?
+
+Question1: What is the function of nucleoid in a bacteria?
+Question2: What is the function of a nucleoid in a microbes cell?
+--------------------------------------------- Result 296 ---------------------------------------------
+Duplicate (92%) --> Not_duplicate (72%)
+
+Question1: Can nose picking permanently change the shape or size of your nose or your nostrils?
+Question2: Can picking your nose change its shape permanently?
+
+Question1: Can nose picking permanently change the shape or size of your nose or your nostrils?
+Question2: Can perceive your nasal change its shape permanently?
+--------------------------------------------- Result 297 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What does it mean when a car's battery light turns on while the car is moving (eventually car decelerates and stops)?
+Question2: How do I keep my car light on without my battery dying?
+--------------------------------------------- Result 298 ---------------------------------------------
+Not_duplicate (94%) --> [SKIPPED]
+
+Question1: How google's captcha recaptcha works?
+Question2: How does Google's new NOCAPTCHA reCAPTCHA work?
+--------------------------------------------- Result 299 ---------------------------------------------
+Not_duplicate (86%) --> [SKIPPED]
+
+Question1: Why should i believe in astrology?
+Question2: Do you believe in astrology?
+--------------------------------------------- Result 300 ---------------------------------------------
+Duplicate (91%) --> Not_duplicate (100%)
+
+Question1: How do I memorize faster?
+Question2: How do you memorize faster for my exam tomorrow?
+
+Question1: How do I memorize faster?
+Question2: How do you shops faster for my exam tomorrow?
+--------------------------------------------- Result 301 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (56%)
+
+Question1: Do middle class people shop at thrift stores?
+Question2: Is it wrong for someone to shop at a thrift store if they can afford not to?
+
+Question1: Do middle class people shop at thrift stores?
+Question2: Happens it incorrect for personality to shop at a thrift shop if they can afford not to?
+--------------------------------------------- Result 302 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (69%)
+
+Question1: What are some coolest camping gadgets that exist that most people don't know about?
+Question2: What are the best new products or gadgets that most people don't know about?
+
+Question1: What are some coolest camping gadgets that exist that most people don't know about?
+Question2: What are the best new supplies or gadgets that most populations don't knowthat about?
+--------------------------------------------- Result 303 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (55%)
+
+Question1: How do I get a job as a film and TV critic?
+Question2: How do I become a film critic? I live in london.
+
+Question1: How do I get a job as a film and TV critic?
+Question2: How do I become a film criticizes? I live in london.
+--------------------------------------------- Result 304 ---------------------------------------------
+Not_duplicate (86%) --> Duplicate (89%)
+
+Question1: Why don't critics like Pokémon Ranger and the Temple of the Sea?
+Question2: Why is Pokémon Ranger and the Temple of the Sea problematic?
+
+Question1: Why don't critics like Pokémon Ranger and the Temple of the Sea?
+Question2: Why is Celebi Ranger and the Temple of the Sea problematic?
+--------------------------------------------- Result 305 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Creative ways of saying 'thank you for following' on twitter?
+Question2: How do I get more followers on Instagram?
+--------------------------------------------- Result 306 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What material are thoughts made of?
+Question2: What is your deepest thought?
+--------------------------------------------- Result 307 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: How are the Indians affected if Donald Trump wins the presidential election in the US?
+Question2: What might be the implications and repercussions on India if Donald Trump wins US Presidential elections?
+
+Question1: How are the Indians affected if Donald Trump wins the presidential election in the US?
+Question2: What might be the implications and repercussions on Indiana if Donald Trump wins US Presidential elections?
+--------------------------------------------- Result 308 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (97%)
+
+Question1: How would you weigh a jet plane without using scales?
+Question2: How would you weigh a plane without scales?
+
+Question1: How would you weigh a jet plane without using scales?
+Question2: How would you weigh a plane without balances?
+--------------------------------------------- Result 309 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (55%)
+
+Question1: Would like baby. Am 55 Can you help me become fertile? Have no periods
+Question2: Can you help me have baby? Amm 55 No periods. No eggs. I Would like to get fertile.
+
+Question1: Would like baby. Am 55 Can you help me become fertile? Have no periods
+Question2: Can you helped me enjoy honey? Amm 55 Neither periods. Neither eggs. I Dont like to get fertile.
+--------------------------------------------- Result 310 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How can I meet Malala Yousafzai?
+Question2: Did western media overhype Malala?
+--------------------------------------------- Result 311 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (59%)
+
+Question1: Development Practice: Have you ever worked on a successful environment project in urban South Asia? What made it successful?
+Question2: Development Practice: Have you ever worked on a successful water project in urban South Asia? What made it successful?
+
+Question1: Development Practice: Have you ever worked on a successful environment project in urban South Asia? What made it successful?
+Question2: Evolutionary Practice: Have you ever worked on a successful eau plan in urban South Asia? What made it effective?
+--------------------------------------------- Result 312 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (97%)
+
+Question1: What are some scary horror stories that happened in real life?
+Question2: What are the horror stories witnessed by real life?
+
+Question1: What are some scary horror stories that happened in real life?
+Question2: What are the consternation stories witnessed by real life?
+--------------------------------------------- Result 313 ---------------------------------------------
+Duplicate (63%) --> [SKIPPED]
+
+Question1: Were is the moon?
+Question2: What is the moon?
+--------------------------------------------- Result 314 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (52%)
+
+Question1: I came to know after 17 years that I am adopted. What should I do?
+Question2: I came to know after 21 years that I am adopted. What should I do?
+
+Question1: I came to know after 17 years that I am adopted. What should I do?
+Question2: I come to know after 21 centuries that I am adopted. What should I do?
+--------------------------------------------- Result 315 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How can you cook spaghetti noodles in the microwave?
+Question2: What's the best way to cook spaghetti noodles?
+--------------------------------------------- Result 316 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (67%)
+
+Question1: I want to start writing. How and where do I start?
+Question2: I want to start writing. How should I start?
+
+Question1: I want to start writing. How and where do I start?
+Question2: I want to commence writing. Styling should I lancer?
+--------------------------------------------- Result 317 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (77%)
+
+Question1: Why are some regions more earthquake-prone than others?
+Question2: Why are some areas of the world more prone to earthquakes than others?
+
+Question1: Why are some regions more earthquake-prone than others?
+Question2: Where are some minefields of the world more prone to seismic than others?
+--------------------------------------------- Result 318 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (86%)
+
+Question1: What are the first physical signs of aging?
+Question2: What are the first signs of getting old?
+
+Question1: What are the first physical signs of aging?
+Question2: What are the first signs of getting yesteryear?
+--------------------------------------------- Result 319 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (100%)
+
+Question1: Does God exist, according to science? If so, how?
+Question2: According to scientists, does God exist?
+
+Question1: Does God exist, according to science? If so, how?
+Question2: According to scientists, does Dieu exist?
+--------------------------------------------- Result 320 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "In French, how do you say ""was""?"
+Question2: "In French, how do you say ""pens""?"
+--------------------------------------------- Result 321 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How can we calculate GDP GROWTH?
+Question2: How can GST add to 1% GDP growth?
+--------------------------------------------- Result 322 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (83%)
+
+Question1: Which is the best coaching institute for medical entrance exam in India?
+Question2: What is the best online coach for medical post-graduate entrance exam preparation?
+
+Question1: Which is the best coaching institute for medical entrance exam in India?
+Question2: What is the best online coach for medecine post-graduate entrance exam preparation?
+--------------------------------------------- Result 323 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How many cups of tea can a person drink in one day before it becomes unhealthy?
+Question2: Can drinking green tea have negative effects after drinking a modest amount like 2-5 cups?
+--------------------------------------------- Result 324 ---------------------------------------------
+Duplicate (91%) --> [SKIPPED]
+
+Question1: How do you prove the area of an equilateral triangle?
+Question2: How does one determine the area of an equilateral triangle?
+--------------------------------------------- Result 325 ---------------------------------------------
+Duplicate (59%) --> [SKIPPED]
+
+Question1: How do I learn Tamil on my own?
+Question2: How can I learn Tamil?
+--------------------------------------------- Result 326 ---------------------------------------------
+Duplicate (70%) --> Not_duplicate (100%)
+
+Question1: What are the benefits of adding boiled chicken to your diet?
+Question2: How effective is the boiled chicken diet?
+
+Question1: What are the benefits of adding boiled chicken to your diet?
+Question2: How effective is the stewed chicken diet?
+--------------------------------------------- Result 327 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Plea Bargaining: Is pleading guilty considered being convicted?
+Question2: How can I plead not guilty when I get two driving tickets?
+--------------------------------------------- Result 328 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is the drop in the interest rates by banks due to demonetization or due to loan write off?
+Question2: Is taking home loan from government bank right now wise, when Europe might witness its another bubble burst due to such low interest rates?
+--------------------------------------------- Result 329 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: What is the difference between sociology and psychology?
+Question2: What's the difference between sociology and psychology?
+
+Question1: What is the difference between sociology and psychology?
+Question2: What's the difference between anthropology and psychology?
+--------------------------------------------- Result 330 ---------------------------------------------
+Duplicate (72%) --> Not_duplicate (72%)
+
+Question1: How do I get over someone I can never be with?
+Question2: How do I get over someone special to me?
+
+Question1: How do I get over someone I can never be with?
+Question2: Modus do I get over someone special to me?
+--------------------------------------------- Result 331 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the things you hate when walking on road?
+Question2: If I walk on the road will I get a pimple?
+--------------------------------------------- Result 332 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (100%)
+
+Question1: How IS TO get into MIT?
+Question2: What are the requirements for selection into MIT?
+
+Question1: How IS TO get into MIT?
+Question2: What are the requirements for selection into ERT?
+--------------------------------------------- Result 333 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the best places to visit in dharamshala?
+Question2: What are the best places to visit in Gokarna?
+--------------------------------------------- Result 334 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: My son prays to President Taft everyday, what should I do?
+Question2: What pleases American women?
+--------------------------------------------- Result 335 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What makes Axl Rose's voice unique?
+Question2: Is Axl Rose gay?
+--------------------------------------------- Result 336 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Do you know any website relating how rich is bob costas?
+Question2: Is it considered double murder when a person kills a pregnant woman? If so, is it not considered a murder when the woman willingly aborts the fetus?
+--------------------------------------------- Result 337 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (50%)
+
+Question1: What is the difference between traditional funds and hedge funds?
+Question2: What is the difference between a hedge fund and an investment boutique?
+
+Question1: What is the difference between traditional funds and hedge funds?
+Question2: What is the distinctions between a hedge moneys and an investment platt?
+--------------------------------------------- Result 338 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (64%)
+
+Question1: Where can I get very friendly assistance in Sydney for buying or refinancing a property?
+Question2: Where can I get best support in Sydney for buying, selling or transferring a property?
+
+Question1: Where can I get very friendly assistance in Sydney for buying or refinancing a property?
+Question2: Where can I get best assistance in Sidney for buying, selling or transferring a property?
+--------------------------------------------- Result 339 ---------------------------------------------
+Duplicate (93%) --> Not_duplicate (55%)
+
+Question1: What should I do when I think everything goes wrong in my life?
+Question2: What do I do when everything goes wrong in my life?
+
+Question1: What should I do when I think everything goes wrong in my life?
+Question2: What do I do when everything goes undue in my life?
+--------------------------------------------- Result 340 ---------------------------------------------
+Duplicate (89%) --> Not_duplicate (100%)
+
+Question1: What is the easiest way to learn how to draw?
+Question2: How can anyone learn how to draw?
+
+Question1: What is the easiest way to learn how to draw?
+Question2: How can anyone learn how to make?
+--------------------------------------------- Result 341 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (99%)
+
+Question1: How can a person control anger?
+Question2: How do I control my emotions and anger?
+
+Question1: How can a person control anger?
+Question2: How do I inspect my thrills and anger?
+--------------------------------------------- Result 342 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the best options for laptops in data science/analysis/machine learning?
+Question2: M.tech in Machine Learning or Data Science?
+--------------------------------------------- Result 343 ---------------------------------------------
+Not_duplicate (93%) --> Duplicate (68%)
+
+Question1: What will be the fees for management quota in medical colleges?
+Question2: What is the fee for management quota in griet?
+
+Question1: What will be the fees for management quota in medical colleges?
+Question2: What is the fee for directorate quota in griet?
+--------------------------------------------- Result 344 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Wondering about this for a long time now: how does the Mars Rover take selfies? I cannot see any extensions or shadows of those carrying a camera.
+Question2: Why is astroindusoot.com a good platform for Online Consultation?
+--------------------------------------------- Result 345 ---------------------------------------------
+Not_duplicate (62%) --> Duplicate (79%)
+
+Question1: What does it feel like to have low self esteem?
+Question2: What is low self esteem?
+
+Question1: What does it feel like to have low self esteem?
+Question2: What is low self regards?
+--------------------------------------------- Result 346 ---------------------------------------------
+Duplicate (85%) --> Not_duplicate (100%)
+
+Question1: What are some crazy facts about cricket?
+Question2: What are some facts about cricket?
+
+Question1: What are some crazy facts about cricket?
+Question2: What are some facts about grasshopper?
+--------------------------------------------- Result 347 ---------------------------------------------
+Not_duplicate (96%) --> Duplicate (77%)
+
+Question1: What is the best car to work on with teenage son?
+Question2: What is a practical car for a teenage girl?
+
+Question1: What is the best car to work on with teenage son?
+Question2: What is a practical car for a teenage mesdames?
+--------------------------------------------- Result 348 ---------------------------------------------
+Duplicate (74%) --> [SKIPPED]
+
+Question1: How do you know what you want to be in life?
+Question2: How do you know what you want in life?
+--------------------------------------------- Result 349 ---------------------------------------------
+Duplicate (80%) --> Not_duplicate (100%)
+
+Question1: Has anyone been able to stop masturbating? If yes, how?
+Question2: How should I stop masturbating?
+
+Question1: Has anyone been able to stop masturbating? If yes, how?
+Question2: How should I stop wanking?
+--------------------------------------------- Result 350 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the important concepts in os?
+Question2: What are the important concepts in C?
+--------------------------------------------- Result 351 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How competitive is the hiring process at Huntsman?
+Question2: What are the seducing movies related to the movie - 'The private lesson’ (1975) ?
+--------------------------------------------- Result 352 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What do I do if my girlfriend tells me she's upset but doesn't want to talk to me about why she's upset?
+Question2: My girlfriend doesn't want to tell her parents about me. What should I do?
+--------------------------------------------- Result 353 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is there an inpatient Drug and Alcohol Rehab Center in Modoc County California?
+Question2: Is there an inpatient Drug and Alcohol Rehab Center in Inyo County California?
+--------------------------------------------- Result 354 ---------------------------------------------
+Duplicate (60%) --> Not_duplicate (100%)
+
+Question1: How do you speak English?
+Question2: How can we speak English?
+
+Question1: How do you speak English?
+Question2: How can we speak Lish?
+--------------------------------------------- Result 355 ---------------------------------------------
+Duplicate (85%) --> [SKIPPED]
+
+Question1: How can I read WhatsApp chats of another person?
+Question2: How do I read someone's WhatsApp messages without any access to their mobile phone?
+--------------------------------------------- Result 356 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: Which are the top ten best Hollywood romantic movies?
+Question2: What are some of the best romantic Hollywood movies?
+
+Question1: Which are the top ten best Hollywood romantic movies?
+Question2: What are some of the best soppy Hollywood movies?
+--------------------------------------------- Result 357 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (81%)
+
+Question1: What is it in for the Ibibo group employees with the Makemytrip merger / Buyout?
+Question2: How do Ibibo Group employees and investors feel about their all-stock acquisition deal now that MakeMytrip stock is up 44%?
+
+Question1: What is it in for the Ibibo group employees with the Makemytrip merger / Buyout?
+Question2: How do Ibibo Group employed and investors feel about their all-stock acquisition deal now that MakeMytrip stock is up 44%?
+--------------------------------------------- Result 358 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (79%)
+
+Question1: What makes a good photo a good photo?
+Question2: Is this a good photo?
+
+Question1: What makes a good photo a good photo?
+Question2: Belongs this a good photo?
+--------------------------------------------- Result 359 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (59%)
+
+Question1: How do I research in computer science at mphil?
+Question2: How do I get into computer science research?
+
+Question1: How do I research in computer science at mphil?
+Question2: Consequently suis me attained into computer science probe?
+--------------------------------------------- Result 360 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (54%)
+
+Question1: What strikes first time visitors as special or unusual when they arrive in Lanús, Argentina?
+Question2: What strikes first time visitors as special or unusual when they arrive in Mendoza, Argentina?
+
+Question1: What strikes first time visitors as special or unusual when they arrive in Lanús, Argentina?
+Question2: What bombing first time sightseeing as especial or strange when they unearth in Mendoza, Argentina?
+--------------------------------------------- Result 361 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (98%)
+
+Question1: What is open market operation?
+Question2: What do you mean by open market operation?
+
+Question1: What is open market operation?
+Question2: What do you mean by open prenup operation?
+--------------------------------------------- Result 362 ---------------------------------------------
+Duplicate (92%) --> Not_duplicate (95%)
+
+Question1: Is Donald Trump really a racist?
+Question2: Why do some people say that Donald Trump is racist?
+
+Question1: Is Donald Trump really a racist?
+Question2: Why do some people say that Donald Trump is supremacist?
+--------------------------------------------- Result 363 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: If NH4Cl dissolves in water, what is the final equation?
+Question2: How is gas dissolved in water?
+--------------------------------------------- Result 364 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (78%)
+
+Question1: Is the Panchayati Raj system really strengthening our democracy, or helping the corruption expansion at the grassroot level?
+Question2: Political Science: Is the Panchayati Raj system really strengthening our democracy, or helping corruption expansion at the grassroots of democracy?
+
+Question1: Is the Panchayati Raj system really strengthening our democracy, or helping the corruption expansion at the grassroot level?
+Question2: Political Science: Becoming the Panchayati Raj system fully reinforce our democracy, or contributed malfeasance expansion at the basis of communism?
+--------------------------------------------- Result 365 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (89%)
+
+Question1: How can I learn Java at home?
+Question2: How can I learn Java from home?
+
+Question1: How can I learn Java at home?
+Question2: Patterns can I learn Java from fireplaces?
+--------------------------------------------- Result 366 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I want to buy my close friend(boy) something techie as a gift, what would you suggest under 10k?
+Question2: I want to gift a jewellrry under 10k to a girl?
+--------------------------------------------- Result 367 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (97%)
+
+Question1: Is long distance relationship works?
+Question2: What does it take for a successful long distance relationship?
+
+Question1: Is long distance relationship works?
+Question2: What does it take for a successful long separator relationship?
+--------------------------------------------- Result 368 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (84%)
+
+Question1: Is India becoming a reservation oriented country ?
+Question2: Is India heading to become a quite Christian country in the future?
+
+Question1: Is India becoming a reservation oriented country ?
+Question2: Is India heading to become a muy Cristian country in the futur?
+--------------------------------------------- Result 369 ---------------------------------------------
+Not_duplicate (94%) --> Duplicate (52%)
+
+Question1: Can I use a Reliance Jio 4G SIM in a 3G phone?
+Question2: Will 4g sim support 3g phone?
+
+Question1: Can I use a Reliance Jio 4G SIM in a 3G phone?
+Question2: Going 4g sim support 3g cellphone?
+--------------------------------------------- Result 370 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How different are the Vietnamese and Khmer languages?
+Question2: Is Vietnamese (language) 'sinicized' Khmer?
+--------------------------------------------- Result 371 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: "How and why did Nixon ""open"" China to relations with the US?"
+Question2: Does the US regret establishing the diplomatic relations with China that caused China to have a chance to reform, open and develop?
+--------------------------------------------- Result 372 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How do I draw shear force and bending moment diagrams (strength of materials)?
+Question2: What is a bending moment?
+--------------------------------------------- Result 373 ---------------------------------------------
+Not_duplicate (82%) --> Duplicate (90%)
+
+Question1: What is Ecnr in passport?
+Question2: How can I check ECNR for a passport?
+
+Question1: What is Ecnr in passport?
+Question2: How can I ascertain ECNR for a passport?
+--------------------------------------------- Result 374 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Which bollywood song do you think suits best for you present situation?
+Question2: "In which situations do you think or say, ""I'm too old for this (shit)""?"
+--------------------------------------------- Result 375 ---------------------------------------------
+Not_duplicate (98%) --> Duplicate (54%)
+
+Question1: Why does the sun rise in the the East and set in the West?
+Question2: Where exactly does the sun rise?
+
+Question1: Why does the sun rise in the the East and set in the West?
+Question2: Why exactly have the sun rise?
+--------------------------------------------- Result 376 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What should I do to prevent depression coming from rain?
+Question2: How can we prevent depression?
+--------------------------------------------- Result 377 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (53%)
+
+Question1: Studying: I have made easy handwritten notes that I bought from Delhi. Are they sufficient for the GATE preparation in ECE?
+Question2: From where can I download different institutes handwritten class notes for GATE & IES examinations for ECE?
+
+Question1: Studying: I have made easy handwritten notes that I bought from Delhi. Are they sufficient for the GATE preparation in ECE?
+Question2: From where can me absolution alia institutes handwritten kind notes for GATE & N examinations for ECE?
+--------------------------------------------- Result 378 ---------------------------------------------
+Duplicate (70%) --> Not_duplicate (68%)
+
+Question1: How can I lose weight fast and never gain it again?
+Question2: Is there a technique to lose weight fast?
+
+Question1: How can I lose weight fast and never gain it again?
+Question2: Is there a technique to lose weighty fast?
+--------------------------------------------- Result 379 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why are LPG storage tanks spherical?
+Question2: How many people are getting LPG?
+--------------------------------------------- Result 380 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Session 2 admission date for MBA admissions in Christ university?
+Question2: What personal characteristics are most important in a spouse?
+--------------------------------------------- Result 381 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the main reasons that humans were able to grow so much while no other species of animals did?
+Question2: What are other reasons we need to keep animal testing?
+--------------------------------------------- Result 382 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: The U.S. has lost Philippines as a pivot in ASEAN. Which other member of ASEAN will the U.S. seek in order to incite a war and make ASEAN another ME?
+Question2: I want to manufacture a product which is patented in the US and the UK. Will it be an issue if I sell it in Asia or Asean?
+--------------------------------------------- Result 383 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: """I didn't received the item yet"": is this grammatically correct?"
+Question2: Which one is grammatically correct?
+--------------------------------------------- Result 384 ---------------------------------------------
+Duplicate (71%) --> Not_duplicate (99%)
+
+Question1: Can women pee standing up?
+Question2: How difficult is it for women to pee standing up?
+
+Question1: Can women pee standing up?
+Question2: How difficult is it for women to tinkle standing up?
+--------------------------------------------- Result 385 ---------------------------------------------
+Duplicate (69%) --> [SKIPPED]
+
+Question1: What are the best technology devices and gadgets for your car?
+Question2: What are the best car gadgets and tools?
+--------------------------------------------- Result 386 ---------------------------------------------
+Duplicate (90%) --> [SKIPPED]
+
+Question1: Will overstaying my visit visa with 3 months affect my spouse visa application?
+Question2: Will overstaying my UK visit visa with 3 months affect my UK spouse visa application?
+--------------------------------------------- Result 387 ---------------------------------------------
+Duplicate (83%) --> Not_duplicate (92%)
+
+Question1: How do I know if someone blocked me on WhatsApp or not?
+Question2: How do I find if someone has blocked me on watsapp?
+
+Question1: How do I know if someone blocked me on WhatsApp or not?
+Question2: How do I find if someone has impede me on watsapp?
+--------------------------------------------- Result 388 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (57%)
+
+Question1: Who would be a better president: Hillary Clinton or Donald Trump?
+Question2: Who will be a better president Donald Trump or Hillary Clinton?
+
+Question1: Who would be a better president: Hillary Clinton or Donald Trump?
+Question2: Who will be a nicer president Donald Trump or Hillary Clinton?
+--------------------------------------------- Result 389 ---------------------------------------------
+Not_duplicate (97%) --> [FAILED]
+
+Question1: How can I turn on Find My iPhone if I don't have my phone?
+Question2: How do you turn on an iPhone 4?
+--------------------------------------------- Result 390 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How is car chassis stiffness measured?
+Question2: What is unit of stiffness?
+--------------------------------------------- Result 391 ---------------------------------------------
+Not_duplicate (55%) --> Duplicate (91%)
+
+Question1: Why does Quora Android app is not working?
+Question2: Why isn't the Quora Android app that good?
+
+Question1: Why does Quora Android app is not working?
+Question2: Why isn't the Quora Android apt that good?
+--------------------------------------------- Result 392 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (100%)
+
+Question1: What are the best available smartphones gadgets?
+Question2: What are some of the best mobile gadgets?
+
+Question1: What are the best available smartphones gadgets?
+Question2: What are some of the best mobile doodads?
+--------------------------------------------- Result 393 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Chances of work for nurses in Germany after taking masters degree?
+Question2: Who are all the astronauts/cosmonauts that have died while on duty?
+--------------------------------------------- Result 394 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are some of the contrasting aspects of India?
+Question2: What are some contrasting aspects of Islam?
+--------------------------------------------- Result 395 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Does touching your belly button make you squeamish?
+Question2: How can I make my belly button smaller?
+--------------------------------------------- Result 396 ---------------------------------------------
+Duplicate (84%) --> [SKIPPED]
+
+Question1: Are you Married?
+Question2: Are you married or not?
+--------------------------------------------- Result 397 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (60%)
+
+Question1: How can I increase followers in Quora?
+Question2: How can I increase my followers count in Quora?
+
+Question1: How can I increase followers in Quora?
+Question2: How can I redouble my followers count in Quora?
+--------------------------------------------- Result 398 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (51%)
+
+Question1: Has Barack Obama been a good President overall?
+Question2: Would President Barack Obama be a good stand-up comedian?
+
+Question1: Has Barack Obama been a good President overall?
+Question2: Them Presidents Clinton Obama remain a good stand-up irreverent?
+--------------------------------------------- Result 399 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can one transfer money on PayTM app using UPI (unified payments interface)? How?
+Question2: Which money transfer/payment API should I use to build a Hybrid mobile app that works in India?
+--------------------------------------------- Result 400 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: What is the meaning of death?
+Question2: What is the exact meaning of death?
+
+Question1: What is the meaning of death?
+Question2: What is the exact meaning of mata?
+--------------------------------------------- Result 401 ---------------------------------------------
+Duplicate (75%) --> [SKIPPED]
+
+Question1: What is the best keyboard for a programmer?
+Question2: What's the best silent keyboard you would recommend to a programmer?
+--------------------------------------------- Result 402 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the chart preparation time for the train 11301?
+Question2: When is the chart preparation time for train 12124?
+--------------------------------------------- Result 403 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (75%)
+
+Question1: What are the pros and cons of gargling hydrogen peroxide?
+Question2: What are the benefits from gargling with hydrogen peroxide?
+
+Question1: What are the pros and cons of gargling hydrogen peroxide?
+Question2: What are the benefits from mouthwash with hydrogen peroxide?
+--------------------------------------------- Result 404 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Does getting root canal cause problem in speaking words clearly? Does it causes mispronunciation of words? Or does it make your mouth feel heavy when you speak in your mind or in general?
+Question2: Does eating meat make us angry or cause any kind of problems with our emotions?
+--------------------------------------------- Result 405 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (100%)
+
+Question1: Which are some political strategy firms in India?
+Question2: What are some political strategy firms working in India?
+
+Question1: Which are some political strategy firms in India?
+Question2: What are some political strategy firms working in Maharashtra?
+--------------------------------------------- Result 406 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the difference between since, for and from?
+Question2: What's the difference between to and for?
+--------------------------------------------- Result 407 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (90%)
+
+Question1: Where are suspension bridges placed?
+Question2: Which place has the most suspension bridges?
+
+Question1: Where are suspension bridges placed?
+Question2: Containing place did the most suspension bridges?
+--------------------------------------------- Result 408 ---------------------------------------------
+Duplicate (85%) --> [SKIPPED]
+
+Question1: Should I trademark the name of my startup?
+Question2: Can I copyright the name of my business?
+--------------------------------------------- Result 409 ---------------------------------------------
+Not_duplicate (98%) --> Duplicate (50%)
+
+Question1: How do you lose belly fat?
+Question2: What are the best ways to reduce and eliminate belly, abdominal, and thigh fat?
+
+Question1: How do you lose belly fat?
+Question2: What are the best ways to reduce and abolition belly, abdominal, and thigh fat?
+--------------------------------------------- Result 410 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: If an x-ray shows possible loosening of total hip arthroplasty, and an MRI of the same indicates no evidence of loosening, which one should I believe?
+Question2: Do tumors show up on X-rays? Why or why not?
+--------------------------------------------- Result 411 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (89%)
+
+Question1: What does it mean when a girl sends mixed signals?
+Question2: Why do women often send mixed signals?
+
+Question1: What does it mean when a girl sends mixed signals?
+Question2: Why do women often send disparate signals?
+--------------------------------------------- Result 412 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Does regular sex make a vagina loose?
+Question2: What does it feel like to have your penis inside a vagina?
+--------------------------------------------- Result 413 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the corporate culture like at West Pharmaceuticals? How is the culture different than other companies?
+Question2: What is the corporate culture like at Alexion Pharmaceuticals? How is the culture different than other companies?
+--------------------------------------------- Result 414 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (84%)
+
+Question1: What is Hillary Clinton's diplomatic attitude toward India? If she becomes president what India should expect from her?
+Question2: What will be Hillary Clinton's India policy if she is elected as the President?
+
+Question1: What is Hillary Clinton's diplomatic attitude toward India? If she becomes president what India should expect from her?
+Question2: What will be Hillary Clinton's Kolkata policy if she is elected as the President?
+--------------------------------------------- Result 415 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (94%)
+
+Question1: Can I retrieve deleted messages on Instagram?
+Question2: How can I get deleted messages from Instagram?
+
+Question1: Can I retrieve deleted messages on Instagram?
+Question2: How can I get deleted proclamations from Instagram?
+--------------------------------------------- Result 416 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I am a MBA student and I want an internship in HR which I am not getting from college, and if by any chance companies are there, stipend is not offered. What should I do?
+Question2: I am a student. I'm 17 and I want a tourist visa for America. Is there any chance to get it? What documents should I work on?
+--------------------------------------------- Result 417 ---------------------------------------------
+Duplicate (95%) --> Not_duplicate (51%)
+
+Question1: Is Edward Snowden a hero or traitor?
+Question2: Is Edward Snowden a hero or a villain? Why?
+
+Question1: Is Edward Snowden a hero or traitor?
+Question2: Becoming Edward Snowden a hero or a villain? How?
+--------------------------------------------- Result 418 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Which is a better place for paragliding, Kamshet or Saputara?
+Question2: For some reason I get anxious when I try to be fearless, cold and emotionless. Is that normal?
+--------------------------------------------- Result 419 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I heard somewhere that the MNNIT Avishkar, the robotics event, has prize money. Is it true?
+Question2: I heard a rumor that Palantir is having an extremely high turnover. Is that true?
+--------------------------------------------- Result 420 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How many devices can be connected to iCloud?
+Question2: How do I connect devices with a WPS setup?
+--------------------------------------------- Result 421 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (84%)
+
+Question1: Can someone track your location because of your cellphone or cell number?
+Question2: Can someone track our location using our phone number?
+
+Question1: Can someone track your location because of your cellphone or cell number?
+Question2: Can someone track our rentals using our phone number?
+--------------------------------------------- Result 422 ---------------------------------------------
+Not_duplicate (90%) --> Duplicate (86%)
+
+Question1: Do Muslims worship the Kaaba or the black stone?
+Question2: How do Muslims reconcile the Quran's anti-idolatry stance and the sacred black stone in Mecca?
+
+Question1: Do Muslims worship the Kaaba or the black stone?
+Question2: How do Muslims reconciling the Quran's anti-idolatry stance and the sacred black stone in Mecca?
+--------------------------------------------- Result 423 ---------------------------------------------
+Not_duplicate (94%) --> Duplicate (55%)
+
+Question1: What were the events that transformed the Roman republic into the Roman Empire?
+Question2: What are the causes of the fall of the Roman Empire?
+
+Question1: What were the events that transformed the Roman republic into the Roman Empire?
+Question2: What are the brings of the fall of the Roman Empire?
+--------------------------------------------- Result 424 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (58%)
+
+Question1: How important should sex be in a relationship?
+Question2: Is it necessary to have sex in relationship?
+
+Question1: How important should sex be in a relationship?
+Question2: Is it necessary to have sex in relate?
+--------------------------------------------- Result 425 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the difference between defence and defense?
+Question2: How do defense and prosecution differ?
+--------------------------------------------- Result 426 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: How do you invest $1000?
+Question2: What is the best way to invest $1000??
+
+Question1: How do you invest $1000?
+Question2: What is the best way to reverse $1000??
+--------------------------------------------- Result 427 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How are mitosis and meiosis related?
+Question2: What is meiosis and mitosis?
+--------------------------------------------- Result 428 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the name for those Japanese restaurants where they make a show of cooking the food at your table?
+Question2: What happens to the food that is cooked by chefs on food channels (once the show is over and they have displayed the dish they made)?
+--------------------------------------------- Result 429 ---------------------------------------------
+Duplicate (94%) --> [SKIPPED]
+
+Question1: How do I start off a novel?
+Question2: How do I start a novel?
+--------------------------------------------- Result 430 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (100%)
+
+Question1: Does tobacco naturally contain nicotine?
+Question2: Does natural tobacco have nicotine?
+
+Question1: Does tobacco naturally contain nicotine?
+Question2: Does natural haze have nicotine?
+--------------------------------------------- Result 431 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How safe is it logging into a bank account through a personal finance site like Perfios and allowing automatic updates?
+Question2: How secure is Perfios to let it handle all the account details?
+--------------------------------------------- Result 432 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is DIAC testing?
+Question2: What is diac?
+--------------------------------------------- Result 433 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What does ECR and ECNR mean on an Indian passport?
+Question2: What is the relevance of Educational Qualification in Indian passport, other than ECR?
+--------------------------------------------- Result 434 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are composite numbers?
+Question2: What makes a number prime or composite?
+--------------------------------------------- Result 435 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the differences between the aorta and the vena cava?
+Question2: When does a baby heart start beating?
+--------------------------------------------- Result 436 ---------------------------------------------
+Duplicate (95%) --> Not_duplicate (56%)
+
+Question1: What are some mind-blowing Wearable gadgets that exist that most people don't know about?
+Question2: What are some mind-blowing Wearable tools that exist that most people don't know about?
+
+Question1: What are some mind-blowing Wearable gadgets that exist that most people don't know about?
+Question2: What are some mind-blowing Wearable utility that exist that most people don't know about?
+--------------------------------------------- Result 437 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How many amperes (amps) come out of a wall outlet?
+Question2: Is it bad to leave my charger in the wall outlet?
+--------------------------------------------- Result 438 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (57%)
+
+Question1: How do I start with learning a new language?
+Question2: What is the best method to learn new language?
+
+Question1: How do I start with learning a new language?
+Question2: What is the best method to learn new dialect?
+--------------------------------------------- Result 439 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is the most disgusting thing that happened to you?
+Question2: What's the most disgusting thing one can do?
+--------------------------------------------- Result 440 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the best Hollywood movies to watch in 2016 (released ones)?
+Question2: What is the best movie you have ever seen?
+--------------------------------------------- Result 441 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What do you call that thing with a hose-like tube attached from your sexual organ to a plastic bag that enables you to pee anywhere?
+Question2: How can I stop my cat from peeing in the kitchen?
+--------------------------------------------- Result 442 ---------------------------------------------
+Not_duplicate (97%) --> [FAILED]
+
+Question1: Should a person join the core or software industry if he has equal interest in both like an ECE person should join telecom or software if he has interest in both equally?
+Question2: Should I join hardware or software industry? I'm interested in both.
+--------------------------------------------- Result 443 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is creatine better than whey protein?
+Question2: Should skinny guys go to a gym for getting better body?
+--------------------------------------------- Result 444 ---------------------------------------------
+Duplicate (89%) --> Not_duplicate (71%)
+
+Question1: What motors are used in railways? Is AC or DC
+Question2: What motors are used in railways? AC or DC?
+
+Question1: What motors are used in railways? Is AC or DC
+Question2: What engines are used in railways? AC or DC?
+--------------------------------------------- Result 445 ---------------------------------------------
+Not_duplicate (97%) --> Duplicate (51%)
+
+Question1: I had sex like 4 days ago and we didn't use a condom. I'm scared he didn't pull out fast enough. Could I be pregnant?
+Question2: I had sex on the 2nd day of her period and I used the withdrawal method. She has a regular 30 day cycle. Could she have gotten pregnant?
+
+Question1: I had sex like 4 days ago and we didn't use a condom. I'm scared he didn't pull out fast enough. Could I be pregnant?
+Question2: I had sex on the 2nd day of her period and I used the withdrawal method. She has a lambda 30 day cycle. Could she was gotten pregnant?
+--------------------------------------------- Result 446 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (62%)
+
+Question1: What is the best Counter-Strike map?
+Question2: What are some of the best Counter Strike videos?
+
+Question1: What is the best Counter-Strike map?
+Question2: What are some of the best Neutralise Strike creedence?
+--------------------------------------------- Result 447 ---------------------------------------------
+Not_duplicate (98%) --> Duplicate (77%)
+
+Question1: How do I find people's psychological weakness?
+Question2: How do people find strength in their weakness?
+
+Question1: How do I find people's psychological weakness?
+Question2: How do person find endowment in their weakness?
+--------------------------------------------- Result 448 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I want to build an app for my company to track our drivers, what technology should I use & integrate to the APP or anything that anyone can recommend?
+Question2: Is there any good SIP with only rs 200 per month instalment?
+--------------------------------------------- Result 449 ---------------------------------------------
+Duplicate (96%) --> Not_duplicate (79%)
+
+Question1: Why is Salman Khan supporting Pakistani actors?
+Question2: Why did Salman Khan support Pakistani artists?
+
+Question1: Why is Salman Khan supporting Pakistani actors?
+Question2: Why did Salman Khan support Kashmir artists?
+--------------------------------------------- Result 450 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: How can I watch Netflix in China?
+Question2: How do you Watch Netflix abroad?
+--------------------------------------------- Result 451 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I'm thinking of moving to Zagreb. What should I know?
+Question2: I own a restaurant in Vizag. What commercial taxes am I liable to pay?
+--------------------------------------------- Result 452 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (96%)
+
+Question1: What is the purpose of life, if not money?
+Question2: What should the purpose of your life?
+
+Question1: What is the purpose of life, if not money?
+Question2: What should the aim of your life?
+--------------------------------------------- Result 453 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: What is a bulk SMS gateway?
+Question2: What is bulk SMS gateway?
+
+Question1: What is a bulk SMS gateway?
+Question2: What is grands SMS gateway?
+--------------------------------------------- Result 454 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are good gifts for a foreign visitor to bring when they're invited to someone's home in Belize for the first time?
+Question2: What are good gifts for a foreign visitor to bring when they're invited to someone's home in Pakistan for the first time?
+--------------------------------------------- Result 455 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (68%)
+
+Question1: Who is the hottest actress in the Bollywood?
+Question2: Who is the sexiest Bollywood actress?
+
+Question1: Who is the hottest actress in the Bollywood?
+Question2: Who is the hottest Bollywood superstar?
+--------------------------------------------- Result 456 ---------------------------------------------
+Not_duplicate (68%) --> [SKIPPED]
+
+Question1: Is Antonio Guterres a good choice to be the next UN Secretary General?
+Question2: Why was Antonio Guterres selected as the next UN Secretary General?
+--------------------------------------------- Result 457 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What's the best advice or the best thing you can say to me? (Read my story first)
+Question2: I'm making my business pitch to commercial lenders in five days, what's the best advice you can give me?
+--------------------------------------------- Result 458 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (100%)
+
+Question1: How do I prepare for civil services?
+Question2: How can I prepare for civil services?
+
+Question1: How do I prepare for civil services?
+Question2: How can I prepare for marital services?
+--------------------------------------------- Result 459 ---------------------------------------------
+Duplicate (99%) --> [FAILED]
+
+Question1: What are your opinions on Brexit?
+Question2: What is your opinion about brexit?
+--------------------------------------------- Result 460 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (65%)
+
+Question1: Which is the best laptop for BE students?
+Question2: What is the best laptop for a programmer?
+
+Question1: Which is the best laptop for BE students?
+Question2: What is the good laptop for a planned?
+--------------------------------------------- Result 461 ---------------------------------------------
+Not_duplicate (62%) --> Duplicate (65%)
+
+Question1: What is the best way to get a girl who is already committed to someone?
+Question2: How do I propose to a girl who is already committed?
+
+Question1: What is the best way to get a girl who is already committed to someone?
+Question2: How do I proposes to a girl who is already committed?
+--------------------------------------------- Result 462 ---------------------------------------------
+Duplicate (92%) --> [SKIPPED]
+
+Question1: What is the function of the umbilical artery and vein?
+Question2: What is the function of the umbilical vein?
+--------------------------------------------- Result 463 ---------------------------------------------
+Duplicate (93%) --> Not_duplicate (100%)
+
+Question1: How do you set up voicemail on an iPhone?
+Question2: How can I active voicemail alerts on my iPhone?
+
+Question1: How do you set up voicemail on an iPhone?
+Question2: How can I active voicemail alerts on my android?
+--------------------------------------------- Result 464 ---------------------------------------------
+Duplicate (98%) --> Not_duplicate (100%)
+
+Question1: How do you put together a job resume?
+Question2: How do I write resume?
+
+Question1: How do you put together a job resume?
+Question2: How do I write repossession?
+--------------------------------------------- Result 465 ---------------------------------------------
+Not_duplicate (93%) --> Duplicate (52%)
+
+Question1: Do married Indian men think it is okay to stay in touch with their ex-girlfriends?
+Question2: Do married Indian girls think it is okay to stay in touch with their ex-boyfriends?
+
+Question1: Do married Indian men think it is okay to stay in touch with their ex-girlfriends?
+Question2: Do married Indian gals think it is okay to stay in touch with their ex-boyfriends?
+--------------------------------------------- Result 466 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (70%)
+
+Question1: What are some affordable tax law firms in Karachi?
+Question2: What are some affordable tax law firms?
+
+Question1: What are some affordable tax law firms in Karachi?
+Question2: What are some affordable taxing legislate firms?
+--------------------------------------------- Result 467 ---------------------------------------------
+Duplicate (88%) --> Not_duplicate (51%)
+
+Question1: What are some of the best books to learn coding?
+Question2: What is the best book to learn coding as a self-study?
+
+Question1: What are some of the best books to learn coding?
+Question2: What is the best book to learn encoded as a self-study?
+--------------------------------------------- Result 468 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can you trust someone who still talks to their ex?
+Question2: My girlfriend is still talking to her ex and they're going to call soon. What do I do? I don't want her to get hurt again.
+--------------------------------------------- Result 469 ---------------------------------------------
+Duplicate (100%) --> [FAILED]
+
+Question1: What is the QuickBooks technical support phone number in New York?
+Question2: How QuickBooks Proavisor Tech support Phone Number is Prominent for getting Solutions?
+--------------------------------------------- Result 470 ---------------------------------------------
+Duplicate (97%) --> Not_duplicate (99%)
+
+Question1: What are the best and most addicting Android games?
+Question2: What are the best addictive Android Games?
+
+Question1: What are the best and most addicting Android games?
+Question2: What are the best addictive Iphone Games?
+--------------------------------------------- Result 471 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (96%)
+
+Question1: Can the Supreme Court of India interfere on the banned of 500 and 1000 notes by the government?
+Question2: Can supreme court in India cancel government decision on demonetization?
+
+Question1: Can the Supreme Court of India interfere on the banned of 500 and 1000 notes by the government?
+Question2: Kan supreme richter in India cancel government decision on demonetization?
+--------------------------------------------- Result 472 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can tortoises eat blueberries? Why?
+Question2: What do tortoises eat?
+--------------------------------------------- Result 473 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Is it right to continue believing you are special and important for some reason?
+Question2: "Do you agree or disagree with the following statement? ""The most important investment for a big company is to improve the efficiency and proficiency of its employees."" Use specific reasons and details to support your answer."
+--------------------------------------------- Result 474 ---------------------------------------------
+Not_duplicate (52%) --> [SKIPPED]
+
+Question1: How do Mormons believe you get to heaven?
+Question2: What do Mormons believe about heaven and how does this affect them?
+--------------------------------------------- Result 475 ---------------------------------------------
+Not_duplicate (100%) --> Duplicate (50%)
+
+Question1: What are 10 places that a teenager MUST visit in South India?
+Question2: What are the top 10 places that I must visit when I am in India?
+
+Question1: What are 10 places that a teenager MUST visit in South India?
+Question2: What are the supreme 10 facilities that I must traveled when me am in Madras?
+--------------------------------------------- Result 476 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (100%)
+
+Question1: Is homosexuality against the laws of nature?
+Question2: Is homosexuality natural?
+
+Question1: Is homosexuality against the laws of nature?
+Question2: Is depravity natural?
+--------------------------------------------- Result 477 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (76%)
+
+Question1: How could I gain weight in a healthy way?
+Question2: How can I gain healthy weight and mass?
+
+Question1: How could I gain weight in a healthy way?
+Question2: Why can I gain unpolluted weight and mass?
+--------------------------------------------- Result 478 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (84%)
+
+Question1: What's the funniest highbrow joke you've ever heard?
+Question2: What is the best joke you have ever heard?
+
+Question1: What's the funniest highbrow joke you've ever heard?
+Question2: What is the best droll you have ever heard?
+--------------------------------------------- Result 479 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Dbms not used?
+Question2: What is DBMS? What are some of its uses?
+--------------------------------------------- Result 480 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (86%)
+
+Question1: What is the best way to avoid questions needing improvement on Quora?
+Question2: Do Quora questions marked as needing improvement still reach the entire Quora user community?
+
+Question1: What is the best way to avoid questions needing improvement on Quora?
+Question2: Do Quora questions marked as oblige improvement still reach the entire Quora user community?
+--------------------------------------------- Result 481 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: I'm testing the effects of video games on reflexes. What are a few good FREE computer games that require quick reflexes?
+Question2: Is there any risk in buying mobile on emi?
+--------------------------------------------- Result 482 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What is dibasic acid?
+Question2: What is acidic oxide?
+--------------------------------------------- Result 483 ---------------------------------------------
+Duplicate (94%) --> Not_duplicate (100%)
+
+Question1: What are the worst things about Bollywood?
+Question2: What do you dislike about Bollywood?
+
+Question1: What are the worst things about Bollywood?
+Question2: What do you dislike about Sharma?
+--------------------------------------------- Result 484 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Handwriting: Is writing in cursive generally faster than printing?
+Question2: Is a print or cursive signature harder to forge?
+--------------------------------------------- Result 485 ---------------------------------------------
+Not_duplicate (99%) --> Duplicate (87%)
+
+Question1: How long does it take to get over depression?
+Question2: Does one get over depression?
+
+Question1: How long does it take to get over depression?
+Question2: Fact one get over depression?
+--------------------------------------------- Result 486 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (100%)
+
+Question1: which laptop will be best under Rs 30,000?
+Question2: What are the best laptops available under INR 30000 (30k)?
+
+Question1: which laptop will be best under Rs 30,000?
+Question2: What are the greatest notebooks available under INR 30000 (30k)?
+--------------------------------------------- Result 487 ---------------------------------------------
+Duplicate (94%) --> [SKIPPED]
+
+Question1: Why has Google not indexed my blog properly?
+Question2: Why is Google not indexing my blog?
+--------------------------------------------- Result 488 ---------------------------------------------
+Duplicate (92%) --> Not_duplicate (51%)
+
+Question1: What are good questions to ask your professor during office hours?
+Question2: What can you ask professors during office hours?
+
+Question1: What are good questions to ask your professor during office hours?
+Question2: What can you ask lecturers during office hours?
+--------------------------------------------- Result 489 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Why do NFL teams wait for draft day to hire players?
+Question2: What percent of NFL 1st round draft choices become All-Pro players?
+--------------------------------------------- Result 490 ---------------------------------------------
+Duplicate (56%) --> Not_duplicate (100%)
+
+Question1: Who are some of the best Indian writers in the English language?
+Question2: Who are the best contemporary Indian writers in English?
+
+Question1: Who are some of the best Indian writers in the English language?
+Question2: Who are the best contemporary Lndian writers in English?
+--------------------------------------------- Result 491 ---------------------------------------------
+Duplicate (100%) --> Not_duplicate (95%)
+
+Question1: What is your view on supreme court current decision on playing national anthem before the start of the movie?
+Question2: Why Supreme Court directed all cinema halls across the country to play the National Anthem before the start of a film?
+
+Question1: What is your view on supreme court current decision on playing national anthem before the start of the movie?
+Question2: Why Paramount Cour directed all cinema halls across the canada to play the Fatherland Anthem before the start of a scene?
+--------------------------------------------- Result 492 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: On FB, if I block a person who is not my friend after sending a message, will it be delivered, or seen?
+Question2: When I send a message to someone who is not a friend on Facebook the message is shown as seen immediately?
+--------------------------------------------- Result 493 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Can I apply for internet banking in Andhra bank without visiting the branch?
+Question2: Is Andhra Bank a nationalized bank? How does it operate?
+--------------------------------------------- Result 494 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What are the factors affecting globalisation?
+Question2: What are the factors that affect the climate of India?
+--------------------------------------------- Result 495 ---------------------------------------------
+Not_duplicate (66%) --> Duplicate (57%)
+
+Question1: What are some of the best work-from-home jobs and where can someone apply?
+Question2: What are some work from home opportunities that aren't a scam?
+
+Question1: What are some of the best work-from-home jobs and where can someone apply?
+Question2: What are some work from home opportunities that aren't a frauds?
+--------------------------------------------- Result 496 ---------------------------------------------
+Duplicate (99%) --> Not_duplicate (63%)
+
+Question1: What are the best hashtags to use to get more exposure on Instagram?
+Question2: Which hashtag will I use to get more likes in Instagram?
+
+Question1: What are the best hashtags to use to get more exposure on Instagram?
+Question2: Which hashtag will I use to get more amour in Instagram?
+--------------------------------------------- Result 497 ---------------------------------------------
+Not_duplicate (87%) --> [SKIPPED]
+
+Question1: What are the advantages of land pollution?
+Question2: What are the advantages of water and land pollution?
+--------------------------------------------- Result 498 ---------------------------------------------
+Not_duplicate (98%) --> Duplicate (95%)
+
+Question1: How long do men have sex normally?
+Question2: How can guys last longer during sex?
+
+Question1: How long do men have sex normally?
+Question2: How can guys past longer during sex?
+--------------------------------------------- Result 499 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: Apple's reminders vs. Wunderlist, which should I use?
+Question2: Can you sync Wunderlist with a calendar?
+--------------------------------------------- Result 500 ---------------------------------------------
+Not_duplicate (100%) --> [FAILED]
+
+Question1: What can I contribute to my school in my own little ways as a student?
+Question2: Can I apply to Yale after 10 years from high school graduation? I'm a foreign student by the way
+Number Of Successful Attacks: 241
+Number Of Failed Attacks: 211
+Number Of Skipped Attacks: 48
+Original Acc[%]: 90.4
+After Attack Acc [%]: 42.2
+Attack Success Rate [%]: 53.32
+Words Per Input: 21.57
+Semantic Sim: 0.9
+Number Changed Words: 1.62
+Perturbed Words [%]: 8.44%
+Average Time Taken [s]: 0.7218
+Avg Number Queries: 116.5

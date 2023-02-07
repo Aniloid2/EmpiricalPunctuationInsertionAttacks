@@ -1,0 +1,5 @@
+Dataset    Model    Method      Original Acc[%]    After Attack Acc [%]    Average Time Taken [s]    Drop [%]
+MR         LSTM     '                        70                      20                      0.09          50
+MR         LSTM     -                        70                      20                      0.09          50
+QQP        XLNet    '                       100                      40                      1.33          60
+QQP        XLNet    -                       100                      50                      1.17          50

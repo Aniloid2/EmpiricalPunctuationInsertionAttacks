@@ -1,0 +1,61 @@
+Dataset    Model       Method      Original Acc[%]    After Attack Acc [%]    Perturbed Words [%]    Semantic Sim    Average Time Taken [s]    Avg Number Queries    Drop [%]
+MR         CNN         Zeroe                  76.6                    75                    11.33            0.88                    0.4007                  1.36         1.6
+MR         CNN         DWB                    76.6                    66.4                   7.41            0.88                    0.8542                 26.23        10.2
+MR         CNN         ZIP -                  76.6                    69                    15               1                       0.2901                  1.98         7.6
+MR         CNN         ZIP '                  76.6                    68.8                  25.94            1                       0.5539                  1.95         7.8
+MR         LSTM        Zeroe                  77                      75.2                   8.49            0.92                    0.4879                  1.35         1.8
+MR         LSTM        DWB                    77                      66                     7.5             0.88                    1.0247                 26.32        11
+MR         LSTM        ZIP -                  77                      66.8                  14.02            1                       0.3308                  1.97        10.2
+MR         LSTM        ZIP '                  77                      65.4                  24.26            1                       0.5739                  1.95        11.6
+MR         BERT        Zeroe                  83.8                    82.2                   7.43            0.89                    0.3426                  1.35         1.6
+MR         BERT        DWB                    83.8                    77.8                   8.4             0.89                    1.0962                 26.95         6
+MR         BERT        ZIP -                  83.8                    78                    13.46            1                       0.4014                  1.98         5.8
+MR         BERT        ZIP '                  83.8                    70                    25.12            1                       0.5532                  1.96        13.8
+MR         RoBERTa     Zeroe                  88                      87.6                  12.27            0.95                    0.2185                  1.36         0.4
+MR         RoBERTa     DWB                    88                      80.8                   8.64            0.87                    0.9447                 26.73         7.2
+MR         RoBERTa     ZIP -                  88                      80.6                  14.26            1                       0.3216                  1.99         7.4
+MR         RoBERTa     ZIP '                  88                      78.2                  24.09            1                       0.4729                  1.96         9.8
+MR         XLNet       Zeroe                  87                      85.6                   6.64            0.95                    0.7718                  1.38         1.4
+MR         XLNet       DWB                    87                      78.2                   7.77            0.88                    1.9823                 26.89         8.8
+MR         XLNet       ZIP -                  87                      79.6                  13.6             1                       0.5011                  1.98         7.4
+MR         XLNet       ZIP '                  87                      76.8                  24.36            1                       0.6806                  1.96        10.2
+MNLI       BERT        Zeroe                  82.8                    75.6                   5.14            0.93                    0.329                   1.24         7.2
+MNLI       BERT        DWB                    82.8                    62.2                   5.94            0.91                    0.8279                 31.89        20.6
+MNLI       BERT        ZIP -                  82.8                    64.6                   6.9             1                       0.2379                  1.93        18.2
+MNLI       BERT        ZIP '                  82.8                    57                    11.2             1                       0.3272                  1.89        25.8
+MNLI       DistilBERT  Zeroe                  80.6                    75.4                   4.73            0.95                    0.3012                  1.26         5.2
+MNLI       DistilBERT  DWB                    80.6                    60.4                   6.15            0.9                     0.7645                 31.82        20.2
+MNLI       DistilBERT  ZIP -                  80.6                    69.6                   7.49            1                       0.1913                  1.92        11
+MNLI       DistilBERT  ZIP '                  80.6                    57.6                  11.99            1                       0.3292                  1.89        23
+SNLI       BERT        Zeroe                  91.2                    86.2                   6.32            0.94                    0.2505                  1.17         5
+SNLI       BERT        DWB                    91.2                    69.4                   6.28            0.89                    0.5844                 23.83        21.8
+SNLI       BERT        ZIP -                  91.2                    61                     6.16            1                       0.1865                  1.84        30.2
+SNLI       BERT        ZIP '                  91.2                    65.8                  10.33            1                       0.2095                  1.79        25.4
+SNLI       DistilBERT  Zeroe                  86.6                    84.2                   6.61            0.92                    0.2391                  1.17         2.4
+SNLI       DistilBERT  DWB                    86.6                    72                     6.13            0.89                    0.434                  24.25        14.6
+SNLI       DistilBERT  ZIP -                  86.6                    74.4                   6.37            1                       0.165                   1.82        12.2
+SNLI       DistilBERT  ZIP '                  86.6                    65.2                  11.37            1                       0.2254                  1.81        21.4
+QNLI       BERT        Zeroe                  91.2                    88.6                   5.94            0.94                    1.6294                  1.54         2.6
+QNLI       BERT        DWB                    91.2                    74                     6.37            0.92                    1.7717                 47.69        17.2
+QNLI       BERT        ZIP -                  91.2                    81.2                  10.69            1                       0.5898                  2           10
+QNLI       BERT        ZIP '                  91.2                    73.4                  21.69            1                       1.0907                  2           17.8
+QNLI       RoBERTa     Zeroe                  92                      90.6                   3.19            0.96                    0.9367                  1.5          1.4
+QNLI       RoBERTa     DWB                    92                      80.6                   5.99            0.93                    1.7655                 47.94        11.4
+QNLI       RoBERTa     ZIP -                  92                      82                    10.59            1                       0.7899                  2           10
+QNLI       RoBERTa     ZIP '                  92                      77                    22.08            1                       1.0432                  2           15
+QNLI       DistilBERT  Zeroe                  86.2                    84.4                   7.36            0.94                    0.9437                  1.54         1.8
+QNLI       DistilBERT  DWB                    86.2                    73.4                   6.23            0.92                    1.6188                 47.96        12.8
+QNLI       DistilBERT  ZIP -                  86.2                    76                    10.14            1                       0.5882                  2           10.2
+QNLI       DistilBERT  ZIP '                  86.2                    66.2                  20.63            1                       1.0017                  1.99        20
+QQP        BERT        Zeroe                  90.4                    87.6                   6.56            0.92                    0.3038                  1.25         2.8
+QQP        BERT        DWB                    90.4                    79.6                   7.48            0.9                     0.6998                 25.79        10.8
+QQP        BERT        ZIP -                  90.4                    74.4                   8.79            1                       0.2272                  1.92        16
+QQP        BERT        ZIP '                  90.4                    68.4                  14.55            1                       0.3317                  1.9         22
+QQP        DistilBERT  Zeroe                  90.8                    87.8                   7.26            0.93                    0.3298                  1.28         3
+QQP        DistilBERT  DWB                    90.8                    79.4                   7.01            0.91                    0.6158                 25.97        11.4
+QQP        DistilBERT  ZIP -                  90.8                    72.8                   8.33            1                       0.1927                  1.93        18
+QQP        DistilBERT  ZIP '                  90.8                    69.8                  14.29            1                       0.2581                  1.93        21
+QQP        XLNet       Zeroe                  91.2                    89.8                   7.26            0.92                    0.8158                  1.27         1.4
+QQP        XLNet       DWB                    91.2                    79.6                   7.44            0.9                     1.6554                 25.95        11.6
+QQP        XLNet       ZIP -                  91.2                    78                     8.77            1                       0.3762                  1.91        13.2
+QQP        XLNet       ZIP '                  91.2                    75.8                  14.34            1                       0.455                   1.92        15.4

@@ -1,0 +1,42 @@
+0 egad
+1 moot
+2 hiss
+3 oxer
+4 pess
+5 baud
+6 adrip
+7 swung
+8 droll
+9 delay
+10 zemni
+11 latch
+12 tamper
+13 leptid
+14 posset
+15 capric
+16 pompey
+17 tissue
+18 moonery
+19 screaky
+20 quidder
+21 awfully
+22 sharpie
+23 paeonic
+24 filarian
+25 anagyrin
+26 toucanet
+27 maliform
+28 salmonid
+29 trueborn
+30 rugheaded
+31 unitistic
+32 impetrate
+33 strangles
+34 libration
+35 unruddled
+
+x
+
+21.8
+
+

@@ -1,0 +1,40 @@
+0 ecru
+1 boss
+2 inky
+3 coho
+4 bawn
+5 jacu
+6 union
+7 spitz
+8 skyre
+9 cutup
+10 motey
+11 embus
+12 chlore
+13 billed
+14 cueist
+15 unvain
+16 swiney
+17 stelae
+18 splatch
+19 consume
+20 fantail
+21 placard
+22 sartain
+23 termage
+24 tryptase
+25 benjamin
+26 phasmoid
+27 raptured
+28 monosome
+29 confocal
+30 menaceful
+31 bidentate
+32 unridably
+33 transiter
+34 orthogamy
+35 firespout
+
+xx
+
+29.7

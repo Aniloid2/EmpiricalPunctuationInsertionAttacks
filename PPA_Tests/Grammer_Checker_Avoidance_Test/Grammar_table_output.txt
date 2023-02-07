@@ -1,0 +1,46 @@
+Dataset    Model       Method         Original Acc[%]    After Attack Acc [%]    Perturbed Words [%]    Semantic Sim    Average Time Taken [s]    Avg Number Queries    Drop [%]
+MR         CNN         DeepWordBug               76.6                    66.4                   7.41            0.88                    0.8592                 26.24        10.2
+MR         CNN         PAA -                     76.6                    51.4                  11.54            1                       0.9105                 30.81        25.2
+MR         CNN         PAA '                     76.6                    54                    10.41            1                       0.9642                 28.36        22.6
+MR         LSTM        DeepWordBug               77                      66                     7.5             0.88                    0.9815                 26.31        11
+MR         LSTM        PAA -                     77                      51.8                  11.42            1                       0.9045                 30.78        25.2
+MR         LSTM        PAA '                     77                      55.6                  10.59            1                       0.9318                 28.58        21.4
+MR         BERT        DeepWordBug               83.8                    77.8                   8.4             0.89                    1.1122                 26.95         6
+MR         BERT        PAA -                     83.8                    63                    13.65            1                       1.5517                 32.62        20.8
+MR         BERT        PAA '                     83.8                    64.8                  13.02            1                       1.5662                 29.74        19
+MR         RoBERTa     DeepWordBug               88                      80.8                   8.64            0.87                    0.9207                 26.73         7.2
+MR         RoBERTa     PAA -                     88                      69.8                  12.79            1                       1.2256                 32.89        18.2
+MR         RoBERTa     PAA '                     88                      72.4                  13.16            1                       1.4                    30.2         15.6
+MR         XLNet       DeepWordBug               87                      78.2                   7.77            0.88                    1.9516                 26.89         8.8
+MR         XLNet       PAA -                     87                      66.6                  14.66            1                       2.6057                 33.18        20.4
+MR         XLNet       PAA '                     87                      70.2                  12.19            1                       2.6074                 30.26        16.8
+MNLI       BERT        DeepWordBug               82.8                    62.2                   5.94            0.91                    0.838                  31.9         20.6
+MNLI       BERT        PAA -                     82.8                    37.2                   8.42            1                       0.9807                 34.47        45.6
+MNLI       BERT        PAA '                     82.8                    42.8                   8.48            1                       1.0453                 33.7         40
+MNLI       DistilBERT  DeepWordBug               80.6                    60.4                   6.15            0.9                     0.7419                 31.84        20.2
+MNLI       DistilBERT  PAA -                     80.6                    36.6                   8.33            1                       0.7537                 34.27        44
+MNLI       DistilBERT  PAA '                     80.6                    42                     8.46            1                       0.7782                 33.56        38.6
+SNLI       BERT        DeepWordBug               91.2                    69.4                   6.28            0.89                    0.5665                 23.83        21.8
+SNLI       BERT        PAA -                     91.2                    46.8                   8.11            1                       0.6072                 25.87        44.4
+SNLI       BERT        PAA '                     91.2                    52.4                   7.74            1                       0.5753                 25.08        38.8
+SNLI       DistilBERT  DeepWordBug               86.6                    72                     6.13            0.89                    0.436                  24.25        14.6
+SNLI       DistilBERT  PAA -                     86.6                    47.4                   8.31            1                       0.4864                 26.14        39.2
+SNLI       DistilBERT  PAA '                     86.6                    48.8                   8.42            1                       0.5306                 25.38        37.8
+QNLI       BERT        DeepWordBug               91.2                    74                     6.37            0.92                    1.7309                 47.7         17.2
+QNLI       BERT        PAA -                     91.2                    53.6                   8.82            1                       2.328                  54.23        37.6
+QNLI       BERT        PAA '                     91.2                    55.8                   8.43            1                       2.1387                 51.65        35.4
+QNLI       RoBERTa     DeepWordBug               92                      80.6                   5.99            0.93                    1.7516                 47.93        11.4
+QNLI       RoBERTa     PAA -                     92                      64.8                   9.25            1                       2.2944                 55.95        27.2
+QNLI       RoBERTa     PAA '                     92                      67.2                   8.69            1                       2.2399                 53.65        24.8
+QNLI       DistilBERT  DeepWordBug               86.2                    73.4                   6.23            0.92                    1.5929                 47.95        12.8
+QNLI       DistilBERT  PAA -                     86.2                    55                     7.45            1                       1.7149                 54.44        31.2
+QNLI       DistilBERT  PAA '                     86.2                    55.4                   7.45            1                       1.5197                 51.94        30.8
+QQP        BERT        DeepWordBug               90.4                    79.6                   7.48            0.9                     0.6836                 25.79        10.8
+QQP        BERT        PAA -                     90.4                    60.2                   8.39            1                       0.6826                 28.61        30.2
+QQP        BERT        PAA '                     90.4                    64.8                   8.43            1                       0.7535                 28.02        25.6
+QQP        DistilBERT  DeepWordBug               90.8                    79.4                   7.01            0.91                    0.5912                 25.96        11.4
+QQP        DistilBERT  PAA -                     90.8                    59.6                   8.78            1                       0.5056                 28.74        31.2
+QQP        DistilBERT  PAA '                     90.8                    62.6                   9.08            1                       0.562                  28.07        28.2
+QQP        XLNet       DeepWordBug               91.2                    79.6                   7.44            0.9                     1.664                  25.95        11.6
+QQP        XLNet       PAA -                     91.2                    65.2                  10.99            1                       1.7557                 28.98        26
+QQP        XLNet       PAA '                     91.2                    71.4                  10.29            1                       1.8513                 28.36        19.8
