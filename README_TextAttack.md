@@ -1,38 +1,6 @@
-<h1 align="center">Running EmpiricalPunctuationInsertionAttacks</h1>
+<h1 align="center">TextAttack 🐙</h1>
 
-## Setup
-
-### Installation
-
-Unzip TextAttack (please use this version as it processes punctuation differently)
-```bash
-unzip TextAttack
-```
-
-
-#### Conda
-If conda isn't installed:
-get it from here:
-https://www.anaconda.com/products/individual-d
-if conda is installed:
-```bash
-create env:
-conda create --name PAA python=3.8.5 pip=20.2.4
-source activate PAA
-```
-Please use the exact pip and python versions for initial testing, it's untested for other verisons.
-
-#### Dependencies
-THE FOLLOWING TWO COMMANDS SHOULD INSTALL ALL DEPENDENCIES AND TEXTATTACK FROM THIS REPO USING THE SETUP FILE 
-(MAKE SURE YOU INSTALL THE VERSION OF TEXTATTACK IN THIS REPO)
-```bash
-pip install --use-feature=2020-resolver -r local_run.txt
-pip install -e ./
-```
-
-
-
-<!-- <p align="center">Generating adversarial examples for NLP models</p>
+<p align="center">Generating adversarial examples for NLP models</p>
 
 <p align="center">
   <a href="https://textattack.readthedocs.io/">[TextAttack Documentation on ReadTheDocs]</a> 
@@ -51,9 +19,8 @@ pip install -e ./
 </p>
 
 <img src="http://jackxmorris.com/files/textattack.gif" alt="TextAttack Demo GIF" style="display: block; margin: 0 auto;" />
-   -->
-
-<!-- ## About
+  
+## About
 
 TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP.
 
@@ -604,4 +571,4 @@ If you use TextAttack for your research, please cite [TextAttack: A Framework fo
 }
 ```
 
- -->
+
