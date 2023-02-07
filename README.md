@@ -40,7 +40,7 @@ All dependencies should be installed by now
 Note, treie == CATE == PAA == EmpiricalPunctuationInsertionAttacks == EPIA (we changed the name last minute, we will update the name in the future) 
 
 
-### SENTIMENT MR
+### Sentiment MR
 In [`Classification_Tests/`](Classification_Tests/) run:
 ```bash
 python classification_test.py --recipe 'punctuation_attack';
@@ -56,7 +56,7 @@ To plot the mr results in [`Classification_Tests/`](Classification_Tests/) run:
 python plot_classification_table.py
 ```
 
-### ENTAILMENT MNLI
+### Entailment MNLI
 For MNLI Entailment on BERT
 In [`Entailment_Test/`](Entailment_Test/) run:
 ```bash
