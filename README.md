@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Running EmpiricalPunctuationInsertionAttacks</h1>
 
 ## Setup
@@ -41,7 +43,7 @@ Note, treie == CATE == PAA == EmpiricalPunctuationInsertionAttacks == EPIA (we c
 
 
 ### Sentiment MR
-In [`Classification_Tests/`](Classification_Tests/) run:
+In [`PPA_Tests/Classification_Tests/`](PPA_Tests/Classification_Tests/) run:
 ```bash
 python classification_test.py --recipe 'punctuation_attack';
 ```
@@ -51,14 +53,14 @@ python classification_test.py --recipe 'pso_paa';
 ```
 Will use paa as a multi-level attack together with SememePSO
 
-To plot the mr results in [`Classification_Tests/`](Classification_Tests/) run:
+To plot the mr results in [`PPA_Tests/Classification_Tests/`](PPA_Tests/Classification_Tests/) run:
 ```bash
 python plot_classification_table.py
 ```
 
 ### Entailment MNLI
 For MNLI Entailment on BERT
-In [`Entailment_Test/`](Entailment_Test/) run:
+In [`PPA_Tests/Entailment_Test/`](PPA_Tests/Entailment_Test/) run:
 ```bash
 python entailment.py --recipe 'punctuation_attack';
 python plot_entialment_test.py
@@ -66,7 +68,7 @@ python plot_entialment_test.py
 
 ### Question Answering
 For Question Answering on BERT
-In [`Question_Answering_Test/`](Question_Answering_Test/)
+In [`PPA_Tests/Question_Answering_Test/`](PPA_Tests/Question_Answering_Test/)
 ```bash
 python question_answering.py --recipe 'punctuation_attack';
 python plot_question_answering.py
@@ -620,7 +622,6 @@ A `SearchMethod` takes as input an initial `GoalFunctionResult` and returns a fi
 ## Multi-lingual Support
 
 - See [README_ZH.md](https://github.com/QData/TextAttack/blob/master/README_ZH.md) for our README in Chinese 
-
 
 
 ## Contributing to TextAttack
